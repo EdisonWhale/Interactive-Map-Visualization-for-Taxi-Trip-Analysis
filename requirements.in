@@ -1,0 +1,35 @@
+# ---- Dependency Management
+pip-tools
+
+# ---- Formatting
+black
+black[jupyter]
+isort
+
+# ---- Jupyter
+ipykernel
+
+# ---- Util
+gdown
+
+# ---- Data Source API
+git+https://github.com/m-wrzr/populartimes
+
+# ----- ML/DS
+numpy
+scipy
+pandas
+scikit-learn
+pyarrow
+numba
+
+# ----- Plotting
+dash
+matplotlib
+seaborn
+plotly
+folium
+
+# ----- Geospatial
+geopandas
+shapely

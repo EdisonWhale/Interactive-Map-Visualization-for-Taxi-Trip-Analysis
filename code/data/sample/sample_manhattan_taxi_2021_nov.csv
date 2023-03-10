@@ -1,0 +1,1001 @@
+vendor,pickup_datetime,dropoff_datetime,passenger_count,trip_distance,rate_code,store_and_fwd_flag,pickup_zone,dropoff_zone,payment_type,fare_amount,extra,mta_tax,tip_amount,tolls_amount,improvement_surcharge,total_amount,congestion_surcharge
+VeriFone Inc.,11/28/2021 01:02:49 PM,11/28/2021 01:24:31 PM,1.0,5.03,Standard rate,N,238,107,Credit card,19.0,0.0,0.5,2.0,0.0,0.3,24.3,2.5
+VeriFone Inc.,11/02/2021 12:32:54 PM,11/02/2021 12:43:27 PM,1.0,1.78,Standard rate,N,163,186,Credit card,8.5,0.0,0.5,10.0,0.0,0.3,21.8,2.5
+VeriFone Inc.,11/29/2021 04:02:43 PM,11/29/2021 04:15:45 PM,1.0,1.41,Standard rate,N,234,137,Credit card,9.5,1.0,0.5,3.45,0.0,0.3,17.25,2.5
+VeriFone Inc.,11/25/2021 09:00:13 PM,11/25/2021 09:03:56 PM,1.0,1.51,Standard rate,N,140,75,Cash,6.0,0.5,0.5,0.0,0.0,0.3,9.8,2.5
+"Creative Mobile Technologies, LLC",11/29/2021 05:44:50 PM,11/29/2021 05:56:43 PM,1.0,1.7,Standard rate,N,230,68,Credit card,9.5,3.5,0.5,2.75,0.0,0.3,16.55,2.5
+VeriFone Inc.,11/03/2021 12:00:56 AM,11/03/2021 12:05:06 AM,3.0,0.9,Standard rate,N,48,246,Credit card,5.0,0.5,0.5,1.0,0.0,0.3,9.8,2.5
+"Creative Mobile Technologies, LLC",11/18/2021 11:42:30 AM,11/18/2021 11:47:50 AM,1.0,0.5,Standard rate,N,141,161,Cash,5.5,2.5,0.5,0.0,0.0,0.3,8.8,2.5
+VeriFone Inc.,11/13/2021 03:35:41 PM,11/13/2021 03:47:27 PM,2.0,1.34,Standard rate,N,163,233,Credit card,9.0,0.0,0.5,2.46,0.0,0.3,14.76,2.5
+"Creative Mobile Technologies, LLC",11/06/2021 02:25:17 PM,11/06/2021 02:33:39 PM,2.0,1.4,Standard rate,N,140,43,Credit card,7.5,2.5,0.5,1.5,0.0,0.3,12.3,2.5
+"Creative Mobile Technologies, LLC",11/24/2021 12:41:25 PM,11/24/2021 12:54:08 PM,1.0,1.8,Standard rate,N,170,107,Credit card,10.0,2.5,0.5,3.95,0.0,0.3,17.25,2.5
+VeriFone Inc.,11/04/2021 01:25:33 PM,11/04/2021 01:51:30 PM,2.0,7.78,Standard rate,N,237,13,Credit card,25.0,0.0,0.5,5.66,0.0,0.3,33.96,2.5
+VeriFone Inc.,11/18/2021 11:32:47 PM,11/18/2021 11:42:36 PM,1.0,1.14,Standard rate,N,161,170,Credit card,8.0,0.5,0.5,1.08,0.0,0.3,12.88,2.5
+VeriFone Inc.,11/19/2021 02:08:37 PM,11/19/2021 02:15:55 PM,1.0,3.03,Standard rate,N,88,232,Cash,10.5,0.0,0.5,0.0,0.0,0.3,13.8,2.5
+"Creative Mobile Technologies, LLC",11/29/2021 04:29:27 PM,11/29/2021 04:39:14 PM,1.0,1.0,Standard rate,N,140,237,Credit card,7.5,3.5,0.5,2.0,0.0,0.3,13.8,2.5
+VeriFone Inc.,11/30/2021 09:57:10 AM,11/30/2021 10:17:24 AM,1.0,2.13,Standard rate,N,141,100,Credit card,13.5,0.0,0.5,2.52,0.0,0.3,19.32,2.5
+VeriFone Inc.,11/26/2021 09:42:50 AM,11/26/2021 09:48:57 AM,1.0,1.23,Standard rate,N,237,161,Credit card,6.0,0.0,0.5,1.0,0.0,0.3,10.3,2.5
+"Creative Mobile Technologies, LLC",11/06/2021 11:56:38 PM,11/07/2021 12:10:29 AM,1.0,2.2,Standard rate,N,148,68,Credit card,11.0,3.0,0.5,2.95,0.0,0.3,17.75,2.5
+VeriFone Inc.,11/05/2021 10:22:53 AM,11/05/2021 10:30:14 AM,1.0,0.68,Standard rate,N,74,41,Cash,6.5,0.0,0.5,0.0,0.0,0.3,7.3,0.0
+VeriFone Inc.,11/11/2021 07:50:21 PM,11/11/2021 07:57:55 PM,1.0,1.29,Standard rate,N,48,68,Cash,7.0,1.0,0.5,0.0,0.0,0.3,11.3,2.5
+"Creative Mobile Technologies, LLC",11/13/2021 07:43:20 PM,11/13/2021 07:46:45 PM,1.0,0.4,Standard rate,N,209,87,Credit card,4.0,2.5,0.5,0.0,0.0,0.3,7.3,2.5
+VeriFone Inc.,11/10/2021 06:47:50 PM,11/10/2021 06:59:31 PM,1.0,1.51,Standard rate,N,142,161,Credit card,9.0,1.0,0.5,2.66,0.0,0.3,15.96,2.5
+VeriFone Inc.,11/06/2021 09:46:52 PM,11/06/2021 09:54:29 PM,1.0,0.88,Standard rate,N,163,161,Credit card,6.5,0.5,0.5,2.06,0.0,0.3,12.36,2.5
+VeriFone Inc.,11/19/2021 04:29:41 PM,11/19/2021 04:40:58 PM,1.0,2.04,Standard rate,N,161,234,Credit card,9.5,1.0,0.5,5.0,0.0,0.3,18.8,2.5
+"Creative Mobile Technologies, LLC",11/13/2021 06:07:46 PM,11/13/2021 06:11:59 PM,1.0,0.7,Standard rate,N,113,186,Credit card,5.0,2.5,0.5,1.7,0.0,0.3,10.0,2.5
+VeriFone Inc.,11/30/2021 10:48:13 AM,11/30/2021 10:57:28 AM,1.0,0.94,Standard rate,N,50,68,Cash,7.5,0.0,0.5,0.0,0.0,0.3,10.8,2.5
+"Creative Mobile Technologies, LLC",11/22/2021 10:01:09 AM,11/22/2021 10:03:57 AM,1.0,0.4,Standard rate,N,237,236,Credit card,4.0,2.5,0.5,1.45,0.0,0.3,8.75,2.5
+VeriFone Inc.,11/04/2021 08:14:55 PM,11/04/2021 08:27:39 PM,1.0,1.64,Standard rate,N,68,161,Credit card,9.5,0.5,0.5,2.66,0.0,0.3,15.96,2.5
+VeriFone Inc.,11/22/2021 03:48:54 PM,11/22/2021 04:10:47 PM,2.0,4.51,Standard rate,N,107,237,Credit card,15.5,0.0,0.5,2.0,0.0,0.3,20.8,2.5
+VeriFone Inc.,11/03/2021 12:11:15 PM,11/03/2021 12:19:25 PM,2.0,0.99,Standard rate,N,161,164,Credit card,7.0,0.0,0.5,1.0,0.0,0.3,11.3,2.5
+"Creative Mobile Technologies, LLC",11/20/2021 03:24:34 PM,11/20/2021 03:48:48 PM,1.0,3.6,Standard rate,N,237,237,Cash,17.0,2.5,0.5,0.0,0.0,0.3,20.3,2.5
+VeriFone Inc.,11/23/2021 12:44:02 PM,11/23/2021 12:48:43 PM,1.0,0.68,Standard rate,N,142,239,Credit card,5.0,0.0,0.5,1.66,0.0,0.3,9.96,2.5
+VeriFone Inc.,11/10/2021 07:37:40 PM,11/10/2021 07:45:32 PM,2.0,0.16,Standard rate,N,230,50,Credit card,6.0,1.0,0.5,2.58,0.0,0.3,12.88,2.5
+VeriFone Inc.,11/22/2021 06:25:13 PM,11/22/2021 06:33:42 PM,1.0,1.22,Standard rate,N,163,164,Credit card,7.5,1.0,0.5,2.0,0.0,0.3,13.8,2.5
+VeriFone Inc.,11/02/2021 10:58:34 AM,11/02/2021 11:03:00 AM,1.0,1.26,Standard rate,N,249,246,Credit card,6.0,0.0,0.5,2.79,0.0,0.3,12.09,2.5
+VeriFone Inc.,11/21/2021 01:59:47 PM,11/21/2021 02:21:58 PM,1.0,2.84,Standard rate,N,43,249,Credit card,15.5,0.0,0.5,2.0,0.0,0.3,20.8,2.5
+VeriFone Inc.,11/18/2021 09:35:46 PM,11/18/2021 09:55:40 PM,2.0,2.62,Standard rate,N,114,68,Credit card,14.0,0.5,0.5,4.45,0.0,0.3,22.25,2.5
+VeriFone Inc.,11/27/2021 05:14:09 PM,11/27/2021 05:37:26 PM,2.0,2.33,Standard rate,N,230,249,Credit card,15.5,0.0,0.5,3.76,0.0,0.3,22.56,2.5
+VeriFone Inc.,11/21/2021 11:45:05 AM,11/21/2021 12:01:35 PM,1.0,2.53,Standard rate,N,43,164,Credit card,12.5,0.0,0.5,3.16,0.0,0.3,18.96,2.5
+VeriFone Inc.,11/18/2021 09:52:47 PM,11/18/2021 10:02:25 PM,1.0,1.17,Standard rate,N,107,170,Cash,7.5,0.5,0.5,0.0,0.0,0.3,11.3,2.5
+VeriFone Inc.,11/07/2021 01:43:31 AM,11/07/2021 01:50:00 AM,1.0,2.23,Standard rate,N,144,233,Credit card,8.5,0.5,0.5,2.46,0.0,0.3,14.76,2.5
+VeriFone Inc.,11/13/2021 04:32:26 PM,11/13/2021 04:48:30 PM,2.0,2.74,Standard rate,N,143,236,Credit card,13.0,0.0,0.5,3.26,0.0,0.3,19.56,2.5
+VeriFone Inc.,11/13/2021 08:19:10 PM,11/13/2021 08:30:24 PM,1.0,1.41,Standard rate,N,79,125,Credit card,8.5,0.5,0.5,2.46,0.0,0.3,14.76,2.5
+VeriFone Inc.,11/23/2021 02:43:03 PM,11/23/2021 02:55:46 PM,3.0,0.91,Standard rate,N,68,234,Credit card,9.0,0.0,0.5,1.84,0.0,0.3,14.14,2.5
+VeriFone Inc.,11/20/2021 04:11:56 PM,11/20/2021 04:36:15 PM,1.0,3.97,Standard rate,N,90,239,Credit card,18.5,0.0,0.5,4.36,0.0,0.3,26.16,2.5
+VeriFone Inc.,11/20/2021 12:49:10 PM,11/20/2021 01:00:00 PM,2.0,1.95,Standard rate,N,163,238,Credit card,9.5,0.0,0.5,2.56,0.0,0.3,15.36,2.5
+VeriFone Inc.,11/19/2021 05:53:17 PM,11/19/2021 05:57:44 PM,1.0,0.47,Standard rate,N,263,236,Credit card,4.5,1.0,0.5,3.0,0.0,0.3,11.8,2.5
+VeriFone Inc.,11/24/2021 07:33:52 PM,11/24/2021 07:48:38 PM,1.0,1.75,Standard rate,N,186,161,Cash,10.5,1.0,0.5,0.0,0.0,0.3,14.8,2.5
+VeriFone Inc.,11/01/2021 08:37:03 AM,11/01/2021 09:01:23 AM,1.0,4.95,Standard rate,N,249,262,Credit card,18.5,0.0,0.5,5.0,0.0,0.3,26.8,2.5
+VeriFone Inc.,11/09/2021 12:10:37 PM,11/09/2021 12:22:42 PM,1.0,0.79,Standard rate,N,237,161,Cash,8.5,0.0,0.5,0.0,0.0,0.3,11.8,2.5
+VeriFone Inc.,11/30/2021 01:13:35 PM,11/30/2021 01:23:38 PM,1.0,1.44,Standard rate,N,164,186,Cash,7.5,0.0,0.5,0.0,0.0,0.3,10.8,2.5
+VeriFone Inc.,11/06/2021 08:05:26 PM,11/06/2021 08:18:21 PM,1.0,1.46,Standard rate,N,162,143,Credit card,10.0,0.5,0.5,1.0,0.0,0.3,14.8,2.5
+VeriFone Inc.,11/04/2021 10:43:48 PM,11/04/2021 10:48:26 PM,5.0,0.8,Standard rate,N,43,236,Cash,5.5,0.5,0.5,0.0,0.0,0.3,9.3,2.5
+VeriFone Inc.,11/02/2021 02:46:59 PM,11/02/2021 03:01:21 PM,1.0,1.43,Standard rate,N,113,107,Cash,10.0,0.0,0.5,0.0,0.0,0.3,13.3,2.5
+VeriFone Inc.,11/17/2021 11:00:43 AM,11/17/2021 11:08:48 AM,5.0,0.8,Standard rate,N,162,170,Credit card,6.5,0.0,0.5,1.96,0.0,0.3,11.76,2.5
+VeriFone Inc.,11/01/2021 12:00:09 AM,11/01/2021 12:20:54 AM,1.0,5.92,Standard rate,N,90,41,Credit card,19.5,0.5,0.5,0.0,0.0,0.3,23.3,2.5
+VeriFone Inc.,11/26/2021 02:24:39 PM,11/26/2021 02:39:33 PM,1.0,2.05,Standard rate,N,100,141,Cash,11.0,0.0,0.5,0.0,0.0,0.3,14.3,2.5
+VeriFone Inc.,11/18/2021 01:22:13 PM,11/18/2021 01:48:37 PM,1.0,6.53,Standard rate,N,161,13,Credit card,25.0,0.0,0.5,5.66,0.0,0.3,33.96,2.5
+VeriFone Inc.,11/30/2021 07:54:37 PM,11/30/2021 08:02:03 PM,1.0,1.25,Standard rate,N,48,68,Credit card,7.0,1.0,0.5,1.5,0.0,0.3,12.8,2.5
+VeriFone Inc.,11/02/2021 09:51:20 AM,11/02/2021 10:28:31 AM,1.0,12.94,Standard rate,N,170,170,Credit card,41.5,0.0,0.5,8.96,0.0,0.3,53.76,2.5
+VeriFone Inc.,11/08/2021 08:03:31 PM,11/08/2021 08:07:17 PM,1.0,0.72,Standard rate,N,79,107,Credit card,5.0,0.5,0.5,2.64,0.0,0.3,11.44,2.5
+VeriFone Inc.,11/30/2021 07:10:54 PM,11/30/2021 07:17:43 PM,1.0,0.87,Standard rate,N,164,233,Credit card,6.0,1.0,0.5,2.06,0.0,0.3,12.36,2.5
+VeriFone Inc.,11/02/2021 09:46:52 PM,11/02/2021 09:55:44 PM,1.0,1.67,Standard rate,N,79,234,Credit card,8.0,0.5,0.5,2.36,0.0,0.3,14.16,2.5
+"Creative Mobile Technologies, LLC",11/28/2021 09:50:32 AM,11/28/2021 09:55:59 AM,1.0,0.8,Standard rate,N,68,161,Cash,5.5,2.5,0.5,0.0,0.0,0.3,8.8,2.5
+"Creative Mobile Technologies, LLC",11/22/2021 02:17:05 PM,11/22/2021 02:34:20 PM,1.0,2.5,Standard rate,N,161,239,Credit card,12.5,2.5,0.5,3.15,0.0,0.3,18.95,2.5
+"Creative Mobile Technologies, LLC",11/10/2021 10:47:27 AM,11/10/2021 11:04:38 AM,1.0,2.5,Standard rate,N,238,163,Credit card,13.0,2.5,0.5,10.0,0.0,0.3,26.3,2.5
+VeriFone Inc.,11/29/2021 04:37:19 PM,11/29/2021 04:49:52 PM,1.0,1.34,Standard rate,N,161,234,Credit card,9.5,1.0,0.5,2.76,0.0,0.3,16.56,2.5
+VeriFone Inc.,11/02/2021 08:00:35 PM,11/02/2021 08:04:04 PM,1.0,0.51,Standard rate,N,234,186,Credit card,4.5,0.5,0.5,1.0,0.0,0.3,9.3,2.5
+VeriFone Inc.,11/10/2021 01:28:13 PM,11/10/2021 01:41:33 PM,1.0,1.81,Standard rate,N,43,237,Cash,10.0,0.0,0.5,0.0,0.0,0.3,13.3,2.5
+"Creative Mobile Technologies, LLC",11/19/2021 11:18:43 AM,11/19/2021 11:38:56 AM,1.0,2.4,Standard rate,N,48,140,Cash,14.0,2.5,0.5,0.0,0.0,0.3,17.3,2.5
+"Creative Mobile Technologies, LLC",11/03/2021 11:56:02 AM,11/03/2021 12:05:53 PM,2.0,0.9,Standard rate,Y,140,140,Credit card,7.5,2.5,0.5,2.8,0.0,0.3,13.6,2.5
+VeriFone Inc.,11/06/2021 03:01:52 PM,11/06/2021 03:15:17 PM,1.0,0.99,Standard rate,N,100,161,Credit card,9.5,0.0,0.5,1.5,0.0,0.3,14.3,2.5
+VeriFone Inc.,11/04/2021 04:43:01 PM,11/04/2021 04:49:51 PM,1.0,1.25,Standard rate,N,239,238,Cash,6.5,1.0,0.5,0.0,0.0,0.3,10.8,2.5
+VeriFone Inc.,11/14/2021 01:49:58 PM,11/14/2021 01:58:54 PM,2.0,0.59,Standard rate,N,68,186,Credit card,7.0,0.0,0.5,2.06,0.0,0.3,12.36,2.5
+VeriFone Inc.,11/01/2021 03:01:25 PM,11/01/2021 03:30:19 PM,1.0,3.84,Standard rate,N,43,90,Credit card,19.0,0.0,0.5,5.58,0.0,0.3,27.88,2.5
+"Creative Mobile Technologies, LLC",11/27/2021 09:09:29 AM,11/27/2021 09:20:54 AM,1.0,1.9,Standard rate,N,229,142,Credit card,9.5,2.5,0.5,0.0,0.0,0.3,12.8,2.5
+VeriFone Inc.,11/17/2021 01:04:02 PM,11/17/2021 01:18:25 PM,3.0,2.21,Standard rate,N,237,75,Cash,11.0,0.0,0.5,0.0,0.0,0.3,14.3,2.5
+VeriFone Inc.,11/12/2021 10:55:56 AM,11/12/2021 11:21:52 AM,1.0,4.28,Standard rate,N,87,246,Credit card,19.0,0.0,0.5,4.46,0.0,0.3,26.76,2.5
+VeriFone Inc.,11/18/2021 12:14:59 AM,11/18/2021 12:31:08 AM,1.0,3.61,Standard rate,N,232,229,Credit card,14.0,0.5,0.5,3.56,0.0,0.3,21.36,2.5
+VeriFone Inc.,11/28/2021 02:33:06 PM,11/28/2021 02:39:22 PM,1.0,1.4,Standard rate,N,236,239,Credit card,6.5,0.0,0.5,1.96,0.0,0.3,11.76,2.5
+VeriFone Inc.,11/13/2021 01:20:09 PM,11/13/2021 01:36:04 PM,1.0,3.24,Standard rate,N,261,246,Cash,13.0,0.0,0.5,0.0,0.0,0.3,16.3,2.5
+"Creative Mobile Technologies, LLC",11/21/2021 03:33:35 PM,11/21/2021 03:49:35 PM,2.0,2.6,Standard rate,N,236,170,Credit card,12.5,2.5,0.5,3.16,0.0,0.3,18.96,2.5
+VeriFone Inc.,11/05/2021 08:44:26 AM,11/05/2021 08:54:05 AM,1.0,1.61,Standard rate,N,186,50,Credit card,8.0,0.0,0.5,0.11,0.0,0.3,11.41,2.5
+VeriFone Inc.,11/13/2021 11:31:31 AM,11/13/2021 11:32:53 AM,1.0,0.49,Standard rate,N,143,239,Credit card,3.5,0.0,0.5,1.7,0.0,0.3,8.5,2.5
+VeriFone Inc.,11/04/2021 01:43:57 PM,11/04/2021 01:54:36 PM,2.0,1.5,Standard rate,N,237,236,Credit card,8.0,0.0,0.5,1.0,0.0,0.3,12.3,2.5
+VeriFone Inc.,11/02/2021 10:05:58 AM,11/02/2021 10:12:40 AM,1.0,0.85,Standard rate,N,237,236,Cash,6.0,0.0,0.5,0.0,0.0,0.3,9.3,2.5
+VeriFone Inc.,11/22/2021 11:55:17 AM,11/22/2021 12:00:03 PM,1.0,0.41,Standard rate,N,236,262,Cash,5.0,0.0,0.5,0.0,0.0,0.3,8.3,2.5
+"Creative Mobile Technologies, LLC",11/15/2021 02:23:03 PM,11/15/2021 02:36:13 PM,1.0,2.4,Standard rate,N,239,161,Credit card,11.0,2.5,0.5,2.86,0.0,0.3,17.16,2.5
+"Creative Mobile Technologies, LLC",11/05/2021 01:54:40 PM,11/05/2021 02:04:48 PM,1.0,1.2,Standard rate,N,12,45,Cash,8.5,2.5,0.5,0.0,0.0,0.3,11.8,2.5
+"Creative Mobile Technologies, LLC",11/02/2021 08:53:13 PM,11/02/2021 08:58:56 PM,1.0,1.0,Standard rate,N,234,170,Credit card,6.0,3.0,0.5,1.95,0.0,0.3,11.75,2.5
+VeriFone Inc.,11/02/2021 11:41:50 PM,11/02/2021 11:52:14 PM,1.0,2.05,Standard rate,N,230,246,Cash,9.5,0.5,0.5,0.0,0.0,0.3,13.3,2.5
+VeriFone Inc.,11/06/2021 04:46:25 PM,11/06/2021 05:10:56 PM,2.0,2.13,Standard rate,N,43,230,Cash,16.0,0.0,0.5,0.0,0.0,0.3,19.3,2.5
+"Creative Mobile Technologies, LLC",11/22/2021 10:23:55 AM,11/22/2021 10:46:30 AM,1.0,3.5,Standard rate,N,48,236,Credit card,16.5,2.5,0.5,3.95,0.0,0.3,23.75,2.5
+VeriFone Inc.,11/17/2021 04:17:13 PM,11/17/2021 04:21:36 PM,3.0,0.59,Standard rate,N,263,236,Credit card,4.5,1.0,0.5,1.5,0.0,0.3,10.3,2.5
+VeriFone Inc.,11/10/2021 07:24:01 AM,11/10/2021 07:33:42 AM,1.0,1.47,Standard rate,N,48,164,Credit card,8.5,0.0,0.5,2.95,0.0,0.3,14.75,2.5
+VeriFone Inc.,11/10/2021 01:18:20 AM,11/10/2021 01:26:40 AM,1.0,2.39,Standard rate,N,186,144,Credit card,9.5,0.5,0.5,2.66,0.0,0.3,15.96,2.5
+VeriFone Inc.,11/28/2021 07:57:30 PM,11/28/2021 08:09:43 PM,1.0,2.56,Standard rate,N,261,158,Credit card,11.0,0.0,0.5,3.0,0.0,0.3,17.3,2.5
+VeriFone Inc.,11/16/2021 08:35:57 PM,11/16/2021 08:44:45 PM,1.0,1.36,Standard rate,N,164,90,Credit card,7.5,0.5,0.5,3.39,0.0,0.3,14.69,2.5
+"Creative Mobile Technologies, LLC",11/07/2021 01:00:07 AM,11/07/2021 01:03:22 AM,1.0,0.6,Standard rate,N,230,48,Credit card,4.0,3.0,0.5,1.95,0.0,0.3,9.75,2.5
+VeriFone Inc.,11/04/2021 09:40:15 PM,11/04/2021 09:45:22 PM,3.0,0.81,Standard rate,N,262,140,Credit card,5.5,0.5,0.5,2.79,0.0,0.3,12.09,2.5
+VeriFone Inc.,11/18/2021 03:20:37 PM,11/18/2021 03:42:29 PM,5.0,1.97,Standard rate,N,163,236,Credit card,14.5,0.0,0.5,3.56,0.0,0.3,21.36,2.5
+VeriFone Inc.,11/06/2021 01:48:04 PM,11/06/2021 02:00:37 PM,1.0,0.99,Standard rate,N,164,68,Credit card,9.0,0.0,0.5,1.84,0.0,0.3,14.14,2.5
+"Creative Mobile Technologies, LLC",11/12/2021 01:44:35 AM,11/12/2021 01:53:59 AM,1.0,2.0,Standard rate,N,48,170,Cash,9.0,3.0,0.5,0.0,0.0,0.3,12.8,2.5
+"Creative Mobile Technologies, LLC",11/13/2021 06:53:13 PM,11/13/2021 07:17:24 PM,1.0,2.0,Standard rate,N,144,87,Credit card,15.5,2.5,0.5,3.75,0.0,0.3,22.55,2.5
+"Creative Mobile Technologies, LLC",11/06/2021 09:58:01 AM,11/06/2021 10:20:11 AM,4.0,5.8,Standard rate,N,231,239,Credit card,21.0,2.5,0.5,6.05,0.0,0.3,30.35,2.5
+VeriFone Inc.,11/13/2021 04:20:14 PM,11/13/2021 04:29:52 PM,3.0,0.87,Standard rate,N,170,164,Cash,7.5,0.0,0.5,0.0,0.0,0.3,10.8,2.5
+"Creative Mobile Technologies, LLC",11/20/2021 10:18:55 PM,11/20/2021 10:38:04 PM,1.0,3.1,Standard rate,N,230,158,Credit card,13.5,3.0,0.5,3.45,0.0,0.3,20.75,2.5
+"Creative Mobile Technologies, LLC",11/02/2021 11:30:34 PM,11/02/2021 11:39:56 PM,1.0,2.6,Standard rate,N,48,238,Credit card,10.0,3.0,0.5,2.75,0.0,0.3,16.55,2.5
+VeriFone Inc.,11/06/2021 11:09:57 PM,11/06/2021 11:36:47 PM,3.0,5.67,Standard rate,N,142,261,Cash,22.0,0.5,0.5,0.0,0.0,0.3,25.8,2.5
+VeriFone Inc.,11/12/2021 07:13:57 PM,11/12/2021 07:28:25 PM,2.0,1.66,Standard rate,N,142,229,Credit card,10.0,1.0,0.5,5.0,0.0,0.3,19.3,2.5
+VeriFone Inc.,11/21/2021 01:54:03 AM,11/21/2021 02:02:29 AM,1.0,2.9,Standard rate,N,107,237,Credit card,10.5,0.5,0.5,2.86,0.0,0.3,17.16,2.5
+VeriFone Inc.,11/08/2021 08:49:16 PM,11/08/2021 08:53:13 PM,1.0,0.81,Standard rate,N,114,113,Credit card,5.0,0.5,0.5,2.2,0.0,0.3,11.0,2.5
+"Creative Mobile Technologies, LLC",11/27/2021 06:07:24 PM,11/27/2021 06:24:11 PM,2.0,3.4,Standard rate,N,13,246,Cash,14.0,2.5,0.5,0.0,0.0,0.3,17.3,2.5
+"Creative Mobile Technologies, LLC",11/05/2021 09:00:25 AM,11/05/2021 09:15:48 AM,1.0,2.7,Standard rate,N,186,141,Cash,12.0,2.5,0.5,0.0,0.0,0.3,15.3,2.5
+VeriFone Inc.,11/06/2021 11:06:06 AM,11/06/2021 11:35:51 AM,1.0,4.28,Standard rate,N,13,164,Credit card,21.0,0.0,0.5,4.86,0.0,0.3,29.16,2.5
+VeriFone Inc.,11/19/2021 05:33:24 PM,11/19/2021 05:47:11 PM,4.0,2.03,Standard rate,N,234,162,Credit card,10.5,1.0,0.5,1.0,0.0,0.3,15.8,2.5
+VeriFone Inc.,11/09/2021 01:31:10 PM,11/09/2021 01:40:29 PM,1.0,2.11,Standard rate,N,231,246,Credit card,9.5,0.0,0.5,0.0,0.0,0.3,12.8,2.5
+VeriFone Inc.,11/18/2021 08:25:07 PM,11/18/2021 08:41:28 PM,1.0,3.53,Standard rate,N,186,239,Credit card,13.5,0.5,0.5,4.33,0.0,0.3,21.63,2.5
+VeriFone Inc.,11/18/2021 01:07:18 PM,11/18/2021 01:18:44 PM,1.0,0.61,Standard rate,N,233,161,Credit card,8.0,0.0,0.5,2.83,0.0,0.3,14.13,2.5
+VeriFone Inc.,11/25/2021 09:41:16 PM,11/25/2021 09:47:31 PM,1.0,1.3,Standard rate,N,24,238,Credit card,6.5,0.5,0.5,2.06,0.0,0.3,12.36,2.5
+"Creative Mobile Technologies, LLC",11/17/2021 09:34:43 PM,11/17/2021 09:44:02 PM,1.0,1.9,Standard rate,N,236,142,Credit card,9.0,3.0,0.5,2.55,0.0,0.3,15.35,2.5
+VeriFone Inc.,11/08/2021 10:23:42 AM,11/08/2021 10:42:42 AM,1.0,2.96,Standard rate,N,125,162,Credit card,14.0,0.0,0.5,2.0,0.0,0.3,19.3,2.5
+"Creative Mobile Technologies, LLC",11/22/2021 06:51:00 PM,11/22/2021 06:56:03 PM,1.0,0.6,Standard rate,N,236,263,Credit card,5.0,3.5,0.5,2.3,0.0,0.3,11.6,2.5
+"Creative Mobile Technologies, LLC",11/08/2021 09:37:39 PM,11/08/2021 09:53:17 PM,1.0,3.0,Standard rate,N,249,170,Credit card,13.0,3.0,0.5,0.0,0.0,0.3,16.8,2.5
+VeriFone Inc.,11/16/2021 05:34:39 PM,11/16/2021 05:58:44 PM,1.0,2.83,Standard rate,N,161,211,Cash,16.0,1.0,0.5,0.0,0.0,0.3,20.3,2.5
+VeriFone Inc.,11/09/2021 05:33:53 PM,11/09/2021 05:54:52 PM,1.0,2.19,Standard rate,N,246,233,Cash,13.5,1.0,0.5,0.0,0.0,0.3,17.8,2.5
+VeriFone Inc.,11/15/2021 05:53:26 PM,11/15/2021 06:11:17 PM,1.0,1.95,Standard rate,N,263,140,Credit card,12.5,1.0,0.5,3.36,0.0,0.3,20.16,2.5
+"Creative Mobile Technologies, LLC",11/06/2021 05:12:30 PM,11/06/2021 05:32:15 PM,1.0,2.7,Standard rate,N,239,68,Credit card,13.5,2.5,0.5,3.35,0.0,0.3,20.15,2.5
+VeriFone Inc.,11/13/2021 05:16:22 PM,11/13/2021 05:18:43 PM,1.0,0.4,Standard rate,N,90,90,Credit card,3.5,0.0,0.5,1.36,0.0,0.3,8.16,2.5
+"Creative Mobile Technologies, LLC",11/26/2021 04:17:46 PM,11/26/2021 04:23:01 PM,4.0,0.9,Standard rate,N,142,239,Credit card,5.5,3.5,0.5,1.0,0.0,0.3,10.8,2.5
+VeriFone Inc.,11/04/2021 07:18:00 PM,11/04/2021 07:31:00 PM,6.0,1.57,Standard rate,N,236,229,Credit card,10.0,1.0,0.5,1.0,0.0,0.3,15.3,2.5
+VeriFone Inc.,11/16/2021 10:11:17 AM,11/16/2021 10:28:04 AM,2.0,1.36,Standard rate,N,236,237,Credit card,11.0,0.0,0.5,2.86,0.0,0.3,17.16,2.5
+VeriFone Inc.,11/17/2021 08:18:50 AM,11/17/2021 08:28:23 AM,5.0,1.69,Standard rate,N,43,161,Credit card,8.5,0.0,0.5,2.2,0.0,0.3,14.0,2.5
+VeriFone Inc.,11/01/2021 11:54:36 AM,11/01/2021 11:59:27 AM,2.0,1.21,Standard rate,N,231,125,Credit card,6.0,0.0,0.5,2.0,0.0,0.3,11.3,2.5
+"Creative Mobile Technologies, LLC",11/13/2021 03:58:37 PM,11/13/2021 04:06:09 PM,1.0,2.0,Standard rate,N,125,68,Credit card,8.0,2.5,0.5,2.25,0.0,0.3,13.55,2.5
+VeriFone Inc.,11/02/2021 12:27:11 AM,11/03/2021 12:19:30 AM,1.0,1.56,Standard rate,N,79,231,Credit card,7.5,0.5,0.5,2.26,0.0,0.3,13.56,2.5
+VeriFone Inc.,11/16/2021 12:27:58 AM,11/16/2021 12:31:49 AM,1.0,0.91,Standard rate,N,48,48,Cash,5.0,0.5,0.5,0.0,0.0,0.3,8.8,2.5
+VeriFone Inc.,11/14/2021 11:15:28 AM,11/14/2021 11:21:29 AM,1.0,1.12,Standard rate,N,170,234,Credit card,6.5,0.0,0.5,1.96,0.0,0.3,11.76,2.5
+VeriFone Inc.,11/29/2021 11:27:51 AM,11/29/2021 11:37:45 AM,1.0,1.52,Standard rate,N,107,161,Credit card,8.5,0.0,0.5,2.36,0.0,0.3,14.16,2.5
+"Creative Mobile Technologies, LLC",11/20/2021 09:37:07 PM,11/20/2021 09:42:02 PM,2.0,0.8,Standard rate,N,141,262,Cash,5.5,3.0,0.5,0.0,0.0,0.3,9.3,2.5
+VeriFone Inc.,11/12/2021 11:30:15 AM,11/12/2021 11:58:13 AM,1.0,3.95,Standard rate,N,148,236,Credit card,19.5,0.0,0.5,1.0,0.0,0.3,23.8,2.5
+"Creative Mobile Technologies, LLC",11/29/2021 05:20:45 PM,11/29/2021 05:32:07 PM,1.0,1.7,Standard rate,N,48,141,Cash,9.0,3.5,0.5,0.0,0.0,0.3,13.3,2.5
+VeriFone Inc.,11/24/2021 07:20:19 PM,11/24/2021 07:28:05 PM,1.0,1.5,Standard rate,N,143,238,Credit card,7.5,1.0,0.5,1.0,0.0,0.3,12.8,2.5
+VeriFone Inc.,11/13/2021 08:11:17 AM,11/13/2021 08:21:11 AM,1.0,2.86,Standard rate,N,141,107,Credit card,10.5,0.0,0.5,2.0,0.0,0.3,15.8,2.5
+VeriFone Inc.,11/15/2021 07:45:03 PM,11/15/2021 07:50:17 PM,1.0,1.12,Standard rate,N,107,113,Credit card,5.5,1.0,0.5,1.47,0.0,0.3,11.27,2.5
+VeriFone Inc.,11/11/2021 03:46:52 PM,11/11/2021 03:57:39 PM,2.0,1.45,Standard rate,N,236,142,Cash,9.0,0.0,0.5,0.0,0.0,0.3,12.3,2.5
+VeriFone Inc.,11/03/2021 02:45:52 PM,11/03/2021 02:52:38 PM,1.0,0.71,Standard rate,N,237,161,Credit card,6.0,0.0,0.5,1.86,0.0,0.3,11.16,2.5
+VeriFone Inc.,11/17/2021 09:47:35 AM,11/17/2021 10:05:14 AM,1.0,2.06,Standard rate,N,113,261,Cash,12.0,0.0,0.5,0.0,0.0,0.3,15.3,2.5
+VeriFone Inc.,11/24/2021 03:13:49 PM,11/24/2021 03:29:41 PM,2.0,2.55,Standard rate,N,233,263,Credit card,11.5,0.0,0.5,1.48,0.0,0.3,16.28,2.5
+VeriFone Inc.,11/26/2021 07:05:28 PM,11/26/2021 07:15:02 PM,1.0,1.74,Standard rate,N,237,43,Credit card,8.5,1.0,0.5,2.56,0.0,0.3,15.36,2.5
+"Creative Mobile Technologies, LLC",11/29/2021 09:39:07 AM,11/29/2021 09:46:20 AM,1.0,1.7,Standard rate,N,140,233,Credit card,8.0,2.5,0.5,1.0,0.0,0.3,12.3,2.5
+VeriFone Inc.,11/25/2021 01:50:09 AM,11/25/2021 02:03:32 AM,2.0,2.73,Standard rate,N,148,164,Credit card,12.0,0.5,0.5,4.74,0.0,0.3,20.54,2.5
+VeriFone Inc.,11/06/2021 02:36:29 PM,11/06/2021 02:50:31 PM,1.0,3.1,Standard rate,N,13,68,Credit card,13.0,0.0,0.5,3.26,0.0,0.3,19.56,2.5
+"Creative Mobile Technologies, LLC",11/04/2021 04:29:40 PM,11/04/2021 04:50:14 PM,3.0,1.3,Standard rate,N,43,142,Credit card,13.0,3.5,0.5,2.0,0.0,0.3,19.3,2.5
+VeriFone Inc.,11/06/2021 08:15:36 PM,11/06/2021 08:22:34 PM,1.0,0.95,Standard rate,N,143,142,Credit card,6.5,0.0,0.5,1.2,0.0,0.3,11.0,2.5
+VeriFone Inc.,11/30/2021 09:45:31 PM,11/30/2021 09:48:08 PM,2.0,0.51,Standard rate,N,142,48,Cash,4.0,0.5,0.5,0.0,0.0,0.3,7.8,2.5
+VeriFone Inc.,11/08/2021 07:39:47 AM,11/08/2021 07:53:03 AM,6.0,1.75,Standard rate,N,162,246,Credit card,10.5,0.0,0.5,1.38,0.0,0.3,15.18,2.5
+"Creative Mobile Technologies, LLC",11/07/2021 10:30:52 AM,11/07/2021 10:46:37 AM,2.0,2.8,Standard rate,N,163,263,Credit card,13.0,2.5,0.5,3.25,0.0,0.3,19.55,2.5
+VeriFone Inc.,11/06/2021 03:49:55 PM,11/06/2021 03:59:29 PM,2.0,1.25,Standard rate,N,233,48,Credit card,7.5,0.0,0.5,2.7,0.0,0.3,13.5,2.5
+VeriFone Inc.,11/13/2021 03:06:55 PM,11/13/2021 03:15:21 PM,1.0,0.93,Standard rate,N,141,163,Credit card,7.0,0.0,0.5,2.06,0.0,0.3,12.36,2.5
+VeriFone Inc.,11/04/2021 02:56:21 PM,11/04/2021 03:19:23 PM,1.0,2.37,Standard rate,N,90,161,Credit card,15.0,0.0,0.5,3.66,0.0,0.3,21.96,2.5
+"Creative Mobile Technologies, LLC",11/22/2021 03:38:20 PM,11/22/2021 03:40:08 PM,2.0,0.2,Standard rate,N,151,238,Cash,3.5,2.5,0.5,0.0,0.0,0.3,6.8,2.5
+VeriFone Inc.,11/06/2021 06:36:47 PM,11/06/2021 06:55:25 PM,2.0,1.68,Standard rate,N,100,43,Cash,12.5,0.0,0.5,0.0,0.0,0.3,15.8,2.5
+VeriFone Inc.,11/16/2021 02:01:20 PM,11/16/2021 02:08:38 PM,1.0,0.74,Standard rate,N,42,42,Cash,5.5,0.0,0.5,0.0,0.0,0.3,6.3,0.0
+VeriFone Inc.,11/14/2021 09:38:59 PM,11/14/2021 09:59:46 PM,4.0,3.61,Standard rate,N,161,151,Cash,16.0,0.5,0.5,0.0,0.0,0.3,19.8,2.5
+VeriFone Inc.,11/19/2021 07:11:46 AM,11/19/2021 07:15:30 AM,2.0,0.5,Standard rate,N,263,140,Credit card,4.5,0.0,0.5,1.17,0.0,0.3,8.97,2.5
+"Creative Mobile Technologies, LLC",11/08/2021 05:49:34 PM,11/08/2021 05:59:43 PM,1.0,1.3,Standard rate,Y,161,237,Credit card,8.0,3.5,0.5,2.45,0.0,0.3,14.75,2.5
+VeriFone Inc.,11/22/2021 01:03:30 PM,11/22/2021 01:18:53 PM,1.0,1.89,Standard rate,N,161,236,Credit card,11.5,0.0,0.5,3.7,0.0,0.3,18.5,2.5
+"Creative Mobile Technologies, LLC",11/11/2021 04:46:41 PM,11/11/2021 05:13:25 PM,3.0,1.3,Standard rate,Y,237,162,Credit card,16.0,2.5,0.5,3.85,0.0,0.3,23.15,2.5
+"Creative Mobile Technologies, LLC",11/06/2021 05:41:00 PM,11/06/2021 05:52:30 PM,2.0,1.6,Standard rate,N,239,48,Cash,9.0,2.5,0.5,0.0,0.0,0.3,12.3,2.5
+VeriFone Inc.,11/04/2021 11:19:53 PM,11/04/2021 11:31:29 PM,3.0,2.15,Standard rate,N,107,232,Credit card,10.0,0.5,0.5,2.76,0.0,0.3,16.56,2.5
+"Creative Mobile Technologies, LLC",11/05/2021 03:21:24 PM,11/05/2021 03:25:22 PM,1.0,0.3,Standard rate,N,263,263,Cash,4.0,2.5,0.5,0.0,0.0,0.3,7.3,2.5
+VeriFone Inc.,11/08/2021 07:50:29 PM,11/08/2021 07:56:44 PM,1.0,1.26,Standard rate,N,162,162,Credit card,6.5,1.0,0.5,2.16,0.0,0.3,12.96,2.5
+"Creative Mobile Technologies, LLC",11/29/2021 04:21:18 PM,11/29/2021 04:48:15 PM,1.0,3.3,Standard rate,N,263,42,Credit card,18.0,2.5,0.5,4.25,0.0,0.3,25.55,2.5
+VeriFone Inc.,11/14/2021 07:46:46 AM,11/14/2021 08:00:57 AM,3.0,3.68,Standard rate,N,236,186,Cash,13.5,0.0,0.5,0.0,0.0,0.3,16.8,2.5
+"Creative Mobile Technologies, LLC",11/20/2021 04:03:54 PM,11/20/2021 04:21:53 PM,1.0,2.7,Standard rate,N,170,236,Credit card,13.5,2.5,0.5,2.0,0.0,0.3,18.8,2.5
+VeriFone Inc.,11/08/2021 06:29:53 PM,11/08/2021 06:49:23 PM,1.0,5.74,Standard rate,N,170,87,Credit card,19.5,1.0,0.5,4.76,0.0,0.3,28.56,2.5
+VeriFone Inc.,11/16/2021 07:21:36 PM,11/16/2021 07:31:10 PM,2.0,1.2,Standard rate,N,162,142,Credit card,8.0,1.0,0.5,2.46,0.0,0.3,14.76,2.5
+"Creative Mobile Technologies, LLC",11/17/2021 10:31:07 PM,11/17/2021 10:39:09 PM,2.0,1.0,Standard rate,N,249,68,Credit card,7.0,3.0,0.5,2.15,0.0,0.3,12.95,2.5
+VeriFone Inc.,11/26/2021 11:25:31 AM,11/26/2021 11:46:59 AM,1.0,3.16,Standard rate,N,239,186,Cash,15.5,0.0,0.5,0.0,0.0,0.3,18.8,2.5
+"Creative Mobile Technologies, LLC",11/04/2021 10:49:45 PM,11/04/2021 10:57:03 PM,2.0,0.7,Standard rate,N,161,233,Credit card,6.0,3.0,0.5,1.95,0.0,0.3,11.75,2.5
+VeriFone Inc.,11/19/2021 12:16:12 AM,11/19/2021 12:30:39 AM,1.0,2.58,Standard rate,N,162,249,Credit card,12.0,0.5,0.5,3.16,0.0,0.3,18.96,2.5
+VeriFone Inc.,11/26/2021 06:24:02 PM,11/26/2021 06:36:26 PM,2.0,1.88,Standard rate,N,209,79,Credit card,10.0,1.0,0.5,3.58,0.0,0.3,17.88,2.5
+"Creative Mobile Technologies, LLC",11/02/2021 05:21:33 PM,11/02/2021 05:27:48 PM,1.0,1.0,Standard rate,N,170,107,Credit card,6.0,2.5,0.5,1.85,0.0,0.3,11.15,2.5
+VeriFone Inc.,11/08/2021 10:35:40 PM,11/08/2021 10:50:35 PM,5.0,3.05,Standard rate,N,238,140,Credit card,13.0,0.5,0.5,3.36,0.0,0.3,20.16,2.5
+VeriFone Inc.,11/09/2021 09:47:50 AM,11/09/2021 10:03:53 AM,2.0,2.18,Standard rate,N,125,100,Credit card,12.0,0.0,0.5,3.06,0.0,0.3,18.36,2.5
+VeriFone Inc.,11/30/2021 07:52:19 PM,11/30/2021 08:15:01 PM,1.0,4.62,Standard rate,N,211,229,Credit card,18.5,1.0,0.5,4.56,0.0,0.3,27.36,2.5
+"Creative Mobile Technologies, LLC",11/04/2021 11:05:09 PM,11/04/2021 11:14:48 PM,2.0,1.6,Standard rate,N,234,68,Credit card,8.5,3.0,0.5,1.5,0.0,0.3,13.8,2.5
+"Creative Mobile Technologies, LLC",11/30/2021 03:35:54 PM,11/30/2021 03:46:27 PM,1.0,1.0,Standard rate,N,237,236,Credit card,8.0,2.5,0.5,2.25,0.0,0.3,13.55,2.5
+VeriFone Inc.,11/19/2021 01:00:48 PM,11/19/2021 01:20:33 PM,1.0,2.31,Standard rate,N,142,140,Credit card,13.5,0.0,0.5,3.0,0.0,0.3,19.8,2.5
+"Creative Mobile Technologies, LLC",11/26/2021 07:06:45 PM,11/26/2021 07:14:12 PM,1.0,1.2,Standard rate,N,141,142,Credit card,7.0,3.5,0.5,2.8,0.0,0.3,14.1,2.5
+"Creative Mobile Technologies, LLC",11/29/2021 07:54:36 PM,11/29/2021 08:00:06 PM,1.0,0.7,Standard rate,N,234,186,Credit card,5.5,3.0,0.5,1.85,0.0,0.3,11.15,2.5
+"Creative Mobile Technologies, LLC",11/09/2021 08:39:50 AM,11/09/2021 08:56:36 AM,1.0,3.0,Standard rate,N,249,87,Credit card,13.5,2.5,0.5,3.35,0.0,0.3,20.15,2.5
+VeriFone Inc.,11/24/2021 01:48:00 AM,11/24/2021 01:53:24 AM,3.0,1.18,Standard rate,N,170,68,Credit card,6.0,0.5,0.5,1.0,0.0,0.3,10.8,2.5
+VeriFone Inc.,11/12/2021 11:26:14 AM,11/12/2021 11:51:14 AM,5.0,2.31,Standard rate,N,236,170,Credit card,16.0,0.0,0.5,3.0,0.0,0.3,22.3,2.5
+VeriFone Inc.,11/04/2021 08:22:55 PM,11/04/2021 08:29:40 PM,1.0,1.0,Standard rate,N,48,142,Credit card,6.0,0.5,0.5,1.96,0.0,0.3,11.76,2.5
+"Creative Mobile Technologies, LLC",11/26/2021 11:01:45 PM,11/26/2021 11:07:30 PM,2.0,1.2,Standard rate,N,48,143,Credit card,6.0,3.0,0.5,0.49,0.0,0.3,10.29,2.5
+"Creative Mobile Technologies, LLC",11/28/2021 12:07:13 PM,11/28/2021 12:14:49 PM,1.0,1.2,Standard rate,N,48,143,Credit card,7.0,2.5,0.5,0.0,0.0,0.3,10.3,2.5
+VeriFone Inc.,11/02/2021 07:12:58 AM,11/02/2021 07:17:54 AM,2.0,1.01,Standard rate,N,142,230,Credit card,5.5,0.0,0.5,1.76,0.0,0.3,10.56,2.5
+"Creative Mobile Technologies, LLC",11/18/2021 12:57:12 PM,11/18/2021 01:55:47 PM,1.0,8.9,Standard rate,N,100,238,Credit card,37.5,2.5,0.5,10.2,0.0,0.3,51.0,2.5
+"Creative Mobile Technologies, LLC",11/18/2021 01:41:07 PM,11/18/2021 01:55:44 PM,1.0,1.5,Standard rate,N,230,237,Credit card,10.0,2.5,0.5,3.3,0.0,0.3,16.6,2.5
+VeriFone Inc.,11/22/2021 09:09:17 PM,11/22/2021 09:13:48 PM,3.0,0.88,Standard rate,N,262,75,Credit card,5.0,0.5,0.5,1.76,0.0,0.3,10.56,2.5
+VeriFone Inc.,11/26/2021 09:42:31 AM,11/26/2021 09:51:42 AM,1.0,3.31,Standard rate,N,107,237,Credit card,11.0,0.0,0.5,1.0,0.0,0.3,15.3,2.5
+VeriFone Inc.,11/12/2021 10:16:29 PM,11/12/2021 10:23:43 PM,1.0,2.37,Standard rate,N,239,166,Credit card,8.5,0.5,0.5,2.46,0.0,0.3,14.76,2.5
+VeriFone Inc.,11/10/2021 06:56:11 PM,11/10/2021 06:59:12 PM,1.0,0.71,Standard rate,N,68,246,Credit card,4.5,1.0,0.5,1.32,0.0,0.3,10.12,2.5
+"Creative Mobile Technologies, LLC",11/10/2021 07:48:53 AM,11/10/2021 07:53:37 AM,1.0,0.5,Standard rate,N,229,162,Credit card,5.0,2.5,0.5,1.65,0.0,0.3,9.95,2.5
+VeriFone Inc.,11/20/2021 05:51:56 PM,11/20/2021 06:00:08 PM,1.0,1.12,Standard rate,N,142,239,Credit card,7.0,0.0,0.5,2.06,0.0,0.3,12.36,2.5
+"Creative Mobile Technologies, LLC",11/18/2021 11:38:20 PM,11/18/2021 11:45:03 PM,1.0,1.2,Standard rate,N,164,50,Cash,6.5,3.0,0.5,0.0,0.0,0.3,10.3,2.5
+"Creative Mobile Technologies, LLC",11/09/2021 07:10:34 PM,11/09/2021 07:22:53 PM,1.0,1.7,Standard rate,N,163,234,Credit card,9.5,3.5,0.5,2.75,0.0,0.3,16.55,2.5
+"Creative Mobile Technologies, LLC",11/27/2021 10:55:19 PM,11/27/2021 11:06:59 PM,1.0,2.6,Standard rate,N,148,170,Cash,11.0,3.0,0.5,0.0,0.0,0.3,14.8,2.5
+"Creative Mobile Technologies, LLC",11/12/2021 05:15:41 PM,11/12/2021 05:20:49 PM,1.0,0.8,Standard rate,N,143,50,Credit card,5.5,3.5,0.5,1.95,0.0,0.3,11.75,2.5
+VeriFone Inc.,11/18/2021 08:46:08 AM,11/18/2021 08:54:27 AM,1.0,1.51,Standard rate,N,236,161,Credit card,8.0,0.0,0.5,1.13,0.0,0.3,12.43,2.5
+VeriFone Inc.,11/02/2021 09:00:15 AM,11/02/2021 09:07:51 AM,1.0,0.75,Standard rate,N,90,100,Credit card,6.5,0.0,0.5,1.0,0.0,0.3,10.8,2.5
+VeriFone Inc.,11/26/2021 01:28:12 PM,11/26/2021 01:46:55 PM,1.0,3.54,Standard rate,N,237,246,Credit card,15.0,0.0,0.5,2.74,0.0,0.3,21.04,2.5
+"Creative Mobile Technologies, LLC",11/17/2021 07:41:38 PM,11/17/2021 07:51:35 PM,1.0,2.1,Standard rate,N,50,237,Cash,9.0,3.5,0.5,0.0,0.0,0.3,13.3,2.5
+"Creative Mobile Technologies, LLC",11/08/2021 11:41:35 AM,11/08/2021 11:55:18 AM,1.0,1.7,Standard rate,N,170,229,Credit card,10.5,2.5,0.5,3.45,0.0,0.3,17.25,2.5
+VeriFone Inc.,11/12/2021 07:38:00 AM,11/12/2021 07:45:56 AM,2.0,2.03,Standard rate,N,140,233,Credit card,8.5,0.0,0.5,1.65,0.0,0.3,13.45,2.5
+"Creative Mobile Technologies, LLC",11/17/2021 04:56:16 PM,11/17/2021 05:31:27 PM,1.0,3.4,Standard rate,N,100,249,Credit card,22.0,3.5,0.5,7.85,0.0,0.3,34.15,2.5
+VeriFone Inc.,11/21/2021 02:51:47 AM,11/21/2021 03:07:11 AM,2.0,3.21,Standard rate,N,163,79,Credit card,13.0,0.5,0.5,2.5,0.0,0.3,19.3,2.5
+"Creative Mobile Technologies, LLC",11/02/2021 09:36:14 AM,11/02/2021 09:50:27 AM,1.0,2.0,Standard rate,N,246,163,Credit card,11.0,2.5,0.5,2.85,0.0,0.3,17.15,2.5
+VeriFone Inc.,11/08/2021 08:39:53 AM,11/08/2021 08:47:21 AM,1.0,1.26,Standard rate,N,211,113,Credit card,7.0,0.0,0.5,3.09,0.0,0.3,13.39,2.5
+VeriFone Inc.,11/18/2021 05:19:33 PM,11/18/2021 05:24:34 PM,1.0,1.13,Standard rate,N,79,224,Credit card,6.0,1.0,0.5,3.09,0.0,0.3,13.39,2.5
+VeriFone Inc.,11/14/2021 02:50:21 PM,11/14/2021 02:55:19 PM,1.0,1.31,Standard rate,N,141,263,Credit card,6.0,0.0,0.5,1.0,0.0,0.3,10.3,2.5
+VeriFone Inc.,11/12/2021 08:40:46 AM,11/12/2021 08:43:19 AM,1.0,0.47,Standard rate,N,237,237,Credit card,4.0,0.0,0.5,0.7,0.0,0.3,8.0,2.5
+VeriFone Inc.,11/06/2021 01:29:53 AM,11/06/2021 01:37:04 AM,1.0,1.39,Standard rate,N,158,90,Cash,7.0,0.5,0.5,0.0,0.0,0.3,10.8,2.5
+VeriFone Inc.,11/23/2021 11:53:21 AM,11/23/2021 11:59:16 AM,1.0,0.79,Standard rate,N,262,141,Credit card,5.5,0.0,0.5,1.32,0.0,0.3,10.12,2.5
+VeriFone Inc.,11/13/2021 01:40:03 AM,11/13/2021 01:50:09 AM,1.0,1.5,Standard rate,N,170,114,Credit card,9.0,0.5,0.5,2.56,0.0,0.3,15.36,2.5
+VeriFone Inc.,11/19/2021 11:38:23 PM,11/19/2021 11:50:04 PM,1.0,2.37,Standard rate,N,239,41,Credit card,10.5,0.5,0.5,2.86,0.0,0.3,17.16,2.5
+"Creative Mobile Technologies, LLC",11/02/2021 09:49:19 AM,11/02/2021 09:58:09 AM,1.0,1.2,Standard rate,N,164,162,Credit card,7.5,2.5,0.5,1.0,0.0,0.3,11.8,2.5
+"Creative Mobile Technologies, LLC",11/24/2021 06:03:03 AM,11/24/2021 06:07:49 AM,2.0,1.2,Standard rate,N,50,246,Credit card,6.0,2.5,0.5,1.85,0.0,0.3,11.15,2.5
+"Creative Mobile Technologies, LLC",11/21/2021 02:16:16 AM,11/21/2021 02:25:41 AM,3.0,1.6,Standard rate,N,79,231,Credit card,8.5,3.0,0.5,3.05,0.0,0.3,15.35,2.5
+VeriFone Inc.,11/22/2021 07:44:25 PM,11/22/2021 07:54:58 PM,1.0,1.04,Standard rate,N,142,143,Credit card,8.0,1.0,0.5,0.0,0.0,0.3,12.3,2.5
+"Creative Mobile Technologies, LLC",11/07/2021 07:49:45 PM,11/07/2021 08:03:15 PM,1.0,3.6,Standard rate,N,79,141,Credit card,13.0,2.5,0.5,3.25,0.0,0.3,19.55,2.5
+VeriFone Inc.,11/19/2021 06:13:46 PM,11/19/2021 06:30:40 PM,1.0,4.21,Standard rate,N,12,68,Cash,16.0,1.0,0.5,0.0,0.0,0.3,20.3,2.5
+"Creative Mobile Technologies, LLC",11/10/2021 02:24:53 PM,11/10/2021 02:31:12 PM,1.0,0.9,Standard rate,N,141,236,Credit card,6.0,2.5,0.5,1.4,0.0,0.3,10.7,2.5
+"Creative Mobile Technologies, LLC",11/26/2021 09:54:27 PM,11/26/2021 10:00:56 PM,1.0,1.8,Standard rate,N,90,48,Credit card,7.5,3.0,0.5,2.8,0.0,0.3,14.1,2.5
+VeriFone Inc.,11/13/2021 11:40:29 PM,11/13/2021 11:43:42 PM,1.0,0.71,Standard rate,N,141,263,Credit card,4.5,0.5,0.5,1.24,0.0,0.3,9.54,2.5
+"Creative Mobile Technologies, LLC",11/03/2021 11:43:37 AM,11/03/2021 11:51:42 AM,1.0,1.2,Standard rate,N,211,249,Credit card,7.0,2.5,0.5,2.05,0.0,0.3,12.35,2.5
+VeriFone Inc.,11/01/2021 10:31:49 PM,11/01/2021 10:36:16 PM,1.0,0.97,Standard rate,N,236,237,Credit card,5.5,0.5,0.5,1.4,0.0,0.3,10.7,2.5
+"Creative Mobile Technologies, LLC",11/19/2021 04:53:30 PM,11/19/2021 05:02:31 PM,2.0,0.9,Standard rate,N,236,236,Credit card,7.0,3.5,0.5,2.25,0.0,0.3,13.55,2.5
+VeriFone Inc.,11/04/2021 06:13:25 PM,11/04/2021 06:26:45 PM,1.0,1.71,Standard rate,N,143,48,Credit card,10.0,1.0,0.5,1.5,0.0,0.3,15.8,2.5
+VeriFone Inc.,11/26/2021 05:34:36 PM,11/26/2021 05:38:09 PM,2.0,0.85,Standard rate,N,163,237,Credit card,5.0,1.0,0.5,1.86,0.0,0.3,11.16,2.5
+VeriFone Inc.,11/09/2021 11:41:17 PM,11/09/2021 11:48:15 PM,1.0,0.9,Standard rate,N,230,162,Credit card,6.0,0.5,0.5,2.45,0.0,0.3,12.25,2.5
+"Creative Mobile Technologies, LLC",11/13/2021 04:09:29 AM,11/13/2021 04:23:07 AM,1.0,3.8,Standard rate,N,125,229,Credit card,13.5,3.0,0.5,1.0,0.0,0.3,18.3,2.5
+VeriFone Inc.,11/09/2021 10:24:19 PM,11/09/2021 10:38:19 PM,1.0,3.53,Standard rate,N,230,231,Credit card,12.5,0.5,0.5,2.44,0.0,0.3,18.74,2.5
+"Creative Mobile Technologies, LLC",11/26/2021 08:35:23 AM,11/26/2021 08:42:36 AM,1.0,1.0,Standard rate,N,166,41,Credit card,7.0,0.0,0.5,2.3,0.0,0.3,10.1,0.0
+"Creative Mobile Technologies, LLC",11/06/2021 03:13:53 PM,11/06/2021 03:20:45 PM,2.0,0.8,Standard rate,N,230,170,Credit card,6.0,2.5,0.5,1.85,0.0,0.3,11.15,2.5
+VeriFone Inc.,11/15/2021 02:37:16 PM,11/15/2021 02:47:56 PM,3.0,2.32,Standard rate,N,107,141,Credit card,10.0,0.5,0.5,1.0,0.0,0.3,14.8,2.5
+VeriFone Inc.,11/19/2021 06:17:07 PM,11/19/2021 06:35:38 PM,2.0,2.31,Standard rate,N,234,246,Credit card,13.5,1.0,0.5,3.56,0.0,0.3,21.36,2.5
+VeriFone Inc.,11/18/2021 08:21:13 AM,11/18/2021 08:22:48 AM,2.0,0.47,Standard rate,N,239,239,Credit card,3.5,0.0,0.5,1.36,0.0,0.3,8.16,2.5
+VeriFone Inc.,11/26/2021 03:38:08 PM,11/26/2021 03:46:51 PM,1.0,1.91,Standard rate,N,161,236,Credit card,9.0,0.0,0.5,3.08,0.0,0.3,15.38,2.5
+"Creative Mobile Technologies, LLC",11/01/2021 04:27:18 PM,11/01/2021 04:36:37 PM,1.0,1.9,Standard rate,N,170,140,Credit card,8.5,3.5,0.5,0.0,0.0,0.3,12.8,2.5
+VeriFone Inc.,11/02/2021 07:46:07 AM,11/02/2021 07:50:08 AM,1.0,0.47,Standard rate,N,231,13,Credit card,4.5,0.0,0.5,1.95,0.0,0.3,9.75,2.5
+VeriFone Inc.,11/16/2021 02:50:51 PM,11/16/2021 03:01:06 PM,1.0,1.94,Standard rate,N,151,116,Cash,9.5,0.0,0.5,0.0,0.0,0.3,10.3,0.0
+VeriFone Inc.,11/06/2021 03:39:15 PM,11/06/2021 03:52:10 PM,1.0,1.89,Standard rate,N,231,249,Credit card,10.5,0.0,0.5,2.76,0.0,0.3,16.56,2.5
+VeriFone Inc.,11/14/2021 06:37:26 PM,11/14/2021 06:52:29 PM,2.0,1.38,Standard rate,N,164,230,Credit card,10.5,0.0,0.5,2.76,0.0,0.3,16.56,2.5
+"Creative Mobile Technologies, LLC",11/17/2021 07:26:53 AM,11/17/2021 07:37:55 AM,1.0,2.0,Standard rate,N,186,162,Credit card,9.5,2.5,0.5,1.0,0.0,0.3,13.8,2.5
+"Creative Mobile Technologies, LLC",11/02/2021 10:42:49 PM,11/02/2021 10:58:49 PM,2.0,2.9,Standard rate,Y,48,238,Credit card,13.5,3.0,0.5,1.73,0.0,0.3,19.03,2.5
+VeriFone Inc.,11/10/2021 09:36:02 PM,11/10/2021 09:39:36 PM,1.0,1.13,Standard rate,N,236,238,Credit card,5.5,0.5,0.5,1.5,0.0,0.3,10.8,2.5
+VeriFone Inc.,11/06/2021 04:02:03 PM,11/06/2021 04:17:58 PM,2.0,1.63,Standard rate,N,43,170,Cash,11.0,0.0,0.5,0.0,0.0,0.3,14.3,2.5
+"Creative Mobile Technologies, LLC",11/10/2021 07:12:51 PM,11/10/2021 07:30:48 PM,2.0,2.1,Standard rate,N,237,233,Credit card,12.5,3.5,0.5,3.35,0.0,0.3,20.15,2.5
+VeriFone Inc.,11/20/2021 02:12:40 PM,11/20/2021 02:29:58 PM,1.0,2.07,Standard rate,N,238,263,Credit card,12.5,0.0,0.5,2.0,0.0,0.3,17.8,2.5
+VeriFone Inc.,11/06/2021 02:24:18 PM,11/06/2021 02:33:57 PM,2.0,0.84,Standard rate,N,144,144,Credit card,7.0,0.0,0.5,2.06,0.0,0.3,12.36,2.5
+VeriFone Inc.,11/15/2021 03:07:00 PM,11/15/2021 03:22:52 PM,1.0,1.29,Standard rate,N,236,140,Credit card,10.5,0.0,0.5,2.76,0.0,0.3,16.56,2.5
+VeriFone Inc.,11/27/2021 06:05:39 PM,11/27/2021 06:17:28 PM,1.0,1.04,Standard rate,N,68,246,Credit card,8.5,0.0,0.5,2.36,0.0,0.3,14.16,2.5
+VeriFone Inc.,11/04/2021 07:29:58 PM,11/04/2021 07:34:18 PM,2.0,0.58,Standard rate,N,263,43,Cash,5.0,1.0,0.5,0.0,0.0,0.3,9.3,2.5
+VeriFone Inc.,11/17/2021 08:51:19 AM,11/17/2021 09:02:54 AM,2.0,1.15,Standard rate,N,161,48,Credit card,9.0,0.0,0.5,2.46,0.0,0.3,14.76,2.5
+VeriFone Inc.,11/20/2021 05:13:40 PM,11/20/2021 05:47:00 PM,1.0,2.93,Standard rate,N,125,163,Credit card,20.0,0.0,0.5,6.99,0.0,0.3,30.29,2.5
+VeriFone Inc.,11/03/2021 11:52:47 AM,11/03/2021 12:02:46 PM,1.0,0.75,Standard rate,N,161,161,Credit card,7.5,0.0,0.5,1.62,0.0,0.3,12.42,2.5
+"Creative Mobile Technologies, LLC",11/09/2021 07:19:54 PM,11/09/2021 07:24:36 PM,1.0,0.4,Standard rate,N,161,237,Credit card,5.0,3.5,0.5,1.85,0.0,0.3,11.15,2.5
+VeriFone Inc.,11/14/2021 10:44:44 PM,11/14/2021 10:52:07 PM,1.0,1.49,Standard rate,N,48,186,Cash,7.0,0.5,0.5,0.0,0.0,0.3,10.8,2.5
+"Creative Mobile Technologies, LLC",11/06/2021 09:20:58 PM,11/06/2021 09:24:28 PM,4.0,0.4,Standard rate,N,230,163,Credit card,4.5,3.0,0.5,2.05,0.0,0.3,10.35,2.5
+VeriFone Inc.,11/24/2021 08:32:06 AM,11/24/2021 08:35:46 AM,1.0,0.73,Standard rate,N,237,236,Credit card,4.5,0.0,0.5,1.56,0.0,0.3,9.36,2.5
+VeriFone Inc.,11/01/2021 11:44:09 AM,11/01/2021 11:55:22 AM,1.0,0.94,Standard rate,N,246,68,Cash,8.0,0.0,0.5,0.0,0.0,0.3,11.3,2.5
+VeriFone Inc.,11/21/2021 07:43:12 PM,11/21/2021 07:58:27 PM,1.0,2.87,Standard rate,N,68,239,Cash,12.5,0.0,0.5,0.0,0.0,0.3,15.8,2.5
+VeriFone Inc.,11/03/2021 07:49:35 PM,11/03/2021 07:57:16 PM,1.0,1.29,Standard rate,N,68,234,Credit card,7.0,1.0,0.5,2.26,0.0,0.3,13.56,2.5
+VeriFone Inc.,11/16/2021 08:16:39 PM,11/16/2021 08:27:00 PM,6.0,1.62,Standard rate,N,45,144,Credit card,8.5,0.5,0.5,0.0,0.0,0.3,12.3,2.5
+VeriFone Inc.,11/21/2021 04:41:43 PM,11/21/2021 05:03:08 PM,1.0,1.19,Standard rate,N,48,186,Credit card,13.0,0.0,0.5,3.26,0.0,0.3,19.56,2.5
+"Creative Mobile Technologies, LLC",11/17/2021 07:34:54 AM,11/17/2021 07:42:51 AM,1.0,1.2,Standard rate,N,236,43,Credit card,6.5,2.5,0.5,2.0,0.0,0.3,11.8,2.5
+"Creative Mobile Technologies, LLC",11/18/2021 07:34:00 AM,11/18/2021 07:41:24 AM,1.0,1.9,Standard rate,N,107,233,Credit card,8.0,2.5,0.5,1.0,0.0,0.3,12.3,2.5
+VeriFone Inc.,11/17/2021 08:20:07 AM,11/17/2021 08:33:27 AM,1.0,1.5,Standard rate,N,186,233,Credit card,9.5,0.0,0.5,2.56,0.0,0.3,15.36,2.5
+VeriFone Inc.,11/28/2021 10:37:23 PM,11/28/2021 10:54:28 PM,2.0,4.23,Standard rate,N,249,141,Credit card,15.0,0.5,0.5,3.0,0.0,0.3,21.8,2.5
+VeriFone Inc.,11/19/2021 07:21:36 AM,11/20/2021 07:14:37 AM,1.0,1.73,Standard rate,N,263,151,Credit card,9.5,0.0,0.5,0.0,0.0,0.3,12.8,2.5
+"Creative Mobile Technologies, LLC",11/19/2021 10:56:55 PM,11/19/2021 11:06:12 PM,3.0,0.9,Standard rate,N,79,107,Credit card,7.5,3.0,0.5,2.26,0.0,0.3,13.56,2.5
+VeriFone Inc.,11/19/2021 04:59:10 PM,11/19/2021 05:06:49 PM,1.0,1.08,Standard rate,N,79,113,Credit card,6.5,1.0,0.5,2.16,0.0,0.3,12.96,2.5
+VeriFone Inc.,11/08/2021 08:12:21 AM,11/08/2021 08:16:54 AM,1.0,1.03,Standard rate,N,237,162,Credit card,5.5,0.0,0.5,1.76,0.0,0.3,10.56,2.5
+"Creative Mobile Technologies, LLC",11/14/2021 07:40:54 PM,11/14/2021 07:47:04 PM,1.0,1.0,Standard rate,N,137,113,Credit card,6.0,2.5,0.5,1.0,0.0,0.3,10.3,2.5
+VeriFone Inc.,11/07/2021 01:17:17 AM,11/07/2021 01:23:30 AM,1.0,1.07,Standard rate,N,113,224,Credit card,6.0,0.5,0.5,1.96,0.0,0.3,11.76,2.5
+VeriFone Inc.,11/01/2021 08:44:52 AM,11/01/2021 08:53:13 AM,1.0,1.03,Standard rate,N,48,161,Credit card,7.0,0.0,0.5,2.06,0.0,0.3,12.36,2.5
+VeriFone Inc.,11/09/2021 09:45:58 PM,11/09/2021 09:56:24 PM,2.0,1.71,Standard rate,N,209,79,Credit card,9.0,0.5,0.5,1.0,0.0,0.3,13.8,2.5
+VeriFone Inc.,11/14/2021 11:03:09 AM,11/14/2021 11:08:16 AM,1.0,1.0,Standard rate,N,263,236,Credit card,6.0,0.0,0.5,1.0,0.0,0.3,10.3,2.5
+VeriFone Inc.,11/18/2021 06:51:02 PM,11/18/2021 06:59:26 PM,1.0,0.71,Standard rate,N,68,230,Credit card,6.5,1.0,0.5,2.16,0.0,0.3,12.96,2.5
+VeriFone Inc.,11/27/2021 06:53:22 PM,11/27/2021 06:58:56 PM,1.0,0.65,Standard rate,N,239,142,Credit card,5.5,0.0,0.5,1.76,0.0,0.3,10.56,2.5
+VeriFone Inc.,11/07/2021 06:12:31 PM,11/07/2021 06:17:58 PM,1.0,0.15,Standard rate,N,239,239,Credit card,4.0,0.0,0.5,1.46,0.0,0.3,8.76,2.5
+VeriFone Inc.,11/04/2021 08:05:08 PM,11/04/2021 08:12:43 PM,1.0,0.81,Standard rate,N,186,161,Credit card,6.5,0.5,0.5,3.09,0.0,0.3,13.39,2.5
+VeriFone Inc.,11/09/2021 10:09:06 PM,11/09/2021 10:21:16 PM,2.0,2.3,Standard rate,N,161,262,Credit card,10.5,0.5,0.5,2.0,0.0,0.3,16.3,2.5
+"Creative Mobile Technologies, LLC",11/23/2021 12:54:26 PM,11/23/2021 01:05:40 PM,2.0,1.2,Standard rate,N,79,211,Credit card,8.5,2.5,0.5,2.35,0.0,0.3,14.15,2.5
+"Creative Mobile Technologies, LLC",11/29/2021 06:53:03 AM,11/29/2021 07:06:13 AM,1.0,2.4,Standard rate,Y,186,141,Credit card,11.0,2.5,0.5,1.7,0.0,0.3,16.0,2.5
+VeriFone Inc.,11/25/2021 09:57:15 PM,11/25/2021 10:07:20 PM,1.0,3.12,Standard rate,N,79,140,Credit card,11.0,0.5,0.5,4.44,0.0,0.3,19.24,2.5
+VeriFone Inc.,11/25/2021 01:25:56 AM,11/25/2021 01:36:59 AM,2.0,1.92,Standard rate,N,79,113,Credit card,9.5,0.5,0.5,2.66,0.0,0.3,15.96,2.5
+VeriFone Inc.,11/04/2021 04:20:04 PM,11/04/2021 04:31:32 PM,5.0,1.08,Standard rate,N,107,170,Credit card,8.5,1.0,0.5,2.56,0.0,0.3,15.36,2.5
+VeriFone Inc.,11/18/2021 04:41:44 PM,11/18/2021 05:00:50 PM,2.0,2.44,Standard rate,N,161,239,Credit card,13.5,1.0,0.5,3.56,0.0,0.3,21.36,2.5
+VeriFone Inc.,11/02/2021 09:48:11 AM,11/02/2021 10:06:56 AM,1.0,2.38,Standard rate,N,170,113,Credit card,13.0,0.0,0.5,3.0,0.0,0.3,19.3,2.5
+"Creative Mobile Technologies, LLC",11/29/2021 09:59:34 PM,11/29/2021 10:11:23 PM,2.0,2.2,Standard rate,N,239,230,Credit card,10.5,3.0,0.5,0.0,0.0,0.3,14.3,2.5
+VeriFone Inc.,11/10/2021 03:53:32 PM,11/10/2021 04:10:01 PM,5.0,1.63,Standard rate,N,143,151,Credit card,11.5,0.0,0.5,2.22,0.0,0.3,17.02,2.5
+VeriFone Inc.,11/30/2021 08:42:25 AM,11/30/2021 08:49:20 AM,1.0,0.72,Standard rate,N,141,162,Credit card,6.0,0.0,0.5,1.86,0.0,0.3,11.16,2.5
+"Creative Mobile Technologies, LLC",11/27/2021 11:04:47 AM,11/27/2021 11:07:27 AM,1.0,1.0,Standard rate,N,237,162,Credit card,5.0,2.5,0.5,2.45,0.0,0.3,10.75,2.5
+VeriFone Inc.,11/05/2021 06:54:57 AM,11/05/2021 07:00:04 AM,3.0,1.08,Standard rate,N,238,75,Cash,6.0,0.0,0.5,0.0,0.0,0.3,6.8,0.0
+VeriFone Inc.,11/20/2021 03:04:55 PM,11/20/2021 03:12:28 PM,1.0,1.38,Standard rate,N,142,238,Credit card,7.0,0.0,0.5,2.58,0.0,0.3,12.88,2.5
+"Creative Mobile Technologies, LLC",11/14/2021 02:52:49 PM,11/14/2021 02:57:35 PM,1.0,0.3,Standard rate,N,237,237,Credit card,5.0,2.5,0.5,1.65,0.0,0.3,9.95,2.5
+VeriFone Inc.,11/03/2021 01:41:28 PM,11/03/2021 01:57:14 PM,1.0,1.8,Standard rate,N,239,161,Credit card,11.5,0.0,0.5,0.8,0.0,0.3,15.6,2.5
+VeriFone Inc.,11/10/2021 07:02:27 AM,11/10/2021 07:06:12 AM,2.0,0.79,Standard rate,N,186,230,Credit card,4.5,0.0,0.5,1.56,0.0,0.3,9.36,2.5
+"Creative Mobile Technologies, LLC",11/22/2021 03:25:58 PM,11/22/2021 03:33:52 PM,1.0,1.0,Standard rate,N,142,239,Credit card,7.0,2.5,0.5,2.05,0.0,0.3,12.35,2.5
+VeriFone Inc.,11/09/2021 08:40:03 AM,11/09/2021 09:04:33 AM,4.0,2.95,Standard rate,N,237,100,Credit card,16.5,0.0,0.5,3.96,0.0,0.3,23.76,2.5
+VeriFone Inc.,11/22/2021 04:06:59 PM,11/22/2021 04:13:33 PM,1.0,0.85,Standard rate,N,239,142,Credit card,6.0,1.0,0.5,1.54,0.0,0.3,11.84,2.5
+VeriFone Inc.,11/13/2021 10:46:26 PM,11/13/2021 10:50:38 PM,1.0,0.71,Standard rate,N,142,163,Cash,5.0,0.5,0.5,0.0,0.0,0.3,8.8,2.5
+"Creative Mobile Technologies, LLC",11/10/2021 01:37:40 PM,11/10/2021 01:45:05 PM,1.0,0.9,Standard rate,N,161,161,Cash,6.5,2.5,0.5,0.0,0.0,0.3,9.8,2.5
+"Creative Mobile Technologies, LLC",11/13/2021 04:32:28 PM,11/13/2021 04:54:17 PM,1.0,1.8,Standard rate,N,158,231,Credit card,14.0,2.5,0.5,3.45,0.0,0.3,20.75,2.5
+VeriFone Inc.,11/29/2021 10:48:11 AM,11/29/2021 11:02:43 AM,1.0,2.97,Standard rate,N,166,142,Credit card,12.5,0.0,0.5,2.0,0.0,0.3,17.8,2.5
+VeriFone Inc.,11/22/2021 06:03:05 PM,11/22/2021 06:16:23 PM,1.0,1.29,Standard rate,N,234,100,Credit card,9.5,1.0,0.5,2.0,0.0,0.3,15.8,2.5
+VeriFone Inc.,11/17/2021 03:32:36 PM,11/17/2021 04:12:30 PM,1.0,4.27,Standard rate,N,43,231,Credit card,25.0,0.0,0.5,5.66,0.0,0.3,33.96,2.5
+VeriFone Inc.,11/02/2021 06:09:08 PM,11/02/2021 06:29:12 PM,1.0,2.79,Standard rate,N,140,100,Credit card,14.5,0.0,0.5,5.34,0.0,0.3,23.14,2.5
+"Creative Mobile Technologies, LLC",11/11/2021 06:14:26 AM,11/11/2021 06:23:23 AM,1.0,1.7,Standard rate,N,261,114,Credit card,8.0,2.5,0.5,2.26,0.0,0.3,13.56,2.5
+VeriFone Inc.,11/06/2021 08:16:36 PM,11/06/2021 08:30:24 PM,1.0,1.85,Standard rate,N,211,158,Credit card,10.5,0.5,0.5,2.86,0.0,0.3,17.16,2.5
+VeriFone Inc.,11/13/2021 05:57:12 PM,11/13/2021 06:21:31 PM,1.0,3.45,Standard rate,N,68,239,Credit card,18.0,0.0,0.5,4.26,0.0,0.3,25.56,2.5
+VeriFone Inc.,11/03/2021 06:09:22 AM,11/03/2021 06:17:11 AM,1.0,2.76,Standard rate,N,74,140,Credit card,9.5,0.0,0.5,2.56,0.0,0.3,15.36,2.5
+VeriFone Inc.,11/12/2021 06:28:23 PM,11/12/2021 06:41:33 PM,2.0,1.92,Standard rate,N,151,142,Credit card,10.5,1.0,0.5,2.96,0.0,0.3,17.76,2.5
+"Creative Mobile Technologies, LLC",11/27/2021 01:38:48 PM,11/27/2021 01:48:07 PM,1.0,1.1,Standard rate,N,237,161,Credit card,8.0,2.5,0.5,2.25,0.0,0.3,13.55,2.5
+VeriFone Inc.,11/04/2021 01:52:36 PM,11/04/2021 01:59:52 PM,1.0,1.17,Standard rate,N,186,48,Credit card,7.0,0.0,0.5,3.0,0.0,0.3,13.3,2.5
+"Creative Mobile Technologies, LLC",11/07/2021 10:20:56 AM,11/07/2021 10:31:52 AM,1.0,3.4,Standard rate,N,249,237,Credit card,11.5,2.5,0.5,2.95,0.0,0.3,17.75,2.5
+VeriFone Inc.,11/17/2021 12:25:22 PM,11/17/2021 12:34:50 PM,1.0,1.84,Standard rate,N,166,238,Credit card,9.0,0.0,0.5,1.84,0.0,0.3,14.14,2.5
+"Creative Mobile Technologies, LLC",11/22/2021 05:54:27 PM,11/22/2021 06:02:45 PM,1.0,0.7,Standard rate,N,113,125,Credit card,6.5,3.5,0.5,3.2,0.0,0.3,14.0,2.5
+"Creative Mobile Technologies, LLC",11/21/2021 07:19:20 PM,11/21/2021 07:40:47 PM,1.0,3.6,Standard rate,N,141,90,Credit card,16.5,2.5,0.5,7.0,0.0,0.3,26.8,2.5
+VeriFone Inc.,11/08/2021 10:55:14 PM,11/08/2021 10:58:16 PM,6.0,1.02,Standard rate,N,239,142,Credit card,5.0,0.5,0.5,1.76,0.0,0.3,10.56,2.5
+"Creative Mobile Technologies, LLC",11/22/2021 12:48:35 PM,11/22/2021 12:57:05 PM,1.0,0.7,Standard rate,N,237,237,Cash,7.0,2.5,0.5,0.0,0.0,0.3,10.3,2.5
+"Creative Mobile Technologies, LLC",11/06/2021 04:30:34 PM,11/06/2021 05:03:53 PM,1.0,8.0,Standard rate,Y,238,211,Cash,28.5,2.5,0.5,0.0,0.0,0.3,31.8,2.5
+"Creative Mobile Technologies, LLC",11/04/2021 07:15:04 PM,11/04/2021 07:28:22 PM,1.0,1.8,Standard rate,N,238,163,Cash,10.5,3.5,0.5,0.0,0.0,0.3,14.8,2.5
+VeriFone Inc.,11/30/2021 10:16:38 AM,11/30/2021 10:19:12 AM,1.0,0.33,Standard rate,N,161,161,Credit card,3.5,0.0,0.5,2.0,0.0,0.3,8.8,2.5
+VeriFone Inc.,11/16/2021 07:44:54 PM,11/16/2021 07:48:45 PM,1.0,0.69,Standard rate,N,161,170,Credit card,4.5,1.0,0.5,2.2,0.0,0.3,11.0,2.5
+"Creative Mobile Technologies, LLC",11/05/2021 02:29:34 PM,11/05/2021 02:38:02 PM,1.0,1.0,Standard rate,N,161,142,Credit card,7.0,2.5,0.5,2.05,0.0,0.3,12.35,2.5
+VeriFone Inc.,11/17/2021 07:04:04 PM,11/17/2021 07:32:15 PM,1.0,3.86,Standard rate,N,263,186,Credit card,19.0,1.0,0.5,0.7,0.0,0.3,24.0,2.5
+VeriFone Inc.,11/04/2021 11:31:33 AM,11/04/2021 11:40:32 AM,1.0,1.9,Standard rate,N,233,140,Cash,9.0,0.0,0.5,0.0,0.0,0.3,12.3,2.5
+VeriFone Inc.,11/20/2021 11:03:03 PM,11/20/2021 11:09:44 PM,1.0,1.46,Standard rate,N,142,230,Cash,6.5,0.5,0.5,0.0,0.0,0.3,10.3,2.5
+VeriFone Inc.,11/08/2021 03:52:49 PM,11/08/2021 04:16:06 PM,1.0,2.46,Standard rate,N,161,239,Credit card,15.5,1.0,0.5,3.96,0.0,0.3,23.76,2.5
+VeriFone Inc.,11/30/2021 11:33:52 PM,11/30/2021 11:39:28 PM,1.0,1.29,Standard rate,N,48,100,Credit card,6.0,0.5,0.5,1.96,0.0,0.3,11.76,2.5
+"Creative Mobile Technologies, LLC",11/24/2021 11:15:56 AM,11/24/2021 11:36:43 AM,1.0,2.7,Standard rate,N,236,170,Cash,15.0,2.5,0.5,0.0,0.0,0.3,18.3,2.5
+"Creative Mobile Technologies, LLC",11/17/2021 04:16:55 PM,11/17/2021 04:24:57 PM,1.0,0.7,Standard rate,N,237,237,Cash,7.0,3.5,0.5,0.0,0.0,0.3,11.3,2.5
+VeriFone Inc.,11/18/2021 04:58:52 PM,11/18/2021 05:10:56 PM,1.0,2.58,Standard rate,N,137,141,Credit card,10.5,1.0,0.5,2.0,0.0,0.3,16.8,2.5
+"Creative Mobile Technologies, LLC",11/08/2021 09:35:53 PM,11/08/2021 09:48:08 PM,1.0,2.8,Standard rate,N,48,141,Credit card,11.5,3.0,0.5,1.5,0.0,0.3,16.8,2.5
+"Creative Mobile Technologies, LLC",11/23/2021 09:27:57 PM,11/23/2021 09:31:27 PM,1.0,0.8,Standard rate,N,237,236,Credit card,5.0,3.0,0.5,2.0,0.0,0.3,10.8,2.5
+"Creative Mobile Technologies, LLC",11/30/2021 11:51:52 AM,11/30/2021 12:11:28 PM,1.0,2.0,Standard rate,N,236,140,Credit card,13.0,2.5,0.5,3.25,0.0,0.3,19.55,2.5
+VeriFone Inc.,11/10/2021 05:16:55 PM,11/10/2021 05:41:53 PM,1.0,2.82,Standard rate,N,163,79,Credit card,16.5,1.0,0.5,3.0,0.0,0.3,23.8,2.5
+VeriFone Inc.,11/07/2021 11:43:34 PM,11/08/2021 12:02:04 AM,1.0,7.17,Standard rate,N,162,244,Credit card,22.5,0.5,0.5,6.58,0.0,0.3,32.88,2.5
+"Creative Mobile Technologies, LLC",11/28/2021 10:31:25 AM,11/28/2021 10:39:34 AM,1.0,1.5,Standard rate,N,148,209,Credit card,7.5,2.5,0.5,2.15,0.0,0.3,12.95,2.5
+VeriFone Inc.,11/13/2021 10:08:05 PM,11/13/2021 10:17:42 PM,1.0,1.83,Standard rate,N,236,238,Credit card,8.5,0.5,0.5,2.46,0.0,0.3,14.76,2.5
+VeriFone Inc.,11/07/2021 01:43:45 AM,11/07/2021 01:50:31 AM,1.0,1.36,Standard rate,N,249,90,Credit card,7.0,0.5,0.5,2.0,0.0,0.3,12.8,2.5
+VeriFone Inc.,11/27/2021 08:41:52 PM,11/27/2021 09:00:21 PM,1.0,3.1,Standard rate,N,262,164,Credit card,14.5,0.5,0.5,1.5,0.0,0.3,19.8,2.5
+VeriFone Inc.,11/03/2021 06:34:13 PM,11/03/2021 06:43:47 PM,1.0,1.18,Standard rate,N,161,164,Credit card,8.0,1.0,0.5,2.46,0.0,0.3,14.76,2.5
+"Creative Mobile Technologies, LLC",11/24/2021 07:15:29 PM,11/24/2021 07:23:08 PM,1.0,1.4,Standard rate,N,186,158,Credit card,7.0,3.5,0.5,2.8,0.0,0.3,14.1,2.5
+"Creative Mobile Technologies, LLC",11/17/2021 07:22:07 PM,11/17/2021 07:33:34 PM,1.0,1.4,Standard rate,N,261,88,Cash,9.0,3.5,0.5,0.0,0.0,0.3,13.3,2.5
+VeriFone Inc.,11/20/2021 12:26:55 PM,11/20/2021 12:49:20 PM,1.0,3.14,Standard rate,N,141,68,Credit card,15.5,0.0,0.5,3.76,0.0,0.3,22.56,2.5
+"Creative Mobile Technologies, LLC",11/15/2021 10:28:23 AM,11/15/2021 10:39:44 AM,1.0,3.2,Standard rate,N,13,246,Credit card,12.0,2.5,0.5,1.0,0.0,0.3,16.3,2.5
+VeriFone Inc.,11/05/2021 01:05:19 PM,11/05/2021 01:16:38 PM,1.0,1.41,Standard rate,N,237,239,Credit card,9.0,0.0,0.5,2.46,0.0,0.3,14.76,2.5
+"Creative Mobile Technologies, LLC",11/23/2021 03:37:44 PM,11/23/2021 04:02:58 PM,1.0,3.6,Standard rate,N,229,74,Cash,17.5,2.5,0.5,0.0,0.0,0.3,20.8,2.5
+VeriFone Inc.,11/08/2021 08:10:04 PM,11/08/2021 08:17:16 PM,4.0,1.3,Standard rate,N,237,140,Credit card,7.0,0.5,0.5,2.16,0.0,0.3,12.96,2.5
+"Creative Mobile Technologies, LLC",11/09/2021 05:38:27 PM,11/09/2021 05:45:31 PM,1.0,1.1,Standard rate,N,239,151,Cash,6.5,3.5,0.5,0.0,0.0,0.3,10.8,2.5
+VeriFone Inc.,11/23/2021 03:42:48 PM,11/23/2021 03:50:35 PM,2.0,0.81,Standard rate,N,43,161,Credit card,6.5,0.0,0.5,2.0,0.0,0.3,11.8,2.5
+VeriFone Inc.,11/28/2021 01:59:17 PM,11/28/2021 02:17:30 PM,1.0,2.26,Standard rate,N,186,4,Credit card,12.5,0.0,0.5,1.0,0.0,0.3,16.8,2.5
+"Creative Mobile Technologies, LLC",11/26/2021 03:21:12 PM,11/26/2021 03:24:53 PM,2.0,0.3,Standard rate,N,113,114,Credit card,4.5,2.5,0.5,1.55,0.0,0.3,9.35,2.5
+"Creative Mobile Technologies, LLC",11/19/2021 06:16:33 PM,11/19/2021 06:22:39 PM,1.0,1.5,Standard rate,N,237,236,Credit card,6.5,3.5,0.5,2.0,0.0,0.3,12.8,2.5
+"Creative Mobile Technologies, LLC",11/15/2021 04:00:21 PM,11/15/2021 04:08:17 PM,2.0,2.2,Standard rate,N,13,209,Cash,9.0,2.5,0.5,0.0,0.0,0.3,12.3,2.5
+VeriFone Inc.,11/14/2021 04:36:33 PM,11/14/2021 04:45:02 PM,5.0,0.31,Standard rate,N,48,68,Credit card,6.5,0.0,0.5,1.96,0.0,0.3,11.76,2.5
+VeriFone Inc.,11/05/2021 07:01:54 PM,11/05/2021 07:05:58 PM,2.0,0.47,Standard rate,N,249,249,Cash,4.5,1.0,0.5,0.0,0.0,0.3,8.8,2.5
+VeriFone Inc.,11/08/2021 06:18:04 PM,11/08/2021 06:32:54 PM,1.0,2.07,Standard rate,N,75,140,Credit card,10.5,1.0,0.5,3.7,0.0,0.3,18.5,2.5
+VeriFone Inc.,11/17/2021 02:54:44 PM,11/17/2021 03:28:54 PM,1.0,5.79,Standard rate,N,90,13,Cash,25.5,0.0,0.5,0.0,0.0,0.3,28.8,2.5
+"Creative Mobile Technologies, LLC",11/13/2021 05:39:15 PM,11/13/2021 06:06:24 PM,2.0,3.6,Standard rate,N,263,170,Credit card,19.0,2.5,0.5,2.23,0.0,0.3,24.53,2.5
+VeriFone Inc.,11/04/2021 11:12:54 PM,11/04/2021 11:20:18 PM,1.0,2.9,Standard rate,N,107,141,Credit card,9.5,0.5,0.5,2.66,0.0,0.3,15.96,2.5
+VeriFone Inc.,11/13/2021 04:22:05 AM,11/13/2021 04:24:50 AM,4.0,0.63,Standard rate,N,68,246,Credit card,4.5,0.5,0.5,2.49,0.0,0.3,10.79,2.5
+VeriFone Inc.,11/13/2021 11:48:29 PM,11/13/2021 11:55:59 PM,1.0,1.41,Standard rate,N,163,170,Credit card,7.0,0.5,0.5,2.16,0.0,0.3,12.96,2.5
+VeriFone Inc.,11/14/2021 01:49:33 AM,11/14/2021 01:59:09 AM,2.0,1.85,Standard rate,N,141,161,Credit card,9.0,0.5,0.5,0.0,0.0,0.3,12.8,2.5
+VeriFone Inc.,11/05/2021 04:23:45 PM,11/05/2021 04:37:44 PM,1.0,1.83,Standard rate,N,142,238,Credit card,11.0,1.0,0.5,1.0,0.0,0.3,16.3,2.5
+VeriFone Inc.,11/03/2021 10:57:55 PM,11/03/2021 11:28:37 PM,2.0,8.43,Standard rate,N,230,243,Credit card,30.0,0.5,0.5,8.45,0.0,0.3,42.25,2.5
+VeriFone Inc.,11/26/2021 12:47:24 PM,11/26/2021 01:06:51 PM,3.0,3.37,Standard rate,N,162,211,Cash,14.0,0.0,0.5,0.0,0.0,0.3,17.3,2.5
+VeriFone Inc.,11/04/2021 06:24:48 PM,11/04/2021 06:44:17 PM,1.0,1.65,Standard rate,N,161,234,Credit card,12.5,1.0,0.5,2.52,0.0,0.3,19.32,2.5
+VeriFone Inc.,11/09/2021 02:45:53 PM,11/09/2021 02:57:00 PM,1.0,1.84,Standard rate,N,239,48,Credit card,9.5,0.0,0.5,2.56,0.0,0.3,15.36,2.5
+VeriFone Inc.,11/10/2021 07:38:01 AM,11/10/2021 07:51:36 AM,3.0,1.71,Standard rate,N,236,236,Credit card,10.0,0.0,0.5,1.33,0.0,0.3,14.63,2.5
+VeriFone Inc.,11/29/2021 05:11:13 PM,11/29/2021 05:13:41 PM,2.0,0.45,Standard rate,N,229,229,Credit card,3.5,1.0,0.5,2.08,0.0,0.3,9.88,2.5
+VeriFone Inc.,11/22/2021 11:27:40 AM,11/22/2021 11:36:11 AM,1.0,1.15,Standard rate,N,246,50,Credit card,7.5,0.0,0.5,2.16,0.0,0.3,12.96,2.5
+VeriFone Inc.,11/07/2021 12:37:17 AM,11/07/2021 12:48:26 AM,1.0,2.03,Standard rate,N,164,229,Credit card,9.5,0.5,0.5,2.66,0.0,0.3,15.96,2.5
+VeriFone Inc.,11/16/2021 02:57:44 PM,11/16/2021 03:00:41 PM,1.0,0.32,Standard rate,N,140,262,Cash,4.0,0.0,0.5,0.0,0.0,0.3,7.3,2.5
+VeriFone Inc.,11/10/2021 06:02:23 PM,11/10/2021 06:14:43 PM,1.0,2.3,Standard rate,N,107,161,Credit card,10.5,1.0,0.5,2.0,0.0,0.3,16.8,2.5
+VeriFone Inc.,11/03/2021 06:37:05 PM,11/03/2021 06:43:56 PM,1.0,1.01,Standard rate,N,234,107,Credit card,6.0,1.0,0.5,2.06,0.0,0.3,12.36,2.5
+VeriFone Inc.,11/06/2021 03:24:50 PM,11/06/2021 03:55:09 PM,1.0,5.88,Standard rate,N,141,158,Credit card,23.0,0.0,0.5,5.26,0.0,0.3,31.56,2.5
+VeriFone Inc.,11/18/2021 09:15:08 AM,11/18/2021 09:27:54 AM,2.0,2.57,Standard rate,N,164,158,Cash,10.5,0.0,0.5,0.0,0.0,0.3,13.8,2.5
+"Creative Mobile Technologies, LLC",11/01/2021 03:29:35 PM,11/01/2021 03:44:04 PM,2.0,2.4,Standard rate,N,43,186,Cash,11.5,2.5,0.5,0.0,0.0,0.3,14.8,2.5
+VeriFone Inc.,11/04/2021 08:06:55 PM,11/04/2021 08:26:51 PM,1.0,2.81,Standard rate,N,230,79,Credit card,14.0,0.5,0.5,3.56,0.0,0.3,21.36,2.5
+VeriFone Inc.,11/13/2021 07:48:32 PM,11/13/2021 08:18:45 PM,3.0,3.31,Standard rate,N,48,79,Credit card,19.0,0.0,0.5,6.69,0.0,0.3,28.99,2.5
+"Creative Mobile Technologies, LLC",11/25/2021 04:56:20 PM,11/25/2021 05:01:42 PM,3.0,0.9,Standard rate,N,114,249,Cash,5.5,2.5,0.5,0.0,0.0,0.3,8.8,2.5
+VeriFone Inc.,11/02/2021 08:52:16 PM,11/02/2021 08:56:18 PM,1.0,1.16,Standard rate,N,162,237,Credit card,5.5,0.5,0.5,1.86,0.0,0.3,11.16,2.5
+VeriFone Inc.,11/30/2021 09:50:20 PM,11/30/2021 10:01:01 PM,1.0,2.52,Standard rate,N,141,107,Credit card,10.0,0.5,0.5,2.76,0.0,0.3,16.56,2.5
+"Creative Mobile Technologies, LLC",11/02/2021 05:39:01 PM,11/02/2021 05:50:22 PM,1.0,1.5,Standard rate,N,164,79,Credit card,9.0,2.5,0.5,2.0,0.0,0.3,14.3,2.5
+VeriFone Inc.,11/22/2021 02:44:47 PM,11/22/2021 03:08:02 PM,1.0,2.33,Standard rate,N,230,107,Credit card,15.5,0.0,0.5,3.76,0.0,0.3,22.56,2.5
+VeriFone Inc.,11/25/2021 10:26:04 AM,11/25/2021 10:30:26 AM,3.0,0.66,Standard rate,N,237,161,Cash,5.0,0.0,0.5,0.0,0.0,0.3,8.3,2.5
+VeriFone Inc.,11/15/2021 02:18:28 PM,11/15/2021 02:28:26 PM,1.0,1.01,Standard rate,N,229,140,Credit card,7.5,0.0,0.5,2.16,0.0,0.3,12.96,2.5
+VeriFone Inc.,11/26/2021 10:01:43 PM,11/26/2021 10:09:17 PM,2.0,1.92,Standard rate,N,263,233,Credit card,8.0,0.5,0.5,2.95,0.0,0.3,14.75,2.5
+VeriFone Inc.,11/30/2021 05:08:11 PM,11/30/2021 05:29:33 PM,1.0,2.55,Standard rate,N,161,249,Cash,14.0,1.0,0.5,0.0,0.0,0.3,18.3,2.5
+VeriFone Inc.,11/16/2021 12:01:55 PM,11/16/2021 12:10:51 PM,1.0,0.97,Standard rate,N,229,140,Credit card,7.5,0.0,0.5,2.5,0.0,0.3,13.3,2.5
+VeriFone Inc.,11/15/2021 04:19:44 PM,11/15/2021 04:28:44 PM,1.0,1.19,Standard rate,N,48,142,Credit card,7.5,1.0,0.5,2.0,0.0,0.3,13.8,2.5
+VeriFone Inc.,11/20/2021 01:39:05 AM,11/20/2021 01:47:41 AM,1.0,0.55,Standard rate,N,238,238,Credit card,7.0,0.5,0.5,2.0,0.0,0.3,12.8,2.5
+"Creative Mobile Technologies, LLC",11/13/2021 05:24:04 PM,11/13/2021 05:32:09 PM,3.0,0.7,Standard rate,N,114,79,Credit card,6.5,2.5,0.5,1.95,0.0,0.3,11.75,2.5
+"Creative Mobile Technologies, LLC",11/04/2021 09:28:30 PM,11/04/2021 09:36:25 PM,1.0,1.3,Standard rate,N,88,144,Cash,7.5,3.0,0.5,0.0,0.0,0.3,11.3,2.5
+VeriFone Inc.,11/14/2021 01:57:54 PM,11/14/2021 02:19:32 PM,2.0,2.46,Standard rate,N,231,79,Credit card,15.0,0.0,0.5,2.0,0.0,0.3,20.3,2.5
+VeriFone Inc.,11/23/2021 04:13:56 PM,11/23/2021 04:29:30 PM,2.0,1.62,Standard rate,N,140,162,Credit card,11.0,1.0,0.5,3.06,0.0,0.3,18.36,2.5
+"Creative Mobile Technologies, LLC",11/12/2021 12:05:13 AM,11/12/2021 12:15:03 AM,2.0,2.3,Standard rate,N,249,48,Credit card,9.5,3.0,0.5,2.65,0.0,0.3,15.95,2.5
+VeriFone Inc.,11/09/2021 07:34:31 AM,11/09/2021 07:46:05 AM,1.0,1.49,Standard rate,N,186,161,Credit card,9.0,0.0,0.5,1.0,0.0,0.3,13.3,2.5
+VeriFone Inc.,11/30/2021 10:43:26 PM,11/30/2021 10:54:05 PM,3.0,2.86,Standard rate,N,48,238,Credit card,10.5,0.5,0.5,4.29,0.0,0.3,18.59,2.5
+VeriFone Inc.,11/06/2021 11:04:56 PM,11/06/2021 11:17:26 PM,3.0,2.77,Standard rate,N,87,125,Credit card,11.5,0.5,0.5,3.06,0.0,0.3,18.36,2.5
+"Creative Mobile Technologies, LLC",11/02/2021 09:07:36 AM,11/02/2021 09:24:46 AM,1.0,1.9,Standard rate,N,237,100,Credit card,12.0,2.5,0.5,2.0,0.0,0.3,17.3,2.5
+VeriFone Inc.,11/29/2021 12:07:30 AM,11/29/2021 12:21:50 AM,2.0,2.85,Standard rate,N,186,4,Credit card,12.0,0.5,0.5,3.16,0.0,0.3,18.96,2.5
+VeriFone Inc.,11/06/2021 05:51:12 PM,11/06/2021 06:14:50 PM,2.0,3.51,Standard rate,N,229,114,Credit card,16.5,0.0,0.5,3.96,0.0,0.3,23.76,2.5
+VeriFone Inc.,11/03/2021 01:42:32 PM,11/03/2021 02:06:10 PM,2.0,3.36,Standard rate,N,158,161,Cash,17.0,0.0,0.5,0.0,0.0,0.3,20.3,2.5
+VeriFone Inc.,11/24/2021 11:59:09 PM,11/25/2021 12:17:05 AM,1.0,2.58,Standard rate,N,229,48,Credit card,13.0,0.5,0.5,3.36,0.0,0.3,20.16,2.5
+VeriFone Inc.,11/19/2021 07:42:30 AM,11/19/2021 08:00:31 AM,1.0,3.01,Standard rate,N,230,263,Credit card,13.0,0.0,0.5,1.0,0.0,0.3,17.3,2.5
+VeriFone Inc.,11/07/2021 06:27:15 PM,11/07/2021 06:53:15 PM,1.0,9.52,Standard rate,N,87,262,Credit card,28.0,0.0,0.5,6.26,0.0,0.3,37.56,2.5
+VeriFone Inc.,11/28/2021 02:01:58 PM,11/28/2021 02:10:46 PM,2.0,0.82,Standard rate,N,100,48,Cash,7.0,0.0,0.5,0.0,0.0,0.3,10.3,2.5
+VeriFone Inc.,11/07/2021 01:42:32 PM,11/07/2021 02:11:45 PM,1.0,4.5,Standard rate,N,75,162,Cash,21.0,0.0,0.5,0.0,0.0,0.3,24.3,2.5
+VeriFone Inc.,11/08/2021 08:58:38 PM,11/08/2021 09:05:29 PM,5.0,1.16,Standard rate,N,163,229,Credit card,7.0,0.5,0.5,2.16,0.0,0.3,12.96,2.5
+"Creative Mobile Technologies, LLC",11/06/2021 03:07:14 PM,11/06/2021 03:33:18 PM,1.0,4.3,Standard rate,N,161,41,Credit card,19.5,2.5,0.5,2.0,0.0,0.3,24.8,2.5
+VeriFone Inc.,11/30/2021 10:12:22 PM,11/30/2021 10:19:56 PM,6.0,1.32,Standard rate,N,163,142,Cash,7.5,0.5,0.5,0.0,0.0,0.3,11.3,2.5
+VeriFone Inc.,11/19/2021 12:54:16 AM,11/19/2021 12:59:09 AM,5.0,1.58,Standard rate,N,239,48,Credit card,6.5,0.5,0.5,2.58,0.0,0.3,12.88,2.5
+VeriFone Inc.,11/17/2021 04:54:53 PM,11/17/2021 05:06:31 PM,1.0,1.5,Standard rate,N,142,141,Credit card,8.5,1.0,0.5,2.56,0.0,0.3,15.36,2.5
+VeriFone Inc.,11/01/2021 02:41:30 PM,11/01/2021 03:00:49 PM,1.0,2.12,Standard rate,N,234,237,Credit card,13.0,0.0,0.5,3.26,0.0,0.3,19.56,2.5
+VeriFone Inc.,11/30/2021 05:20:09 PM,11/30/2021 05:38:03 PM,5.0,2.45,Standard rate,N,238,75,Credit card,13.0,1.0,0.5,3.46,0.0,0.3,20.76,2.5
+VeriFone Inc.,11/30/2021 09:46:14 AM,11/30/2021 09:59:27 AM,1.0,1.33,Standard rate,N,186,163,Credit card,9.5,0.0,0.5,2.56,0.0,0.3,15.36,2.5
+VeriFone Inc.,11/17/2021 07:08:51 AM,11/17/2021 07:10:29 AM,1.0,0.61,Standard rate,N,229,140,Credit card,4.0,0.0,0.5,1.17,0.0,0.3,8.47,2.5
+VeriFone Inc.,11/08/2021 12:56:06 PM,11/08/2021 01:13:26 PM,1.0,1.91,Standard rate,N,161,246,Credit card,12.0,0.0,0.5,3.06,0.0,0.3,18.36,2.5
+VeriFone Inc.,11/01/2021 10:29:30 PM,11/01/2021 10:46:55 PM,1.0,8.29,Standard rate,N,107,152,Credit card,24.5,0.5,0.5,2.0,0.0,0.3,30.3,2.5
+"Creative Mobile Technologies, LLC",11/09/2021 07:02:14 PM,11/09/2021 07:16:43 PM,1.0,2.5,Standard rate,N,161,140,Credit card,11.5,3.5,0.5,3.15,0.0,0.3,18.95,2.5
+VeriFone Inc.,11/04/2021 11:38:52 AM,11/04/2021 11:45:41 AM,1.0,0.86,Standard rate,N,237,162,Credit card,6.5,0.0,0.5,2.0,0.0,0.3,11.8,2.5
+VeriFone Inc.,11/01/2021 10:20:27 PM,11/01/2021 10:26:48 PM,1.0,0.96,Standard rate,N,161,170,Credit card,6.0,0.5,0.5,2.0,0.0,0.3,11.8,2.5
+VeriFone Inc.,11/05/2021 11:14:40 PM,11/05/2021 11:27:40 PM,1.0,2.05,Standard rate,N,143,141,Credit card,10.5,0.5,0.5,2.86,0.0,0.3,17.16,2.5
+VeriFone Inc.,11/17/2021 03:18:28 PM,11/17/2021 03:50:05 PM,2.0,3.65,Standard rate,N,148,229,Credit card,21.0,0.0,0.5,4.86,0.0,0.3,29.16,2.5
+VeriFone Inc.,11/10/2021 03:52:48 PM,11/10/2021 04:09:04 PM,2.0,2.18,Standard rate,N,137,163,Credit card,12.0,0.0,0.5,3.06,0.0,0.3,18.36,2.5
+VeriFone Inc.,11/22/2021 01:29:25 PM,11/22/2021 01:31:13 PM,1.0,0.75,Standard rate,N,74,75,Credit card,4.0,0.0,0.5,1.2,0.0,0.3,6.0,0.0
+VeriFone Inc.,11/26/2021 11:26:43 AM,11/26/2021 11:37:56 AM,1.0,3.03,Standard rate,N,234,141,Cash,11.0,0.0,0.5,0.0,0.0,0.3,14.3,2.5
+VeriFone Inc.,11/08/2021 04:24:10 PM,11/08/2021 04:45:32 PM,1.0,2.68,Standard rate,N,68,79,Credit card,15.0,1.0,0.5,3.86,0.0,0.3,23.16,2.5
+"Creative Mobile Technologies, LLC",11/24/2021 04:40:29 PM,11/24/2021 04:55:51 PM,1.0,2.5,Standard rate,N,79,186,Credit card,12.5,3.5,0.5,3.35,0.0,0.3,20.15,2.5
+"Creative Mobile Technologies, LLC",11/27/2021 09:25:20 PM,11/27/2021 09:43:34 PM,5.0,0.9,Standard rate,N,186,230,Credit card,11.5,3.0,0.5,3.05,0.0,0.3,18.35,2.5
+VeriFone Inc.,11/20/2021 06:08:47 PM,11/20/2021 06:22:59 PM,1.0,1.55,Standard rate,N,113,230,Credit card,10.5,0.0,0.5,2.76,0.0,0.3,16.56,2.5
+"Creative Mobile Technologies, LLC",11/10/2021 08:28:46 PM,11/10/2021 08:42:58 PM,1.0,1.9,Standard rate,N,164,79,Credit card,10.5,3.0,0.5,2.85,0.0,0.3,17.15,2.5
+VeriFone Inc.,11/23/2021 03:04:23 PM,11/23/2021 03:11:04 PM,1.0,0.71,Standard rate,N,236,75,Credit card,6.0,0.0,0.5,1.0,0.0,0.3,10.3,2.5
+VeriFone Inc.,11/13/2021 08:25:16 PM,11/13/2021 08:36:53 PM,3.0,0.94,Standard rate,N,107,113,Credit card,8.5,0.5,0.5,2.46,0.0,0.3,14.76,2.5
+VeriFone Inc.,11/30/2021 09:26:10 PM,11/30/2021 09:36:19 PM,1.0,1.9,Standard rate,N,249,230,Credit card,9.0,0.5,0.5,2.56,0.0,0.3,15.36,2.5
+"Creative Mobile Technologies, LLC",11/22/2021 06:08:39 PM,11/22/2021 06:19:18 PM,1.0,1.6,Standard rate,N,236,74,Credit card,9.0,3.5,0.5,2.65,0.0,0.3,15.95,2.5
+"Creative Mobile Technologies, LLC",11/22/2021 11:52:30 AM,11/22/2021 12:01:37 PM,1.0,1.1,Standard rate,N,237,162,Credit card,7.5,2.5,0.5,2.16,0.0,0.3,12.96,2.5
+VeriFone Inc.,11/09/2021 02:16:44 PM,11/09/2021 02:28:27 PM,5.0,1.54,Standard rate,N,163,170,Credit card,9.0,0.0,0.5,1.84,0.0,0.3,14.14,2.5
+VeriFone Inc.,11/17/2021 05:33:28 PM,11/17/2021 06:05:19 PM,1.0,0.97,Standard rate,N,230,186,Credit card,18.5,1.0,0.5,4.56,0.0,0.3,27.36,2.5
+VeriFone Inc.,11/01/2021 09:58:24 AM,11/01/2021 10:06:21 AM,1.0,1.05,Standard rate,N,237,162,Credit card,7.0,0.0,0.5,2.06,0.0,0.3,12.36,2.5
+VeriFone Inc.,11/23/2021 07:39:35 AM,11/23/2021 07:43:00 AM,1.0,0.55,Standard rate,N,162,229,Cash,4.0,0.0,0.5,0.0,0.0,0.3,7.3,2.5
+VeriFone Inc.,11/14/2021 05:41:53 PM,11/14/2021 06:08:02 PM,1.0,2.8,Standard rate,N,141,48,Credit card,17.5,0.0,0.5,4.16,0.0,0.3,24.96,2.5
+VeriFone Inc.,11/09/2021 09:54:09 PM,11/09/2021 10:12:54 PM,1.0,5.7,Standard rate,N,107,42,Credit card,19.0,0.5,0.5,4.56,0.0,0.3,27.36,2.5
+"Creative Mobile Technologies, LLC",11/17/2021 01:56:28 PM,11/17/2021 02:03:29 PM,2.0,0.6,Standard rate,N,237,140,Cash,6.0,2.5,0.5,0.0,0.0,0.3,9.3,2.5
+VeriFone Inc.,11/21/2021 03:41:35 PM,11/21/2021 03:59:04 PM,1.0,1.95,Standard rate,N,236,141,Cash,12.5,0.0,0.5,0.0,0.0,0.3,15.8,2.5
+VeriFone Inc.,11/19/2021 02:24:14 PM,11/19/2021 02:41:55 PM,1.0,1.33,Standard rate,N,237,236,Credit card,11.5,0.0,0.5,2.96,0.0,0.3,17.76,2.5
+"Creative Mobile Technologies, LLC",11/30/2021 09:03:32 PM,11/30/2021 09:24:14 PM,2.0,5.2,Standard rate,N,163,13,Credit card,19.5,3.0,0.5,5.8,0.0,0.3,29.1,2.5
+VeriFone Inc.,11/06/2021 08:14:18 PM,11/06/2021 08:19:10 PM,2.0,1.18,Standard rate,N,263,75,Cash,6.0,0.5,0.5,0.0,0.0,0.3,9.8,2.5
+VeriFone Inc.,11/16/2021 05:45:34 PM,11/16/2021 05:53:52 PM,1.0,1.03,Standard rate,N,68,161,Credit card,7.0,1.0,0.5,2.26,0.0,0.3,13.56,2.5
+"Creative Mobile Technologies, LLC",11/10/2021 07:47:36 PM,11/10/2021 07:55:50 PM,4.0,0.8,Standard rate,Y,163,230,Credit card,7.0,3.5,0.5,2.25,0.0,0.3,13.55,2.5
+VeriFone Inc.,11/14/2021 11:34:17 AM,11/14/2021 11:42:47 AM,2.0,1.22,Standard rate,N,100,162,Credit card,7.0,0.0,0.5,2.0,0.0,0.3,12.3,2.5
+"Creative Mobile Technologies, LLC",11/07/2021 04:49:23 PM,11/07/2021 04:56:22 PM,1.0,0.7,Standard rate,N,230,163,Credit card,6.0,2.5,0.5,2.3,0.0,0.3,11.6,2.5
+"Creative Mobile Technologies, LLC",11/02/2021 03:38:42 PM,11/02/2021 03:42:30 PM,1.0,1.0,Standard rate,N,50,143,Credit card,5.5,2.5,0.5,1.75,0.0,0.3,10.55,2.5
+VeriFone Inc.,11/20/2021 09:12:49 AM,11/20/2021 09:14:54 AM,1.0,0.84,Standard rate,N,229,141,Credit card,4.5,0.0,0.5,1.17,0.0,0.3,8.97,2.5
+"Creative Mobile Technologies, LLC",11/07/2021 01:17:00 PM,11/07/2021 01:22:08 PM,1.0,1.2,Standard rate,N,233,141,Credit card,6.0,2.5,0.5,2.3,0.0,0.3,11.6,2.5
+"Creative Mobile Technologies, LLC",11/26/2021 07:19:16 PM,11/26/2021 07:38:04 PM,2.0,1.3,Standard rate,N,100,163,Cash,12.0,3.5,0.5,0.0,0.0,0.3,16.3,2.5
+VeriFone Inc.,11/24/2021 05:43:06 PM,11/24/2021 05:53:07 PM,1.0,1.05,Standard rate,N,48,170,Cash,7.5,1.0,0.5,0.0,0.0,0.3,11.8,2.5
+"Creative Mobile Technologies, LLC",11/02/2021 02:40:16 PM,11/02/2021 03:02:34 PM,1.0,3.1,Standard rate,N,113,142,Credit card,15.5,2.5,0.5,3.75,0.0,0.3,22.55,2.5
+"Creative Mobile Technologies, LLC",11/24/2021 04:21:43 PM,11/24/2021 04:37:58 PM,3.0,2.5,Standard rate,N,230,236,Credit card,12.0,3.5,0.5,3.25,0.0,0.3,19.55,2.5
+VeriFone Inc.,11/01/2021 02:17:05 PM,11/01/2021 02:26:01 PM,1.0,1.42,Standard rate,N,68,90,Credit card,7.5,0.0,0.5,2.16,0.0,0.3,12.96,2.5
+VeriFone Inc.,11/16/2021 01:04:58 PM,11/16/2021 01:13:48 PM,1.0,1.4,Standard rate,N,144,249,Credit card,7.5,0.0,0.5,2.16,0.0,0.3,12.96,2.5
+"Creative Mobile Technologies, LLC",11/27/2021 01:14:31 PM,11/27/2021 01:24:06 PM,1.0,2.1,Standard rate,N,246,125,Credit card,9.0,2.5,0.5,3.65,0.0,0.3,15.95,2.5
+VeriFone Inc.,11/19/2021 06:01:53 PM,11/19/2021 06:29:00 PM,4.0,3.7,Standard rate,N,48,148,Credit card,18.5,1.0,0.5,4.56,0.0,0.3,27.36,2.5
+VeriFone Inc.,11/20/2021 07:45:06 PM,11/20/2021 08:08:26 PM,3.0,2.77,Standard rate,N,161,79,Credit card,16.0,0.0,0.5,3.86,0.0,0.3,23.16,2.5
+"Creative Mobile Technologies, LLC",11/18/2021 12:26:02 PM,11/18/2021 12:34:10 PM,1.0,1.1,Standard rate,N,43,236,Cash,7.0,2.5,0.5,0.0,0.0,0.3,10.3,2.5
+VeriFone Inc.,11/07/2021 07:37:28 PM,11/07/2021 07:42:51 PM,2.0,0.61,Standard rate,N,230,164,Cash,5.0,0.0,0.5,0.0,0.0,0.3,8.3,2.5
+VeriFone Inc.,11/17/2021 11:50:10 PM,11/17/2021 11:54:59 PM,1.0,1.12,Standard rate,N,107,170,Credit card,5.5,0.5,0.5,2.0,0.0,0.3,11.3,2.5
+"Creative Mobile Technologies, LLC",11/02/2021 11:55:35 AM,11/02/2021 12:03:45 PM,2.0,1.1,Standard rate,N,239,143,Cash,7.0,2.5,0.5,0.0,0.0,0.3,10.3,2.5
+"Creative Mobile Technologies, LLC",11/24/2021 07:42:14 PM,11/24/2021 07:52:01 PM,1.0,2.6,Standard rate,N,186,79,Cash,10.5,3.5,0.5,0.0,0.0,0.3,14.8,2.5
+VeriFone Inc.,11/10/2021 10:53:03 AM,11/10/2021 11:17:43 AM,1.0,5.32,Standard rate,N,231,170,Credit card,22.0,0.0,0.5,0.0,0.0,0.3,25.3,2.5
+VeriFone Inc.,11/22/2021 04:40:04 PM,11/22/2021 05:12:46 PM,1.0,7.55,Standard rate,N,237,261,Credit card,26.5,1.0,0.5,7.7,0.0,0.3,38.5,2.5
+VeriFone Inc.,11/30/2021 12:07:40 PM,11/30/2021 12:10:47 PM,2.0,0.41,Standard rate,N,249,249,Cash,4.0,0.0,0.5,0.0,0.0,0.3,7.3,2.5
+VeriFone Inc.,11/23/2021 02:46:18 PM,11/23/2021 02:53:12 PM,1.0,0.99,Standard rate,N,237,161,Cash,6.5,0.0,0.5,0.0,0.0,0.3,9.8,2.5
+VeriFone Inc.,11/26/2021 03:54:44 PM,11/26/2021 04:09:56 PM,1.0,1.26,Standard rate,N,230,48,Cash,10.5,0.0,0.5,0.0,0.0,0.3,13.8,2.5
+"Creative Mobile Technologies, LLC",11/14/2021 07:14:58 PM,11/14/2021 07:27:44 PM,1.0,1.4,Standard rate,N,116,244,Cash,9.0,0.0,0.5,0.0,0.0,0.3,9.8,0.0
+VeriFone Inc.,11/15/2021 06:23:18 PM,11/15/2021 06:29:48 PM,1.0,0.57,Standard rate,N,237,163,Cash,5.5,1.0,0.5,0.0,0.0,0.3,9.8,2.5
+VeriFone Inc.,11/27/2021 11:38:43 PM,11/27/2021 11:56:21 PM,1.0,4.82,Standard rate,N,249,263,Cash,16.5,0.5,0.5,0.0,0.0,0.3,20.3,2.5
+VeriFone Inc.,11/10/2021 01:46:55 PM,11/10/2021 01:56:47 PM,1.0,0.85,Standard rate,N,263,141,Cash,7.5,0.0,0.5,0.0,0.0,0.3,10.8,2.5
+"Creative Mobile Technologies, LLC",11/23/2021 09:53:00 PM,11/23/2021 10:01:03 PM,1.0,1.6,Standard rate,N,162,186,Credit card,8.0,3.0,0.5,2.35,0.0,0.3,14.15,2.5
+VeriFone Inc.,11/06/2021 02:54:13 PM,11/06/2021 03:15:05 PM,1.0,3.41,Standard rate,N,238,143,Cash,15.5,0.0,0.5,0.0,0.0,0.3,18.8,2.5
+VeriFone Inc.,11/04/2021 06:54:16 PM,11/04/2021 07:19:04 PM,1.0,3.24,Standard rate,N,79,50,Credit card,17.0,1.0,0.5,2.0,0.0,0.3,23.3,2.5
+VeriFone Inc.,11/01/2021 07:45:33 AM,11/01/2021 07:53:44 AM,6.0,1.33,Standard rate,N,186,161,Credit card,7.5,0.0,0.5,2.16,0.0,0.3,12.96,2.5
+VeriFone Inc.,11/15/2021 01:38:41 PM,11/15/2021 02:05:04 PM,1.0,4.18,Standard rate,N,13,48,Credit card,19.0,0.0,0.5,3.7,0.0,0.3,26.0,2.5
+VeriFone Inc.,11/28/2021 11:18:12 AM,11/28/2021 11:30:18 AM,1.0,1.77,Standard rate,N,186,229,Credit card,9.5,0.0,0.5,0.0,0.0,0.3,12.8,2.5
+"Creative Mobile Technologies, LLC",11/17/2021 07:44:44 AM,11/17/2021 07:53:43 AM,1.0,2.3,Standard rate,N,13,90,Credit card,9.5,2.5,0.5,3.2,0.0,0.3,16.0,2.5
+VeriFone Inc.,11/07/2021 08:06:14 AM,11/07/2021 08:12:50 AM,1.0,1.43,Standard rate,N,107,90,Credit card,7.0,0.0,0.5,2.06,0.0,0.3,12.36,2.5
+VeriFone Inc.,11/23/2021 02:12:01 PM,11/23/2021 02:21:08 PM,1.0,1.42,Standard rate,N,162,107,Cash,7.5,0.0,0.5,0.0,0.0,0.3,10.8,2.5
+VeriFone Inc.,11/08/2021 03:56:09 PM,11/08/2021 04:05:33 PM,1.0,1.06,Standard rate,N,237,162,Credit card,7.5,0.0,0.5,2.16,0.0,0.3,12.96,2.5
+VeriFone Inc.,11/11/2021 08:31:14 AM,11/11/2021 08:37:56 AM,1.0,0.79,Standard rate,N,237,236,Credit card,6.0,0.0,0.5,0.93,0.0,0.3,10.23,2.5
+"Creative Mobile Technologies, LLC",11/11/2021 08:15:32 PM,11/11/2021 08:37:16 PM,1.0,3.4,Standard rate,N,164,231,Credit card,15.5,3.0,0.5,2.0,0.0,0.3,21.3,2.5
+VeriFone Inc.,11/18/2021 07:54:19 PM,11/18/2021 08:16:01 PM,1.0,5.15,Standard rate,N,263,246,Credit card,19.0,1.0,0.5,2.33,0.0,0.3,25.63,2.5
+"Creative Mobile Technologies, LLC",11/15/2021 11:26:41 AM,11/15/2021 11:41:05 AM,2.0,1.5,Standard rate,N,230,164,Credit card,10.5,2.5,0.5,1.5,0.0,0.3,15.3,2.5
+VeriFone Inc.,11/20/2021 02:00:25 AM,11/20/2021 02:08:25 AM,1.0,1.33,Standard rate,N,186,249,Cash,7.0,0.5,0.5,0.0,0.0,0.3,10.8,2.5
+VeriFone Inc.,11/19/2021 04:11:47 PM,11/19/2021 04:13:58 PM,1.0,0.43,Standard rate,N,163,161,Cash,4.0,1.0,0.5,0.0,0.0,0.3,8.3,2.5
+VeriFone Inc.,11/04/2021 07:42:39 PM,11/04/2021 07:48:56 PM,1.0,0.97,Standard rate,N,161,229,Credit card,6.5,1.0,0.5,1.58,0.0,0.3,12.38,2.5
+VeriFone Inc.,11/18/2021 03:10:31 PM,11/18/2021 03:27:13 PM,5.0,2.92,Standard rate,N,238,42,Cash,13.0,0.0,0.5,0.0,0.0,0.3,16.3,2.5
+VeriFone Inc.,11/15/2021 02:17:03 PM,11/15/2021 02:22:32 PM,2.0,0.95,Standard rate,N,236,236,Credit card,5.5,0.0,0.5,1.76,0.0,0.3,10.56,2.5
+VeriFone Inc.,11/04/2021 08:17:41 AM,11/04/2021 08:33:49 AM,1.0,2.31,Standard rate,N,141,230,Credit card,12.0,0.0,0.5,2.75,0.0,0.3,18.05,2.5
+VeriFone Inc.,11/17/2021 05:58:10 PM,11/17/2021 06:08:13 PM,1.0,1.49,Standard rate,N,107,162,Credit card,8.0,1.0,0.5,3.08,0.0,0.3,15.38,2.5
+VeriFone Inc.,11/09/2021 02:50:10 PM,11/09/2021 03:03:36 PM,1.0,0.93,Standard rate,N,263,141,Credit card,9.5,0.0,0.5,2.56,0.0,0.3,15.36,2.5
+VeriFone Inc.,11/07/2021 06:29:08 PM,11/07/2021 06:33:52 PM,1.0,1.23,Standard rate,N,233,162,Credit card,6.0,0.0,0.5,1.86,0.0,0.3,11.16,2.5
+VeriFone Inc.,11/16/2021 10:40:05 AM,11/16/2021 10:47:22 AM,1.0,1.3,Standard rate,N,229,262,Credit card,7.0,0.0,0.5,1.0,0.0,0.3,11.3,2.5
+"Creative Mobile Technologies, LLC",11/21/2021 09:58:40 PM,11/21/2021 10:09:42 PM,1.0,2.0,Standard rate,N,79,158,Cash,10.0,3.0,0.5,0.0,0.0,0.3,13.8,2.5
+VeriFone Inc.,11/22/2021 12:58:29 PM,11/22/2021 01:12:30 PM,2.0,2.47,Standard rate,N,140,161,Credit card,11.5,0.0,0.5,1.2,0.0,0.3,16.0,2.5
+VeriFone Inc.,11/24/2021 07:09:43 PM,11/24/2021 07:15:44 PM,1.0,1.45,Standard rate,N,170,237,Credit card,6.5,1.0,0.5,2.16,0.0,0.3,12.96,2.5
+VeriFone Inc.,11/20/2021 05:58:36 PM,11/20/2021 06:07:18 PM,6.0,1.87,Standard rate,N,140,263,Credit card,8.5,0.0,0.5,2.36,0.0,0.3,14.16,2.5
+VeriFone Inc.,11/24/2021 09:52:12 PM,11/24/2021 10:04:13 PM,2.0,1.83,Standard rate,N,161,246,Credit card,10.0,0.5,0.5,2.76,0.0,0.3,16.56,2.5
+VeriFone Inc.,11/19/2021 02:15:01 PM,11/19/2021 02:32:26 PM,2.0,1.61,Standard rate,N,113,4,Credit card,12.0,0.0,0.5,2.3,0.0,0.3,17.6,2.5
+VeriFone Inc.,11/01/2021 10:41:13 AM,11/01/2021 10:49:32 AM,1.0,1.17,Standard rate,N,239,142,Credit card,7.0,0.0,0.5,5.0,0.0,0.3,15.3,2.5
+"Creative Mobile Technologies, LLC",11/30/2021 01:26:41 PM,11/30/2021 01:36:45 PM,1.0,1.4,Standard rate,N,262,141,Credit card,8.0,2.5,0.5,2.25,0.0,0.3,13.55,2.5
+VeriFone Inc.,11/23/2021 08:15:19 PM,11/23/2021 08:22:27 PM,1.0,1.18,Standard rate,N,237,140,Credit card,6.5,0.5,0.5,1.5,0.0,0.3,11.8,2.5
+VeriFone Inc.,11/03/2021 09:20:19 PM,11/03/2021 09:27:45 PM,1.0,0.99,Standard rate,N,163,170,Credit card,6.5,0.5,0.5,2.06,0.0,0.3,12.36,2.5
+VeriFone Inc.,11/02/2021 07:32:43 AM,11/02/2021 07:49:16 AM,1.0,1.31,Standard rate,N,74,41,Cash,11.5,0.0,0.5,0.0,0.0,0.3,12.3,0.0
+VeriFone Inc.,11/08/2021 12:49:14 PM,11/08/2021 01:12:36 PM,2.0,3.38,Standard rate,N,237,144,Cash,16.5,0.0,0.5,0.0,0.0,0.3,19.8,2.5
+VeriFone Inc.,11/15/2021 11:23:02 AM,11/15/2021 11:38:35 AM,1.0,1.66,Standard rate,N,234,161,Credit card,11.0,0.0,0.5,2.86,0.0,0.3,17.16,2.5
+VeriFone Inc.,11/20/2021 11:34:50 PM,11/20/2021 11:42:36 PM,1.0,1.35,Standard rate,N,249,125,Credit card,7.0,0.5,0.5,2.16,0.0,0.3,12.96,2.5
+"Creative Mobile Technologies, LLC",11/14/2021 06:03:22 PM,11/14/2021 06:22:30 PM,2.0,2.6,Standard rate,N,162,158,Credit card,13.5,2.5,0.5,3.35,0.0,0.3,20.15,2.5
+"Creative Mobile Technologies, LLC",11/18/2021 04:01:09 PM,11/18/2021 04:31:22 PM,1.0,4.5,Standard rate,N,261,100,Credit card,22.5,3.5,0.5,0.0,0.0,0.3,26.8,2.5
+"Creative Mobile Technologies, LLC",11/06/2021 11:19:45 PM,11/06/2021 11:45:02 PM,1.0,3.5,Standard rate,N,141,114,Credit card,17.5,3.0,0.5,4.25,0.0,0.3,25.55,2.5
+"Creative Mobile Technologies, LLC",11/20/2021 04:35:49 PM,11/20/2021 04:49:39 PM,1.0,4.7,Standard rate,N,87,162,Credit card,15.5,2.5,0.5,4.7,0.0,0.3,23.5,2.5
+"Creative Mobile Technologies, LLC",11/16/2021 05:49:48 AM,11/16/2021 06:11:13 AM,1.0,5.0,Standard rate,N,13,90,Credit card,19.0,3.0,0.5,3.0,0.0,0.3,25.8,2.5
+VeriFone Inc.,11/11/2021 05:58:04 PM,11/11/2021 06:19:25 PM,1.0,1.66,Standard rate,N,161,186,Credit card,13.5,0.0,0.5,3.36,0.0,0.3,20.16,2.5
+VeriFone Inc.,11/16/2021 02:17:00 PM,11/16/2021 02:23:45 PM,1.0,0.68,Standard rate,N,236,236,Credit card,6.0,0.0,0.5,1.86,0.0,0.3,11.16,2.5
+"Creative Mobile Technologies, LLC",11/26/2021 05:32:29 PM,11/26/2021 05:38:47 PM,1.0,0.8,Standard rate,N,233,233,Credit card,6.0,3.5,0.5,2.05,0.0,0.3,12.35,2.5
+VeriFone Inc.,11/29/2021 03:23:04 PM,11/29/2021 03:30:42 PM,2.0,0.76,Standard rate,N,140,236,Credit card,6.5,0.0,0.5,1.96,0.0,0.3,11.76,2.5
+VeriFone Inc.,11/11/2021 09:40:20 PM,11/11/2021 09:46:36 PM,6.0,0.76,Standard rate,N,170,164,Credit card,6.0,0.5,0.5,1.96,0.0,0.3,11.76,2.5
+"Creative Mobile Technologies, LLC",11/25/2021 01:15:45 PM,11/25/2021 01:30:13 PM,1.0,2.3,Standard rate,N,79,68,Credit card,11.5,2.5,0.5,2.95,0.0,0.3,17.75,2.5
+"Creative Mobile Technologies, LLC",11/19/2021 08:36:34 PM,11/19/2021 08:46:02 PM,1.0,1.1,Standard rate,N,158,234,Credit card,7.5,3.0,0.5,2.8,0.0,0.3,14.1,2.5
+VeriFone Inc.,11/10/2021 09:31:00 AM,11/10/2021 09:43:44 AM,1.0,1.33,Standard rate,N,236,163,Cash,9.5,0.0,0.5,0.0,0.0,0.3,12.8,2.5
+"Creative Mobile Technologies, LLC",11/06/2021 03:23:20 AM,11/06/2021 03:33:50 AM,2.0,1.7,Standard rate,N,163,48,Credit card,9.0,3.0,0.5,2.55,0.0,0.3,15.35,2.5
+"Creative Mobile Technologies, LLC",11/20/2021 11:05:53 AM,11/20/2021 11:21:40 AM,2.0,2.8,Standard rate,N,48,79,Credit card,12.0,2.5,0.5,4.55,0.0,0.3,19.85,2.5
+VeriFone Inc.,11/26/2021 01:02:39 AM,11/26/2021 01:10:04 AM,1.0,1.27,Standard rate,N,148,114,Credit card,7.0,0.5,0.5,2.16,0.0,0.3,12.96,2.5
+VeriFone Inc.,11/06/2021 07:32:35 AM,11/06/2021 07:49:21 AM,1.0,3.0,Standard rate,N,186,239,Credit card,13.5,0.0,0.5,3.36,0.0,0.3,20.16,2.5
+VeriFone Inc.,11/02/2021 08:43:25 PM,11/02/2021 08:50:20 PM,1.0,1.23,Standard rate,N,48,68,Credit card,6.5,0.5,0.5,2.06,0.0,0.3,12.36,2.5
+"Creative Mobile Technologies, LLC",11/06/2021 07:19:37 PM,11/06/2021 07:38:32 PM,1.0,2.1,Standard rate,N,164,249,Cash,13.0,2.5,0.5,0.0,0.0,0.3,16.3,2.5
+VeriFone Inc.,11/07/2021 08:09:51 PM,11/07/2021 08:19:39 PM,5.0,1.27,Standard rate,N,79,211,Credit card,8.0,0.5,0.5,2.0,0.0,0.3,13.8,2.5
+"Creative Mobile Technologies, LLC",11/03/2021 11:53:24 AM,11/03/2021 12:25:14 PM,1.0,3.4,Standard rate,N,236,113,Credit card,20.5,2.5,0.5,4.75,0.0,0.3,28.55,2.5
+VeriFone Inc.,11/01/2021 06:08:11 PM,11/01/2021 06:32:41 PM,1.0,3.47,Standard rate,N,211,161,Cash,17.5,1.0,0.5,0.0,0.0,0.3,21.8,2.5
+VeriFone Inc.,11/04/2021 06:18:07 PM,11/04/2021 06:42:09 PM,1.0,7.64,Standard rate,N,209,262,Credit card,25.0,1.0,0.5,2.93,0.0,0.3,32.23,2.5
+VeriFone Inc.,11/12/2021 10:55:03 PM,11/12/2021 11:02:18 PM,1.0,2.67,Standard rate,N,143,238,Credit card,10.0,0.5,0.5,2.07,0.0,0.3,15.87,2.5
+VeriFone Inc.,11/07/2021 03:07:23 PM,11/07/2021 03:25:03 PM,1.0,2.51,Standard rate,N,107,163,Credit card,13.0,0.0,0.5,1.63,0.0,0.3,17.93,2.5
+"Creative Mobile Technologies, LLC",11/16/2021 12:32:26 AM,11/16/2021 12:44:29 AM,1.0,3.4,Standard rate,N,161,125,Credit card,12.5,3.0,0.5,4.85,0.0,0.3,21.15,2.5
+VeriFone Inc.,11/05/2021 03:24:12 PM,11/05/2021 03:38:22 PM,1.0,1.18,Standard rate,N,100,230,Cash,10.0,0.0,0.5,0.0,0.0,0.3,13.3,2.5
+VeriFone Inc.,11/16/2021 08:21:01 PM,11/16/2021 08:30:44 PM,1.0,2.44,Standard rate,N,239,166,Credit card,9.5,0.5,0.5,2.66,0.0,0.3,15.96,2.5
+VeriFone Inc.,11/02/2021 07:05:40 PM,11/02/2021 07:12:42 PM,1.0,0.76,Standard rate,N,230,48,Credit card,6.0,0.0,0.5,1.86,0.0,0.3,11.16,2.5
+VeriFone Inc.,11/27/2021 09:39:40 PM,11/27/2021 09:50:54 PM,1.0,2.17,Standard rate,N,142,236,Cash,10.5,0.5,0.5,0.0,0.0,0.3,14.3,2.5
+VeriFone Inc.,11/19/2021 08:27:33 PM,11/19/2021 08:51:01 PM,1.0,2.12,Standard rate,N,237,186,Credit card,15.0,0.5,0.5,3.76,0.0,0.3,22.56,2.5
+"Creative Mobile Technologies, LLC",11/22/2021 04:48:54 PM,11/22/2021 04:56:53 PM,1.0,1.0,Standard rate,N,234,211,Credit card,7.0,3.5,0.5,2.25,0.0,0.3,13.55,2.5
+VeriFone Inc.,11/05/2021 06:13:34 PM,11/05/2021 06:25:57 PM,1.0,2.07,Standard rate,N,161,141,Credit card,10.5,1.0,0.5,3.7,0.0,0.3,18.5,2.5
+"Creative Mobile Technologies, LLC",11/09/2021 07:58:36 PM,11/09/2021 08:12:19 PM,1.0,2.3,Standard rate,N,234,141,Credit card,11.0,3.5,0.5,1.0,0.0,0.3,16.3,2.5
+VeriFone Inc.,11/28/2021 04:33:21 PM,11/28/2021 04:40:05 PM,3.0,2.07,Standard rate,N,263,74,Cash,8.0,0.0,0.5,0.0,0.0,0.3,11.3,2.5
+VeriFone Inc.,11/18/2021 10:50:10 AM,11/18/2021 10:57:36 AM,1.0,1.25,Standard rate,N,163,164,Cash,7.0,0.0,0.5,0.0,0.0,0.3,10.3,2.5
+"Creative Mobile Technologies, LLC",11/23/2021 07:05:48 AM,11/23/2021 07:12:40 AM,1.0,1.1,Standard rate,Y,142,163,Credit card,6.5,2.5,0.5,1.47,0.0,0.3,11.27,2.5
+VeriFone Inc.,11/18/2021 09:21:59 PM,11/18/2021 09:25:24 PM,4.0,0.48,Standard rate,N,170,164,Credit card,4.5,0.5,0.5,1.0,0.0,0.3,9.3,2.5
+VeriFone Inc.,11/02/2021 01:50:31 PM,11/02/2021 02:04:00 PM,6.0,1.41,Standard rate,N,163,236,Credit card,9.5,0.0,0.5,3.2,0.0,0.3,16.0,2.5
+VeriFone Inc.,11/05/2021 07:04:48 AM,11/05/2021 07:09:08 AM,1.0,1.17,Standard rate,N,237,161,Cash,6.0,0.0,0.5,0.0,0.0,0.3,9.3,2.5
+"Creative Mobile Technologies, LLC",11/05/2021 03:39:30 PM,11/05/2021 03:43:50 PM,1.0,0.4,Standard rate,N,237,229,Credit card,4.5,2.5,0.5,1.55,0.0,0.3,9.35,2.5
+"Creative Mobile Technologies, LLC",11/20/2021 04:03:15 PM,11/20/2021 04:17:38 PM,3.0,1.8,Standard rate,N,170,249,Credit card,10.5,2.5,0.5,2.75,0.0,0.3,16.55,2.5
+"Creative Mobile Technologies, LLC",11/01/2021 11:41:19 AM,11/01/2021 12:06:08 PM,1.0,3.2,Standard rate,N,107,234,Credit card,17.0,2.5,0.5,5.05,0.0,0.3,25.35,2.5
+VeriFone Inc.,11/18/2021 11:18:39 AM,11/18/2021 11:26:28 AM,1.0,0.93,Standard rate,N,237,236,Credit card,6.5,0.0,0.5,1.96,0.0,0.3,11.76,2.5
+VeriFone Inc.,11/08/2021 11:16:27 AM,11/08/2021 11:20:25 AM,1.0,0.67,Standard rate,N,234,164,Credit card,4.5,0.0,0.5,1.17,0.0,0.3,8.97,2.5
+VeriFone Inc.,11/18/2021 12:01:45 PM,11/18/2021 12:05:01 PM,1.0,0.3,Standard rate,N,236,236,Credit card,4.0,0.0,0.5,1.8,0.0,0.3,9.1,2.5
+VeriFone Inc.,11/18/2021 07:37:19 AM,11/18/2021 07:46:15 AM,2.0,1.34,Standard rate,N,234,164,Cash,8.0,0.0,0.5,0.0,0.0,0.3,11.3,2.5
+"Creative Mobile Technologies, LLC",11/25/2021 02:43:44 AM,11/25/2021 02:46:02 AM,1.0,0.4,Standard rate,N,164,170,No charge,4.0,3.0,0.5,0.0,0.0,0.3,7.8,2.5
+VeriFone Inc.,11/21/2021 04:28:33 PM,11/21/2021 04:37:11 PM,1.0,1.93,Standard rate,N,236,142,Cash,8.5,0.0,0.5,0.0,0.0,0.3,11.8,2.5
+VeriFone Inc.,11/15/2021 06:17:25 PM,11/15/2021 06:24:37 PM,1.0,1.69,Standard rate,N,100,158,Credit card,7.5,1.0,0.5,2.36,0.0,0.3,14.16,2.5
+"Creative Mobile Technologies, LLC",11/16/2021 03:21:13 PM,11/16/2021 03:39:51 PM,3.0,1.5,Standard rate,N,163,43,Credit card,12.5,2.5,0.5,0.0,0.0,0.3,15.8,2.5
+VeriFone Inc.,11/23/2021 01:05:11 PM,11/23/2021 01:18:09 PM,1.0,1.65,Standard rate,N,164,107,Cash,9.5,0.0,0.5,0.0,0.0,0.3,12.8,2.5
+VeriFone Inc.,11/13/2021 05:10:56 PM,11/13/2021 05:30:10 PM,1.0,3.49,Standard rate,N,48,75,Cash,14.5,0.0,0.5,0.0,0.0,0.3,17.8,2.5
+VeriFone Inc.,11/19/2021 09:33:16 AM,11/19/2021 09:38:35 AM,1.0,1.03,Standard rate,N,238,142,Credit card,6.0,0.0,0.5,1.86,0.0,0.3,11.16,2.5
+VeriFone Inc.,11/01/2021 11:54:42 AM,11/01/2021 12:09:53 PM,1.0,1.11,Standard rate,N,100,170,Credit card,10.5,0.0,0.5,2.76,0.0,0.3,16.56,2.5
+VeriFone Inc.,11/18/2021 07:27:45 PM,11/18/2021 07:47:14 PM,1.0,2.58,Standard rate,N,233,234,Credit card,13.5,1.0,0.5,1.78,0.0,0.3,19.58,2.5
+VeriFone Inc.,11/16/2021 07:40:45 AM,11/16/2021 07:55:05 AM,1.0,2.0,Standard rate,N,163,236,Credit card,10.5,0.0,0.5,2.76,0.0,0.3,16.56,2.5
+VeriFone Inc.,11/25/2021 01:23:00 AM,11/25/2021 01:25:32 AM,1.0,1.09,Standard rate,N,140,263,Cash,5.0,0.5,0.5,0.0,0.0,0.3,8.8,2.5
+VeriFone Inc.,11/13/2021 08:29:35 AM,11/13/2021 08:37:20 AM,1.0,1.28,Standard rate,N,107,170,Credit card,7.5,0.0,0.5,2.16,0.0,0.3,12.96,2.5
+VeriFone Inc.,11/10/2021 05:08:33 PM,11/10/2021 05:21:30 PM,1.0,0.69,Standard rate,N,48,161,Credit card,9.0,1.0,0.5,2.66,0.0,0.3,15.96,2.5
+"Creative Mobile Technologies, LLC",11/08/2021 03:29:51 PM,11/08/2021 03:45:52 PM,2.0,2.3,Standard rate,N,68,43,Credit card,11.5,2.5,0.5,2.96,0.0,0.3,17.76,2.5
+VeriFone Inc.,11/19/2021 01:43:24 PM,11/19/2021 02:10:08 PM,1.0,2.31,Standard rate,N,249,125,Credit card,16.5,0.0,0.5,2.0,0.0,0.3,21.8,2.5
+VeriFone Inc.,11/29/2021 01:59:05 PM,11/29/2021 02:03:04 PM,1.0,0.64,Standard rate,N,262,236,Credit card,4.5,0.0,0.5,1.56,0.0,0.3,9.36,2.5
+VeriFone Inc.,11/19/2021 09:54:45 AM,11/19/2021 10:17:49 AM,1.0,3.22,Standard rate,N,68,237,Credit card,16.0,0.0,0.5,3.86,0.0,0.3,23.16,2.5
+"Creative Mobile Technologies, LLC",11/16/2021 09:26:23 AM,11/16/2021 09:35:42 AM,1.0,0.7,Standard rate,N,68,230,Credit card,7.0,2.5,0.5,2.05,0.0,0.3,12.35,2.5
+VeriFone Inc.,11/20/2021 11:43:33 PM,11/20/2021 11:49:35 PM,1.0,1.17,Standard rate,N,161,163,Cash,6.0,0.5,0.5,0.0,0.0,0.3,9.8,2.5
+VeriFone Inc.,11/20/2021 06:07:21 PM,11/21/2021 06:04:29 PM,1.0,3.05,Standard rate,N,238,42,Cash,14.0,0.0,0.5,0.0,0.0,0.3,17.3,2.5
+"Creative Mobile Technologies, LLC",11/05/2021 07:17:53 PM,11/05/2021 07:28:01 PM,1.0,1.9,Standard rate,N,163,239,Credit card,9.0,3.5,0.5,1.0,0.0,0.3,14.3,2.5
+VeriFone Inc.,11/07/2021 10:51:35 AM,11/07/2021 10:53:00 AM,1.0,0.24,Standard rate,N,236,236,Credit card,3.0,0.0,0.5,1.26,0.0,0.3,7.56,2.5
+"Creative Mobile Technologies, LLC",11/17/2021 12:15:32 PM,11/17/2021 12:35:06 PM,1.0,1.3,Standard rate,N,161,163,Cash,12.5,2.5,0.5,0.0,0.0,0.3,15.8,2.5
+VeriFone Inc.,11/09/2021 10:18:52 PM,11/09/2021 10:30:40 PM,1.0,1.74,Standard rate,N,142,141,Credit card,9.5,0.5,0.5,2.39,0.0,0.3,15.69,2.5
+VeriFone Inc.,11/14/2021 07:51:15 PM,11/14/2021 08:12:23 PM,2.0,2.89,Standard rate,N,186,239,Credit card,15.0,0.0,0.5,3.66,0.0,0.3,21.96,2.5
+"Creative Mobile Technologies, LLC",11/09/2021 02:11:01 PM,11/09/2021 02:23:09 PM,3.0,0.7,Standard rate,N,75,75,Cash,8.5,0.0,0.5,0.0,0.0,0.3,9.3,0.0
+VeriFone Inc.,11/29/2021 11:29:54 AM,11/29/2021 11:39:12 AM,5.0,0.78,Standard rate,N,249,114,Credit card,7.0,0.0,0.5,2.06,0.0,0.3,12.36,2.5
+VeriFone Inc.,11/09/2021 12:07:58 AM,11/09/2021 12:14:25 AM,2.0,1.66,Standard rate,N,107,161,Credit card,7.5,0.5,0.5,0.0,0.0,0.3,11.3,2.5
+"Creative Mobile Technologies, LLC",11/06/2021 07:57:01 PM,11/06/2021 08:14:35 PM,1.0,5.0,Standard rate,N,162,209,Credit card,17.0,3.0,0.5,3.0,0.0,0.3,23.8,2.5
+"Creative Mobile Technologies, LLC",11/23/2021 02:22:08 PM,11/23/2021 02:52:53 PM,1.0,3.2,Standard rate,N,229,238,Credit card,20.0,2.5,0.5,2.5,0.0,0.3,25.8,2.5
+VeriFone Inc.,11/30/2021 06:11:55 PM,11/30/2021 06:21:18 PM,1.0,1.38,Standard rate,N,142,238,Credit card,7.5,1.0,0.5,2.36,0.0,0.3,14.16,2.5
+VeriFone Inc.,11/08/2021 08:57:45 AM,11/08/2021 09:13:20 AM,1.0,2.61,Standard rate,N,230,238,Credit card,12.5,0.0,0.5,1.58,0.0,0.3,17.38,2.5
+"Creative Mobile Technologies, LLC",11/19/2021 09:27:49 AM,11/19/2021 09:32:28 AM,1.0,0.7,Standard rate,N,236,237,Credit card,5.0,2.5,0.5,2.08,0.0,0.3,10.38,2.5
+"Creative Mobile Technologies, LLC",11/14/2021 01:09:10 AM,11/14/2021 01:19:22 AM,1.0,1.7,Standard rate,N,114,90,Credit card,9.0,3.0,0.5,1.0,0.0,0.3,13.8,2.5
+VeriFone Inc.,11/06/2021 06:11:01 PM,11/06/2021 06:22:35 PM,1.0,1.63,Standard rate,N,142,237,Credit card,9.5,0.0,0.5,3.84,0.0,0.3,16.64,2.5
+VeriFone Inc.,11/06/2021 12:37:54 AM,11/06/2021 12:55:16 AM,1.0,3.73,Standard rate,N,230,231,Cash,14.5,0.5,0.5,0.0,0.0,0.3,18.3,2.5
+"Creative Mobile Technologies, LLC",11/18/2021 11:33:26 AM,11/18/2021 11:56:15 AM,2.0,4.0,Standard rate,N,68,13,Cash,18.0,2.5,0.5,0.0,0.0,0.3,21.3,2.5
+"Creative Mobile Technologies, LLC",11/16/2021 07:15:39 AM,11/16/2021 07:16:42 AM,1.0,0.1,Standard rate,N,237,237,Cash,3.0,2.5,0.5,0.0,0.0,0.3,6.3,2.5
+VeriFone Inc.,11/05/2021 04:43:48 PM,11/05/2021 05:27:47 PM,1.0,7.51,Standard rate,N,230,243,Credit card,30.0,1.0,0.5,8.57,0.0,0.3,42.87,2.5
+VeriFone Inc.,11/13/2021 02:07:33 PM,11/13/2021 02:19:18 PM,5.0,2.18,Standard rate,N,236,239,Credit card,10.0,0.0,0.5,3.99,0.0,0.3,17.29,2.5
+VeriFone Inc.,11/26/2021 12:51:13 PM,11/26/2021 01:03:32 PM,1.0,1.25,Standard rate,N,141,161,Credit card,9.0,0.0,0.5,2.46,0.0,0.3,14.76,2.5
+VeriFone Inc.,11/16/2021 03:12:57 PM,11/16/2021 03:27:22 PM,1.0,2.05,Standard rate,N,236,140,Cash,11.0,0.0,0.5,0.0,0.0,0.3,14.3,2.5
+VeriFone Inc.,11/02/2021 07:48:24 PM,11/02/2021 07:53:51 PM,5.0,1.45,Standard rate,N,170,237,Cash,6.5,0.0,0.5,0.0,0.0,0.3,9.8,2.5
+VeriFone Inc.,11/27/2021 10:32:38 AM,11/27/2021 10:46:24 AM,1.0,2.93,Standard rate,N,90,239,Cash,12.5,0.0,0.5,0.0,0.0,0.3,15.8,2.5
+VeriFone Inc.,11/02/2021 02:52:33 PM,11/02/2021 03:07:32 PM,1.0,1.61,Standard rate,N,161,234,Credit card,10.5,0.0,0.5,2.76,0.0,0.3,16.56,2.5
+"Creative Mobile Technologies, LLC",11/13/2021 09:46:38 PM,11/13/2021 09:54:18 PM,1.0,1.0,Standard rate,N,231,13,Credit card,7.0,3.0,0.5,2.15,0.0,0.3,12.95,2.5
+VeriFone Inc.,11/24/2021 07:06:32 AM,11/24/2021 07:19:49 AM,5.0,2.93,Standard rate,N,141,164,Credit card,12.0,0.0,0.5,4.59,0.0,0.3,19.89,2.5
+"Creative Mobile Technologies, LLC",11/20/2021 01:29:30 PM,11/20/2021 01:47:51 PM,2.0,3.8,Standard rate,N,246,87,Credit card,15.5,2.5,0.5,2.26,0.0,0.3,21.06,2.5
+"Creative Mobile Technologies, LLC",11/15/2021 08:17:23 PM,11/15/2021 08:35:22 PM,1.0,2.0,Standard rate,N,100,68,Credit card,12.5,3.0,0.5,3.25,0.0,0.3,19.55,2.5
+VeriFone Inc.,11/09/2021 05:56:59 PM,11/09/2021 06:05:49 PM,1.0,0.93,Standard rate,N,161,229,Credit card,7.0,1.0,0.5,1.0,0.0,0.3,12.3,2.5
+VeriFone Inc.,11/29/2021 03:02:31 PM,11/29/2021 03:12:43 PM,1.0,1.29,Standard rate,N,236,161,Cash,8.5,0.0,0.5,0.0,0.0,0.3,11.8,2.5
+"Creative Mobile Technologies, LLC",11/21/2021 04:27:42 PM,11/21/2021 04:44:48 PM,2.0,2.2,Standard rate,N,234,163,Cash,12.5,2.5,0.5,0.0,0.0,0.3,15.8,2.5
+VeriFone Inc.,11/25/2021 07:33:41 PM,11/25/2021 07:37:32 PM,1.0,0.86,Standard rate,N,68,68,Credit card,5.0,0.0,0.5,1.24,0.0,0.3,9.54,2.5
+VeriFone Inc.,11/13/2021 11:58:04 PM,11/14/2021 12:08:14 AM,1.0,3.11,Standard rate,N,107,263,Credit card,11.0,0.5,0.5,1.0,0.0,0.3,15.8,2.5
+"Creative Mobile Technologies, LLC",11/22/2021 04:12:43 PM,11/22/2021 04:17:15 PM,1.0,0.5,Standard rate,N,263,236,Cash,5.0,3.5,0.5,0.0,0.0,0.3,9.3,2.5
+VeriFone Inc.,11/01/2021 09:34:05 AM,11/01/2021 10:05:51 AM,1.0,4.2,Standard rate,N,231,43,Credit card,21.0,0.0,0.5,2.43,0.0,0.3,26.73,2.5
+VeriFone Inc.,11/02/2021 07:39:28 PM,11/02/2021 07:45:14 PM,1.0,1.34,Standard rate,N,238,239,Cash,6.5,0.0,0.5,0.0,0.0,0.3,9.8,2.5
+VeriFone Inc.,11/03/2021 11:35:43 AM,11/03/2021 11:47:58 AM,1.0,0.63,Standard rate,N,100,163,Credit card,8.5,0.0,0.5,2.36,0.0,0.3,14.16,2.5
+"Creative Mobile Technologies, LLC",11/06/2021 10:04:59 PM,11/06/2021 10:10:25 PM,1.0,0.7,Standard rate,N,151,43,Credit card,5.5,0.5,0.5,1.35,0.0,0.3,8.15,0.0
+VeriFone Inc.,11/16/2021 01:22:37 PM,11/16/2021 01:55:37 PM,1.0,3.44,Standard rate,N,236,137,Cash,21.0,0.0,0.5,0.0,0.0,0.3,24.3,2.5
+VeriFone Inc.,11/23/2021 07:49:52 PM,11/23/2021 07:54:25 PM,2.0,0.99,Standard rate,N,142,238,Cash,5.5,1.0,0.5,0.0,0.0,0.3,9.8,2.5
+VeriFone Inc.,11/09/2021 07:04:44 PM,11/09/2021 07:12:09 PM,1.0,1.18,Standard rate,N,249,186,Credit card,7.0,1.0,0.5,2.26,0.0,0.3,13.56,2.5
+"Creative Mobile Technologies, LLC",11/26/2021 05:43:51 PM,11/26/2021 05:52:14 PM,1.0,2.6,Standard rate,N,170,263,Credit card,9.5,3.5,0.5,2.75,0.0,0.3,16.55,2.5
+VeriFone Inc.,11/11/2021 08:45:37 PM,11/11/2021 08:50:04 PM,2.0,0.7,Standard rate,N,114,113,Credit card,5.0,0.5,0.5,1.76,0.0,0.3,10.56,2.5
+VeriFone Inc.,11/09/2021 01:42:00 PM,11/09/2021 01:59:49 PM,1.0,1.99,Standard rate,N,237,236,Cash,12.5,0.0,0.5,0.0,0.0,0.3,15.8,2.5
+"Creative Mobile Technologies, LLC",11/18/2021 08:50:36 PM,11/18/2021 09:07:03 PM,1.0,2.9,Standard rate,N,148,229,Credit card,13.0,3.0,0.5,3.35,0.0,0.3,20.15,2.5
+VeriFone Inc.,11/18/2021 04:30:49 PM,11/18/2021 04:51:38 PM,1.0,2.63,Standard rate,N,186,140,Cash,14.5,1.0,0.5,0.0,0.0,0.3,18.8,2.5
+"Creative Mobile Technologies, LLC",11/10/2021 08:22:43 PM,11/10/2021 08:34:37 PM,2.0,2.1,Standard rate,N,162,79,Cash,10.0,3.0,0.5,0.0,0.0,0.3,13.8,2.5
+"Creative Mobile Technologies, LLC",11/06/2021 07:38:20 PM,11/06/2021 07:54:24 PM,2.0,2.8,Standard rate,N,74,263,Credit card,12.5,2.5,0.5,3.15,0.0,0.3,18.95,2.5
+VeriFone Inc.,11/24/2021 10:43:35 AM,11/24/2021 10:51:39 AM,1.0,1.38,Standard rate,N,170,233,Credit card,7.5,0.0,0.5,2.16,0.0,0.3,12.96,2.5
+"Creative Mobile Technologies, LLC",11/17/2021 09:57:00 AM,11/17/2021 10:17:22 AM,1.0,5.4,Standard rate,N,75,137,Cash,19.0,2.5,0.5,0.0,0.0,0.3,22.3,2.5
+VeriFone Inc.,11/27/2021 06:36:40 PM,11/27/2021 06:45:07 PM,1.0,1.79,Standard rate,N,239,237,Credit card,8.0,0.0,0.5,1.13,0.0,0.3,12.43,2.5
+VeriFone Inc.,11/11/2021 07:25:36 AM,11/11/2021 07:34:52 AM,1.0,1.33,Standard rate,N,161,140,Credit card,8.0,0.0,0.5,2.26,0.0,0.3,13.56,2.5
+VeriFone Inc.,11/25/2021 08:25:02 PM,11/25/2021 08:35:14 PM,1.0,2.13,Standard rate,N,142,263,Credit card,9.5,0.5,0.5,2.0,0.0,0.3,15.3,2.5
+VeriFone Inc.,11/26/2021 12:02:13 PM,11/26/2021 12:05:37 PM,2.0,0.71,Standard rate,N,237,237,Cash,4.5,0.0,0.5,0.0,0.0,0.3,7.8,2.5
+VeriFone Inc.,11/05/2021 06:20:37 PM,11/05/2021 06:31:40 PM,1.0,1.48,Standard rate,N,186,107,Credit card,8.5,1.0,0.5,1.5,0.0,0.3,14.3,2.5
+VeriFone Inc.,11/10/2021 10:24:18 AM,11/10/2021 10:52:10 AM,1.0,3.47,Standard rate,N,140,90,Credit card,19.5,0.0,0.5,4.2,0.0,0.3,27.0,2.5
+VeriFone Inc.,11/11/2021 06:50:37 PM,11/11/2021 06:55:10 PM,1.0,1.0,Standard rate,N,163,237,Cash,5.5,0.0,0.5,0.0,0.0,0.3,8.8,2.5
+VeriFone Inc.,11/11/2021 06:48:54 PM,11/11/2021 07:09:31 PM,1.0,3.61,Standard rate,N,263,48,Credit card,15.5,0.0,0.5,3.76,0.0,0.3,22.56,2.5
+VeriFone Inc.,11/11/2021 10:19:29 PM,11/11/2021 10:24:38 PM,1.0,1.11,Standard rate,N,141,263,Credit card,6.0,0.5,0.5,1.0,0.0,0.3,10.8,2.5
+"Creative Mobile Technologies, LLC",11/24/2021 11:44:21 AM,11/24/2021 11:45:25 AM,1.0,0.3,Standard rate,N,79,79,Credit card,3.0,2.5,0.5,1.25,0.0,0.3,7.55,2.5
+"Creative Mobile Technologies, LLC",11/15/2021 02:55:24 PM,11/15/2021 03:19:53 PM,1.0,3.7,Standard rate,N,143,107,Credit card,18.0,2.5,0.5,3.0,0.0,0.3,24.3,2.5
+"Creative Mobile Technologies, LLC",11/04/2021 10:44:36 PM,11/04/2021 11:02:58 PM,1.0,6.4,Standard rate,N,236,114,Credit card,21.0,3.0,0.5,6.2,0.0,0.3,31.0,2.5
+VeriFone Inc.,11/11/2021 09:24:10 PM,11/11/2021 09:37:52 PM,1.0,3.45,Standard rate,N,234,236,Credit card,13.5,0.5,0.5,3.46,0.0,0.3,20.76,2.5
+VeriFone Inc.,11/14/2021 12:22:29 AM,11/14/2021 12:28:45 AM,1.0,1.1,Standard rate,N,237,263,Credit card,6.5,0.5,0.5,2.06,0.0,0.3,12.36,2.5
+"Creative Mobile Technologies, LLC",11/27/2021 01:20:01 PM,11/27/2021 01:36:10 PM,2.0,1.8,Standard rate,N,43,161,Credit card,11.5,2.5,0.5,1.0,0.0,0.3,15.8,2.5
+VeriFone Inc.,11/14/2021 06:06:19 PM,11/14/2021 06:12:36 PM,1.0,0.9,Standard rate,N,163,161,Credit card,6.0,0.0,0.5,2.0,0.0,0.3,11.3,2.5
+VeriFone Inc.,11/05/2021 07:23:13 PM,11/05/2021 07:42:26 PM,1.0,1.52,Standard rate,N,162,107,Credit card,12.5,1.0,0.5,2.52,0.0,0.3,19.32,2.5
+"Creative Mobile Technologies, LLC",11/03/2021 02:10:37 AM,11/03/2021 02:18:59 AM,1.0,2.4,Standard rate,N,161,263,Credit card,9.5,3.0,0.5,2.65,0.0,0.3,15.95,2.5
+"Creative Mobile Technologies, LLC",11/26/2021 03:10:49 PM,11/26/2021 03:15:06 PM,2.0,0.7,Standard rate,N,163,142,Credit card,5.0,2.5,0.5,1.0,0.0,0.3,9.3,2.5
+VeriFone Inc.,11/16/2021 12:17:48 PM,11/16/2021 12:27:41 PM,1.0,0.89,Standard rate,N,140,236,Credit card,7.5,0.0,0.5,1.62,0.0,0.3,12.42,2.5
+VeriFone Inc.,11/16/2021 09:01:17 AM,11/16/2021 09:13:28 AM,1.0,1.8,Standard rate,N,114,164,Credit card,10.0,0.0,0.5,3.33,0.0,0.3,16.63,2.5
+VeriFone Inc.,11/20/2021 08:43:59 PM,11/20/2021 08:59:23 PM,1.0,1.89,Standard rate,N,161,143,Credit card,11.0,0.5,0.5,1.0,0.0,0.3,15.8,2.5
+"Creative Mobile Technologies, LLC",11/18/2021 10:33:25 PM,11/18/2021 10:45:09 PM,1.0,0.7,Standard rate,N,234,234,Cash,5.0,3.0,0.5,0.0,0.0,0.3,8.8,2.5
+VeriFone Inc.,11/23/2021 11:50:21 AM,11/23/2021 12:11:25 PM,1.0,2.32,Standard rate,N,161,90,Credit card,14.0,0.0,0.5,2.6,0.0,0.3,19.9,2.5
+"Creative Mobile Technologies, LLC",11/27/2021 09:44:20 PM,11/27/2021 09:59:21 PM,1.0,3.1,Standard rate,Y,48,236,Cash,12.5,3.0,0.5,0.0,0.0,0.3,16.3,2.5
+VeriFone Inc.,11/24/2021 05:51:07 PM,11/24/2021 06:00:17 PM,1.0,1.03,Standard rate,N,162,230,Credit card,7.0,1.0,0.5,2.26,0.0,0.3,13.56,2.5
+VeriFone Inc.,11/28/2021 05:24:38 PM,11/28/2021 05:34:07 PM,1.0,1.67,Standard rate,N,141,162,Cash,8.0,0.0,0.5,0.0,0.0,0.3,11.3,2.5
+VeriFone Inc.,11/05/2021 11:27:17 PM,11/05/2021 11:42:20 PM,1.0,1.59,Standard rate,N,186,162,Cash,11.0,0.5,0.5,0.0,0.0,0.3,14.8,2.5
+VeriFone Inc.,11/22/2021 07:18:29 AM,11/22/2021 07:26:01 AM,1.0,1.76,Standard rate,N,141,262,Credit card,7.5,0.0,0.5,2.16,0.0,0.3,12.96,2.5
+VeriFone Inc.,11/21/2021 11:54:52 AM,11/21/2021 12:13:44 PM,1.0,3.0,Standard rate,N,262,142,Credit card,14.0,0.0,0.5,3.46,0.0,0.3,20.76,2.5
+"Creative Mobile Technologies, LLC",11/05/2021 08:33:46 PM,11/05/2021 08:40:08 PM,2.0,1.1,Standard rate,N,143,163,Credit card,6.5,3.0,0.5,2.05,0.0,0.3,12.35,2.5
+VeriFone Inc.,11/11/2021 12:05:00 PM,11/11/2021 12:11:27 PM,1.0,0.87,Standard rate,N,236,141,Credit card,6.0,0.0,0.5,1.86,0.0,0.3,11.16,2.5
+VeriFone Inc.,11/24/2021 07:19:25 AM,11/24/2021 07:25:34 AM,1.0,1.69,Standard rate,N,148,137,Credit card,7.0,0.0,0.5,2.06,0.0,0.3,12.36,2.5
+VeriFone Inc.,11/01/2021 12:35:30 PM,11/01/2021 12:42:35 PM,1.0,0.69,Standard rate,N,107,186,Credit card,6.0,0.0,0.5,1.0,0.0,0.3,10.3,2.5
+"Creative Mobile Technologies, LLC",11/20/2021 06:25:58 PM,11/20/2021 06:36:35 PM,1.0,2.1,Standard rate,N,142,151,Cash,9.5,2.5,0.5,0.0,0.0,0.3,12.8,2.5
+VeriFone Inc.,11/09/2021 06:00:40 PM,11/09/2021 06:15:23 PM,2.0,1.92,Standard rate,N,237,164,Credit card,11.0,1.0,0.5,3.06,0.0,0.3,18.36,2.5
+VeriFone Inc.,11/25/2021 02:08:31 AM,11/25/2021 02:28:52 AM,1.0,4.73,Standard rate,N,186,232,Credit card,18.0,0.5,0.5,2.8,0.0,0.3,24.6,2.5
+"Creative Mobile Technologies, LLC",11/04/2021 10:13:41 PM,11/04/2021 10:24:26 PM,1.0,2.2,Standard rate,N,263,151,Credit card,10.0,3.0,0.5,1.2,0.0,0.3,15.0,2.5
+VeriFone Inc.,11/11/2021 07:12:54 AM,11/11/2021 07:17:41 AM,1.0,1.04,Standard rate,N,142,163,Credit card,5.5,0.0,0.5,1.76,0.0,0.3,10.56,2.5
+VeriFone Inc.,11/19/2021 01:30:58 AM,11/19/2021 01:39:31 AM,1.0,2.0,Standard rate,N,79,170,Credit card,8.5,0.5,0.5,2.46,0.0,0.3,14.76,2.5
+VeriFone Inc.,11/12/2021 09:15:40 PM,11/12/2021 09:21:57 PM,5.0,0.49,Standard rate,N,230,163,Credit card,5.5,0.5,0.5,2.79,0.0,0.3,12.09,2.5
+VeriFone Inc.,11/06/2021 10:12:41 PM,11/06/2021 10:22:51 PM,1.0,1.61,Standard rate,N,230,237,Credit card,8.5,0.5,0.5,3.69,0.0,0.3,15.99,2.5
+"Creative Mobile Technologies, LLC",11/04/2021 03:29:36 PM,11/04/2021 03:44:04 PM,1.0,3.7,Standard rate,N,166,244,Credit card,13.5,0.0,0.5,2.85,0.0,0.3,17.15,0.0
+VeriFone Inc.,11/13/2021 03:49:02 PM,11/13/2021 03:58:45 PM,1.0,1.44,Standard rate,N,163,141,Credit card,8.0,0.0,0.5,2.26,0.0,0.3,13.56,2.5
+"Creative Mobile Technologies, LLC",11/17/2021 12:20:07 AM,11/17/2021 12:26:59 AM,1.0,2.4,Standard rate,N,79,229,Credit card,8.5,3.0,0.5,2.45,0.0,0.3,14.75,2.5
+VeriFone Inc.,11/13/2021 07:25:59 PM,11/13/2021 07:53:48 PM,1.0,3.26,Standard rate,N,158,233,Credit card,18.0,0.0,0.5,4.26,0.0,0.3,25.56,2.5
+VeriFone Inc.,11/10/2021 05:29:00 PM,11/10/2021 05:33:29 PM,2.0,0.6,Standard rate,N,162,233,Credit card,4.5,1.0,0.5,5.0,0.0,0.3,13.8,2.5
+VeriFone Inc.,11/08/2021 10:18:29 PM,11/08/2021 10:27:54 PM,1.0,1.02,Standard rate,N,162,230,Cash,7.5,0.5,0.5,0.0,0.0,0.3,11.3,2.5
+VeriFone Inc.,11/23/2021 08:56:39 PM,11/23/2021 09:11:15 PM,1.0,2.63,Standard rate,N,141,48,Credit card,12.5,0.5,0.5,2.0,0.0,0.3,18.3,2.5
+"Creative Mobile Technologies, LLC",11/18/2021 04:32:46 PM,11/18/2021 04:49:32 PM,1.0,1.9,Standard rate,N,262,74,Credit card,12.0,3.5,0.5,4.85,0.0,0.3,21.15,2.5
+"Creative Mobile Technologies, LLC",11/23/2021 04:34:48 PM,11/23/2021 04:48:25 PM,1.0,1.8,Standard rate,N,239,263,Credit card,10.5,3.5,0.5,1.0,0.0,0.3,15.8,2.5
+VeriFone Inc.,11/16/2021 05:32:07 PM,11/16/2021 05:50:10 PM,1.0,2.88,Standard rate,N,144,68,Cash,13.5,1.0,0.5,0.0,0.0,0.3,17.8,2.5
+"Creative Mobile Technologies, LLC",11/19/2021 07:37:19 PM,11/19/2021 07:48:52 PM,1.0,1.5,Standard rate,N,141,162,Credit card,9.0,3.5,0.5,2.65,0.0,0.3,15.95,2.5
+"Creative Mobile Technologies, LLC",11/06/2021 03:51:23 PM,11/06/2021 04:14:29 PM,2.0,3.9,Standard rate,N,125,229,Credit card,17.0,2.5,0.5,3.0,0.0,0.3,23.3,2.5
+VeriFone Inc.,11/27/2021 02:30:14 AM,11/27/2021 02:33:21 AM,2.0,0.5,Standard rate,N,142,142,Cash,4.0,0.5,0.5,0.0,0.0,0.3,7.8,2.5
+VeriFone Inc.,11/22/2021 05:22:31 PM,11/22/2021 05:35:26 PM,1.0,1.34,Standard rate,N,238,166,Credit card,9.5,1.0,0.5,2.76,0.0,0.3,16.56,2.5
+"Creative Mobile Technologies, LLC",11/18/2021 07:29:53 AM,11/18/2021 07:33:48 AM,1.0,0.6,Standard rate,Y,163,48,Credit card,4.5,2.5,0.5,0.0,0.0,0.3,7.8,2.5
+"Creative Mobile Technologies, LLC",11/09/2021 07:04:23 AM,11/09/2021 07:19:43 AM,1.0,3.3,Standard rate,N,166,143,Cash,13.5,2.5,0.5,0.0,0.0,0.3,16.8,2.5
+"Creative Mobile Technologies, LLC",11/13/2021 01:11:13 PM,11/13/2021 01:24:59 PM,2.0,2.9,Standard rate,N,48,50,Credit card,12.0,2.5,0.5,2.0,0.0,0.3,17.3,2.5
+VeriFone Inc.,11/15/2021 07:39:18 PM,11/15/2021 07:52:35 PM,1.0,2.54,Standard rate,N,234,161,Credit card,11.0,1.0,0.5,3.06,0.0,0.3,18.36,2.5
+"Creative Mobile Technologies, LLC",11/07/2021 07:22:46 PM,11/07/2021 07:33:34 PM,1.0,1.9,Standard rate,N,107,140,Credit card,9.0,2.5,0.5,2.5,0.0,0.3,14.8,2.5
+"Creative Mobile Technologies, LLC",11/08/2021 04:22:07 PM,11/08/2021 04:34:38 PM,1.0,1.3,Standard rate,N,237,161,Credit card,9.5,3.5,0.5,2.0,0.0,0.3,15.8,2.5
+"Creative Mobile Technologies, LLC",11/13/2021 09:53:36 PM,11/13/2021 10:23:31 PM,2.0,4.5,Standard rate,N,249,239,Credit card,20.5,3.0,0.5,6.05,0.0,0.3,30.35,2.5
+"Creative Mobile Technologies, LLC",11/01/2021 04:34:36 PM,11/01/2021 04:45:00 PM,2.0,1.6,Standard rate,N,236,238,Credit card,8.5,3.5,0.5,1.92,0.0,0.3,14.72,2.5
+"Creative Mobile Technologies, LLC",11/22/2021 08:39:53 AM,11/22/2021 08:45:11 AM,1.0,1.3,Standard rate,N,158,234,Credit card,6.0,2.5,0.5,1.5,0.0,0.3,10.8,2.5
+VeriFone Inc.,11/02/2021 11:33:25 AM,11/03/2021 11:29:48 AM,5.0,2.01,Standard rate,N,186,158,Cash,12.5,0.0,0.5,0.0,0.0,0.3,15.8,2.5
+VeriFone Inc.,11/20/2021 10:13:00 PM,11/20/2021 10:32:35 PM,1.0,3.52,Standard rate,N,186,232,Credit card,16.0,0.5,0.5,1.2,0.0,0.3,21.0,2.5
+VeriFone Inc.,11/12/2021 12:20:50 PM,11/12/2021 12:36:58 PM,1.0,1.94,Standard rate,N,107,249,Credit card,11.5,0.0,0.5,2.96,0.0,0.3,17.76,2.5
+VeriFone Inc.,11/02/2021 06:32:42 PM,11/02/2021 06:47:59 PM,1.0,2.92,Standard rate,N,79,161,Credit card,12.0,0.0,0.5,3.06,0.0,0.3,18.36,2.5
+"Creative Mobile Technologies, LLC",11/27/2021 11:19:08 PM,11/27/2021 11:28:00 PM,2.0,1.9,Standard rate,N,48,90,Credit card,8.5,3.0,0.5,1.0,0.0,0.3,13.3,2.5
+VeriFone Inc.,11/04/2021 10:12:49 PM,11/04/2021 10:16:20 PM,1.0,0.67,Standard rate,N,162,162,Credit card,4.5,0.5,0.5,2.49,0.0,0.3,10.79,2.5
+"Creative Mobile Technologies, LLC",11/07/2021 10:37:31 AM,11/07/2021 10:45:32 AM,1.0,1.0,Standard rate,N,239,143,Credit card,7.0,2.5,0.5,2.05,0.0,0.3,12.35,2.5
+VeriFone Inc.,11/13/2021 01:37:39 PM,11/13/2021 01:41:16 PM,1.0,0.75,Standard rate,N,142,230,Credit card,4.5,0.0,0.5,2.34,0.0,0.3,10.14,2.5
+VeriFone Inc.,11/05/2021 05:45:34 PM,11/05/2021 05:59:36 PM,3.0,1.85,Standard rate,N,48,246,Cash,10.5,1.0,0.5,0.0,0.0,0.3,14.8,2.5
+VeriFone Inc.,11/14/2021 01:01:39 PM,11/14/2021 01:21:51 PM,1.0,3.97,Standard rate,N,140,234,Credit card,16.0,0.0,0.5,3.7,0.0,0.3,23.0,2.5
+VeriFone Inc.,11/06/2021 03:19:26 PM,11/06/2021 03:30:20 PM,1.0,1.53,Standard rate,N,230,229,Credit card,8.5,0.0,0.5,2.36,0.0,0.3,14.16,2.5
+"Creative Mobile Technologies, LLC",11/19/2021 01:27:42 PM,11/19/2021 01:43:08 PM,1.0,1.4,Standard rate,N,140,163,Cash,11.0,2.5,0.5,0.0,0.0,0.3,14.3,2.5
+VeriFone Inc.,11/02/2021 10:22:52 PM,11/02/2021 10:37:08 PM,1.0,3.78,Standard rate,N,107,142,Credit card,13.5,0.5,0.5,3.46,0.0,0.3,20.76,2.5
+VeriFone Inc.,11/17/2021 10:49:52 AM,11/17/2021 10:56:11 AM,1.0,0.71,Standard rate,N,234,164,Credit card,5.5,0.0,0.5,1.76,0.0,0.3,10.56,2.5
+VeriFone Inc.,11/19/2021 05:24:36 PM,11/19/2021 05:29:46 PM,1.0,0.89,Standard rate,N,263,75,Credit card,5.5,1.0,0.5,0.0,0.0,0.3,9.8,2.5
+"Creative Mobile Technologies, LLC",11/12/2021 09:58:42 PM,11/12/2021 10:17:25 PM,1.0,2.1,Standard rate,Y,237,137,Credit card,13.5,3.0,0.5,5.0,0.0,0.3,22.3,2.5
+VeriFone Inc.,11/08/2021 09:09:24 PM,11/08/2021 09:26:12 PM,1.0,3.33,Standard rate,N,231,233,Cash,13.5,0.5,0.5,0.0,0.0,0.3,17.3,2.5
+"Creative Mobile Technologies, LLC",11/24/2021 09:19:59 AM,11/24/2021 09:28:27 AM,1.0,0.9,Standard rate,N,236,141,Credit card,7.0,2.5,0.5,2.05,0.0,0.3,12.35,2.5
+"Creative Mobile Technologies, LLC",11/17/2021 09:14:21 PM,11/17/2021 09:32:03 PM,1.0,8.5,Standard rate,N,87,74,Credit card,24.0,3.0,0.5,5.55,0.0,0.3,33.35,2.5
+VeriFone Inc.,11/17/2021 03:06:30 PM,11/17/2021 03:13:39 PM,1.0,1.03,Standard rate,N,163,236,Credit card,6.5,0.0,0.5,0.5,0.0,0.3,10.3,2.5
+"Creative Mobile Technologies, LLC",11/28/2021 09:56:56 AM,11/28/2021 10:04:10 AM,1.0,1.5,Standard rate,N,161,236,Credit card,7.0,2.5,0.5,2.05,0.0,0.3,12.35,2.5
+VeriFone Inc.,11/17/2021 08:48:37 PM,11/17/2021 09:14:12 PM,1.0,4.17,Standard rate,N,90,45,Cash,19.5,0.5,0.5,0.0,0.0,0.3,23.3,2.5
+"Creative Mobile Technologies, LLC",11/07/2021 11:24:56 AM,11/07/2021 11:26:28 AM,1.0,0.4,Standard rate,N,170,233,Credit card,3.5,2.5,0.5,1.35,0.0,0.3,8.15,2.5
+VeriFone Inc.,11/19/2021 03:53:55 PM,11/19/2021 04:17:03 PM,1.0,6.67,Standard rate,N,87,161,Credit card,23.5,0.0,0.5,6.7,0.0,0.3,33.5,2.5
+VeriFone Inc.,11/07/2021 05:34:57 PM,11/07/2021 05:48:51 PM,1.0,2.05,Standard rate,N,263,238,Credit card,11.0,0.0,0.5,3.58,0.0,0.3,17.88,2.5
+VeriFone Inc.,11/03/2021 07:24:24 AM,11/03/2021 07:44:56 AM,1.0,4.31,Standard rate,N,236,113,Credit card,17.0,0.0,0.5,5.08,0.0,0.3,25.38,2.5
+VeriFone Inc.,11/15/2021 03:13:19 PM,11/15/2021 03:54:01 PM,2.0,4.88,Standard rate,N,236,211,Cash,26.5,0.0,0.5,0.0,0.0,0.3,29.8,2.5
+VeriFone Inc.,11/01/2021 09:48:40 AM,11/01/2021 10:04:14 AM,1.0,2.57,Standard rate,N,186,148,Credit card,12.0,0.0,0.5,1.5,0.0,0.3,16.8,2.5
+VeriFone Inc.,11/07/2021 12:51:08 PM,11/07/2021 01:08:04 PM,2.0,2.74,Standard rate,N,41,263,Credit card,13.0,0.0,0.5,3.26,0.0,0.3,19.56,2.5
+VeriFone Inc.,11/19/2021 11:29:53 AM,11/19/2021 11:33:35 AM,1.0,0.42,Standard rate,N,151,238,Credit card,4.5,0.0,0.5,1.06,0.0,0.3,6.36,0.0
+VeriFone Inc.,11/19/2021 09:50:30 PM,11/19/2021 10:11:45 PM,1.0,4.38,Standard rate,N,107,43,Credit card,18.0,0.5,0.5,0.0,0.0,0.3,21.8,2.5
+VeriFone Inc.,11/05/2021 03:49:40 PM,11/05/2021 04:07:13 PM,1.0,1.26,Standard rate,N,144,249,Credit card,11.5,0.0,0.5,2.2,0.0,0.3,17.0,2.5
+"Creative Mobile Technologies, LLC",11/21/2021 01:05:16 PM,11/21/2021 01:11:06 PM,1.0,1.4,Standard rate,N,161,237,Credit card,6.5,2.5,0.5,1.95,0.0,0.3,11.75,2.5
+VeriFone Inc.,11/02/2021 10:52:51 PM,11/02/2021 11:01:14 PM,1.0,1.09,Standard rate,N,246,186,Credit card,7.0,0.5,0.5,1.0,0.0,0.3,11.8,2.5
+VeriFone Inc.,11/08/2021 02:22:58 PM,11/08/2021 02:45:39 PM,1.0,3.31,Standard rate,N,170,238,Credit card,16.0,0.0,0.5,3.0,0.0,0.3,22.3,2.5
+VeriFone Inc.,11/26/2021 06:30:34 AM,11/26/2021 06:40:54 AM,3.0,3.9,Standard rate,N,87,137,Credit card,13.0,0.0,0.5,3.0,0.0,0.3,19.3,2.5
+"Creative Mobile Technologies, LLC",11/30/2021 07:00:14 AM,11/30/2021 07:03:57 AM,1.0,0.8,Standard rate,N,162,170,Credit card,5.0,2.5,0.5,1.65,0.0,0.3,9.95,2.5
+VeriFone Inc.,11/11/2021 10:51:11 PM,11/11/2021 10:59:08 PM,1.0,1.44,Standard rate,N,48,229,Cash,7.5,0.5,0.5,0.0,0.0,0.3,11.3,2.5
+VeriFone Inc.,11/06/2021 09:22:08 PM,11/06/2021 09:26:57 PM,1.0,1.02,Standard rate,N,107,233,Credit card,5.5,0.5,0.5,1.86,0.0,0.3,11.16,2.5
+"Creative Mobile Technologies, LLC",11/19/2021 12:45:24 PM,11/19/2021 01:34:35 PM,1.0,8.8,Standard rate,N,233,170,Cash,37.0,2.5,0.5,0.0,0.0,0.3,40.3,2.5
+VeriFone Inc.,11/21/2021 12:23:30 PM,11/21/2021 12:34:05 PM,2.0,1.86,Standard rate,N,244,127,Credit card,9.5,0.0,0.5,2.06,0.0,0.3,12.36,0.0
+VeriFone Inc.,11/27/2021 04:05:26 PM,11/27/2021 04:14:33 PM,1.0,4.97,Standard rate,N,238,244,Credit card,15.0,0.0,0.5,3.66,0.0,0.3,21.96,2.5
+VeriFone Inc.,11/24/2021 01:43:20 PM,11/24/2021 01:54:15 PM,1.0,1.61,Standard rate,N,41,42,Cash,9.0,0.0,0.5,0.0,0.0,0.3,9.8,0.0
+VeriFone Inc.,11/11/2021 09:41:46 PM,11/11/2021 09:57:49 PM,1.0,4.21,Standard rate,N,261,50,Credit card,15.5,0.5,0.5,4.83,0.0,0.3,24.13,2.5
+"Creative Mobile Technologies, LLC",11/03/2021 11:21:55 AM,11/03/2021 11:54:22 AM,1.0,3.4,Standard rate,Y,43,233,Credit card,20.5,2.5,0.5,3.0,0.0,0.3,26.8,2.5
+VeriFone Inc.,11/07/2021 08:40:52 PM,11/07/2021 08:53:00 PM,1.0,2.57,Standard rate,N,90,231,Credit card,11.0,0.5,0.5,2.96,0.0,0.3,17.76,2.5
+VeriFone Inc.,11/26/2021 10:16:09 PM,11/26/2021 10:28:23 PM,1.0,2.87,Standard rate,N,161,239,Credit card,11.0,0.5,0.5,2.96,0.0,0.3,17.76,2.5
+"Creative Mobile Technologies, LLC",11/16/2021 08:53:12 PM,11/16/2021 09:03:11 PM,1.0,2.3,Standard rate,N,137,163,Credit card,10.0,3.0,0.5,2.75,0.0,0.3,16.55,2.5
+"Creative Mobile Technologies, LLC",11/02/2021 01:38:13 PM,11/02/2021 01:48:30 PM,1.0,1.7,Standard rate,N,236,238,Credit card,9.0,2.5,0.5,3.05,0.0,0.3,15.35,2.5
+VeriFone Inc.,11/03/2021 03:17:52 PM,11/03/2021 03:52:35 PM,2.0,4.63,Standard rate,N,140,114,Credit card,22.5,0.0,0.5,5.16,0.0,0.3,30.96,2.5
+VeriFone Inc.,11/17/2021 07:46:28 PM,11/17/2021 07:55:22 PM,4.0,1.49,Standard rate,N,164,161,Credit card,8.0,1.0,0.5,2.0,0.0,0.3,14.3,2.5
+"Creative Mobile Technologies, LLC",11/17/2021 05:20:15 AM,11/17/2021 05:28:58 AM,2.0,1.7,Standard rate,N,162,186,Credit card,8.0,3.0,0.5,2.35,0.0,0.3,14.15,2.5
+"Creative Mobile Technologies, LLC",11/24/2021 04:12:28 PM,11/24/2021 04:19:59 PM,2.0,1.3,Standard rate,N,151,239,Cash,7.5,3.5,0.5,0.0,0.0,0.3,11.8,2.5
+VeriFone Inc.,11/11/2021 01:47:42 PM,11/11/2021 02:00:12 PM,2.0,1.41,Standard rate,N,143,163,Credit card,9.5,0.0,0.5,3.2,0.0,0.3,16.0,2.5
+"Creative Mobile Technologies, LLC",11/29/2021 08:55:17 PM,11/29/2021 09:06:27 PM,2.0,2.6,Standard rate,N,41,263,Credit card,10.5,3.0,0.5,2.15,0.0,0.3,16.45,2.5
+"Creative Mobile Technologies, LLC",11/16/2021 12:17:31 PM,11/16/2021 12:27:04 PM,1.0,1.0,Standard rate,N,161,186,Credit card,7.5,2.5,0.5,3.2,0.0,0.3,14.0,2.5
+"Creative Mobile Technologies, LLC",11/29/2021 03:33:16 PM,11/29/2021 03:38:55 PM,1.0,1.1,Standard rate,N,162,163,Cash,6.0,2.5,0.5,0.0,0.0,0.3,9.3,2.5
+VeriFone Inc.,11/06/2021 04:45:50 AM,11/06/2021 04:57:17 AM,1.0,3.57,Standard rate,N,144,163,Cash,12.5,0.5,0.5,0.0,0.0,0.3,16.3,2.5
+VeriFone Inc.,11/24/2021 02:29:58 PM,11/24/2021 02:38:03 PM,1.0,0.71,Standard rate,N,237,141,Cash,6.5,0.0,0.5,0.0,0.0,0.3,9.8,2.5
+VeriFone Inc.,11/22/2021 07:57:05 PM,11/22/2021 08:12:40 PM,1.0,3.76,Standard rate,N,140,79,Credit card,14.0,1.0,0.5,1.83,0.0,0.3,20.13,2.5
+VeriFone Inc.,11/03/2021 08:50:12 PM,11/03/2021 09:03:40 PM,1.0,2.82,Standard rate,N,161,158,Credit card,11.5,0.5,0.5,1.53,0.0,0.3,16.83,2.5
+VeriFone Inc.,11/26/2021 07:21:30 AM,11/26/2021 07:28:15 AM,2.0,1.21,Standard rate,N,142,161,Cash,6.5,0.0,0.5,0.0,0.0,0.3,9.8,2.5
+VeriFone Inc.,11/10/2021 04:07:04 PM,11/10/2021 04:18:26 PM,1.0,1.87,Standard rate,N,151,41,Cash,9.5,1.0,0.5,0.0,0.0,0.3,11.3,0.0
+VeriFone Inc.,11/05/2021 08:09:04 PM,11/05/2021 08:16:06 PM,1.0,1.42,Standard rate,N,236,142,Credit card,7.0,0.5,0.5,2.16,0.0,0.3,12.96,2.5
+VeriFone Inc.,11/04/2021 01:32:47 PM,11/04/2021 01:53:13 PM,1.0,2.75,Standard rate,N,237,238,Credit card,15.0,0.0,0.5,2.0,0.0,0.3,20.3,2.5
+VeriFone Inc.,11/17/2021 06:57:13 PM,11/17/2021 07:22:21 PM,1.0,3.24,Standard rate,N,237,41,Credit card,16.5,1.0,0.5,4.16,0.0,0.3,24.96,2.5
+"Creative Mobile Technologies, LLC",11/15/2021 09:38:34 AM,11/15/2021 10:04:06 AM,1.0,4.0,Standard rate,N,50,79,Credit card,18.0,2.5,0.5,0.0,0.0,0.3,21.3,2.5
+VeriFone Inc.,11/04/2021 12:03:17 PM,11/04/2021 12:08:26 PM,2.0,0.85,Standard rate,N,233,137,Cash,5.5,0.0,0.5,0.0,0.0,0.3,8.8,2.5
+VeriFone Inc.,11/02/2021 06:00:48 PM,11/02/2021 06:07:36 PM,1.0,0.85,Standard rate,N,230,186,Credit card,6.0,0.0,0.5,1.86,0.0,0.3,11.16,2.5
+VeriFone Inc.,11/13/2021 08:23:37 AM,11/13/2021 08:31:07 AM,1.0,2.43,Standard rate,N,263,233,Credit card,9.0,0.0,0.5,2.71,0.0,0.3,15.01,2.5
+VeriFone Inc.,11/17/2021 05:35:09 PM,11/17/2021 05:43:54 PM,1.0,1.16,Standard rate,N,161,142,Cash,7.0,1.0,0.5,0.0,0.0,0.3,11.3,2.5
+VeriFone Inc.,11/17/2021 12:14:24 PM,11/17/2021 12:47:11 PM,1.0,6.22,Standard rate,N,230,209,Credit card,25.5,0.0,0.5,5.76,0.0,0.3,34.56,2.5
+VeriFone Inc.,11/03/2021 04:13:57 PM,11/03/2021 04:24:43 PM,1.0,1.63,Standard rate,N,68,234,Credit card,9.0,1.0,0.5,3.99,0.0,0.3,17.29,2.5
+VeriFone Inc.,11/23/2021 01:02:43 PM,11/23/2021 01:21:37 PM,2.0,1.75,Standard rate,N,90,170,Credit card,12.5,0.0,0.5,2.0,0.0,0.3,17.8,2.5
+"Creative Mobile Technologies, LLC",11/20/2021 01:59:07 AM,11/20/2021 02:06:19 AM,1.0,1.6,Standard rate,N,79,90,Credit card,7.5,3.0,0.5,2.25,0.0,0.3,13.55,2.5
+"Creative Mobile Technologies, LLC",11/03/2021 09:34:38 AM,11/03/2021 09:54:23 AM,1.0,2.0,Standard rate,Y,238,236,Cash,13.0,2.5,0.5,0.0,0.0,0.3,16.3,2.5
+VeriFone Inc.,11/12/2021 08:40:14 AM,11/12/2021 09:01:25 AM,1.0,7.91,Standard rate,N,263,87,Credit card,25.0,0.0,0.5,7.08,0.0,0.3,35.38,2.5
+"Creative Mobile Technologies, LLC",11/20/2021 11:11:08 PM,11/20/2021 11:37:57 PM,1.0,6.3,Standard rate,Y,88,163,Credit card,23.5,3.0,0.5,5.45,0.0,0.3,32.75,2.5
+"Creative Mobile Technologies, LLC",11/13/2021 05:56:07 PM,11/13/2021 06:06:17 PM,1.0,1.3,Standard rate,N,237,142,Credit card,8.5,2.5,0.5,2.95,0.0,0.3,14.75,2.5
+"Creative Mobile Technologies, LLC",11/20/2021 10:29:14 AM,11/20/2021 10:33:33 AM,1.0,1.0,Standard rate,N,249,186,Cash,5.5,2.5,0.5,0.0,0.0,0.3,8.8,2.5
+"Creative Mobile Technologies, LLC",11/14/2021 12:05:00 AM,11/14/2021 12:16:16 AM,2.0,1.4,Standard rate,N,230,50,Cash,8.0,3.0,0.5,0.0,0.0,0.3,11.8,2.5
+VeriFone Inc.,11/30/2021 09:04:02 PM,11/30/2021 09:10:20 PM,5.0,0.72,Standard rate,N,162,161,Credit card,6.0,0.5,0.5,1.96,0.0,0.3,11.76,2.5
+"Creative Mobile Technologies, LLC",11/10/2021 08:41:35 AM,11/10/2021 08:45:54 AM,1.0,0.5,Standard rate,N,237,162,Cash,4.5,2.5,0.5,0.0,0.0,0.3,7.8,2.5
+VeriFone Inc.,11/29/2021 08:34:47 AM,11/29/2021 08:39:09 AM,1.0,0.59,Standard rate,N,236,236,Credit card,5.0,0.0,0.5,1.66,0.0,0.3,9.96,2.5
+VeriFone Inc.,11/17/2021 11:14:27 AM,11/17/2021 11:31:44 AM,3.0,1.81,Standard rate,N,236,43,Credit card,11.5,0.0,0.5,2.96,0.0,0.3,17.76,2.5
+VeriFone Inc.,11/18/2021 04:15:50 PM,11/18/2021 04:26:35 PM,1.0,1.13,Standard rate,N,234,230,Credit card,8.5,1.0,0.5,2.58,0.0,0.3,15.38,2.5
+"Creative Mobile Technologies, LLC",11/19/2021 05:20:33 PM,11/19/2021 05:25:29 PM,1.0,0.6,Standard rate,N,239,143,Credit card,5.0,3.5,0.5,1.85,0.0,0.3,11.15,2.5
+VeriFone Inc.,11/01/2021 04:26:29 PM,11/01/2021 04:43:49 PM,1.0,2.43,Standard rate,N,144,186,Credit card,12.5,1.0,0.5,2.0,0.0,0.3,18.8,2.5
+VeriFone Inc.,11/04/2021 01:52:53 PM,11/04/2021 02:12:58 PM,1.0,1.29,Standard rate,N,237,140,Cash,12.5,0.0,0.5,0.0,0.0,0.3,15.8,2.5
+VeriFone Inc.,11/04/2021 07:45:20 PM,11/04/2021 07:59:40 PM,1.0,6.58,Standard rate,N,143,243,Cash,20.0,0.5,0.5,0.0,0.0,0.3,23.8,2.5
+VeriFone Inc.,11/10/2021 06:09:13 AM,11/10/2021 06:14:35 AM,1.0,1.64,Standard rate,N,186,50,Credit card,7.0,0.0,0.5,2.06,0.0,0.3,12.36,2.5
+VeriFone Inc.,11/20/2021 05:12:19 PM,11/20/2021 05:16:20 PM,1.0,1.02,Standard rate,N,249,231,Credit card,5.0,0.0,0.5,1.24,0.0,0.3,9.54,2.5
+VeriFone Inc.,11/15/2021 10:43:50 PM,11/15/2021 10:53:34 PM,1.0,2.14,Standard rate,N,164,144,Cash,9.0,0.5,0.5,0.0,0.0,0.3,12.8,2.5
+"Creative Mobile Technologies, LLC",11/03/2021 01:20:33 PM,11/03/2021 01:39:27 PM,1.0,2.0,Standard rate,N,229,236,Cash,12.0,2.5,0.5,0.0,0.0,0.3,15.3,2.5
+VeriFone Inc.,11/16/2021 02:09:23 PM,11/16/2021 02:25:10 PM,1.0,1.83,Standard rate,N,142,164,Cash,11.0,0.0,0.5,0.0,0.0,0.3,14.3,2.5
+VeriFone Inc.,11/10/2021 06:47:00 PM,11/10/2021 06:54:43 PM,1.0,1.3,Standard rate,N,163,239,Credit card,7.0,1.0,0.5,2.26,0.0,0.3,13.56,2.5
+VeriFone Inc.,11/05/2021 08:50:45 PM,11/05/2021 08:59:27 PM,1.0,1.12,Standard rate,N,163,162,Credit card,7.0,0.5,0.5,1.0,0.0,0.3,11.8,2.5
+VeriFone Inc.,11/23/2021 12:17:38 PM,11/23/2021 12:24:56 PM,1.0,0.83,Standard rate,N,142,48,Credit card,6.5,0.0,0.5,1.96,0.0,0.3,11.76,2.5
+VeriFone Inc.,11/09/2021 08:56:52 AM,11/09/2021 09:11:38 AM,1.0,3.03,Standard rate,N,262,161,Credit card,13.0,0.0,0.5,3.26,0.0,0.3,19.56,2.5
+"Creative Mobile Technologies, LLC",11/11/2021 08:14:36 AM,11/11/2021 08:44:43 AM,2.0,1.6,Standard rate,N,186,170,Cash,17.5,2.5,0.5,0.0,0.0,0.3,20.8,2.5
+VeriFone Inc.,11/08/2021 11:52:15 AM,11/08/2021 12:01:01 PM,1.0,1.82,Standard rate,N,143,48,Credit card,8.0,0.0,0.5,2.26,0.0,0.3,13.56,2.5
+VeriFone Inc.,11/27/2021 02:19:11 PM,11/27/2021 02:29:56 PM,1.0,1.63,Standard rate,N,107,233,Cash,9.0,0.0,0.5,0.0,0.0,0.3,12.3,2.5
+"Creative Mobile Technologies, LLC",11/12/2021 08:40:14 PM,11/12/2021 08:46:13 PM,2.0,0.7,Standard rate,Y,161,163,Cash,6.0,3.0,0.5,0.0,0.0,0.3,9.8,2.5
+VeriFone Inc.,11/02/2021 06:22:01 PM,11/02/2021 06:32:37 PM,1.0,1.81,Standard rate,N,234,211,Credit card,8.5,0.0,0.5,3.54,0.0,0.3,15.34,2.5
+VeriFone Inc.,11/18/2021 07:38:28 PM,11/18/2021 07:49:59 PM,2.0,1.5,Standard rate,N,233,234,Credit card,9.0,1.0,0.5,1.0,0.0,0.3,14.3,2.5
+VeriFone Inc.,11/02/2021 11:14:24 PM,11/02/2021 11:25:11 PM,1.0,1.65,Standard rate,N,249,79,Credit card,8.5,0.5,0.5,3.69,0.0,0.3,15.99,2.5
+VeriFone Inc.,11/29/2021 12:55:52 PM,11/29/2021 01:34:52 PM,2.0,4.27,Standard rate,N,262,90,Credit card,24.5,0.0,0.5,6.95,0.0,0.3,34.75,2.5
+VeriFone Inc.,11/09/2021 02:08:41 PM,11/09/2021 02:18:09 PM,1.0,1.94,Standard rate,N,162,75,Credit card,8.5,0.0,0.5,3.54,0.0,0.3,15.34,2.5
+VeriFone Inc.,11/03/2021 06:09:50 PM,11/03/2021 06:27:04 PM,1.0,2.42,Standard rate,N,236,50,Credit card,12.5,1.0,0.5,1.0,0.0,0.3,17.8,2.5
+VeriFone Inc.,11/05/2021 05:56:19 PM,11/05/2021 06:06:05 PM,1.0,1.27,Standard rate,N,161,234,Credit card,8.0,1.0,0.5,1.0,0.0,0.3,13.3,2.5
+VeriFone Inc.,11/22/2021 02:10:27 PM,11/22/2021 02:27:49 PM,2.0,3.02,Standard rate,N,166,142,Credit card,14.5,0.0,0.5,3.56,0.0,0.3,21.36,2.5
+VeriFone Inc.,11/17/2021 05:57:25 PM,11/17/2021 06:01:46 PM,1.0,0.82,Standard rate,N,234,113,Credit card,5.0,1.0,0.5,1.86,0.0,0.3,11.16,2.5
+"Creative Mobile Technologies, LLC",11/01/2021 07:17:59 PM,11/01/2021 07:30:47 PM,1.0,2.1,Standard rate,Y,163,107,Credit card,10.5,3.5,0.5,1.5,0.0,0.3,16.3,2.5
+VeriFone Inc.,11/06/2021 12:59:37 AM,11/06/2021 01:05:52 AM,1.0,1.52,Standard rate,N,230,68,Cash,7.0,0.5,0.5,0.0,0.0,0.3,10.8,2.5
+VeriFone Inc.,11/15/2021 02:49:40 PM,11/15/2021 03:05:46 PM,2.0,1.63,Standard rate,N,162,236,Cash,11.5,0.0,0.5,0.0,0.0,0.3,14.8,2.5
+VeriFone Inc.,11/16/2021 06:29:23 PM,11/16/2021 06:44:15 PM,1.0,1.86,Standard rate,N,236,163,Credit card,11.0,1.0,0.5,3.06,0.0,0.3,18.36,2.5
+VeriFone Inc.,11/04/2021 04:05:28 PM,11/04/2021 04:17:38 PM,1.0,0.84,Standard rate,N,262,236,Credit card,8.5,1.0,0.5,2.56,0.0,0.3,15.36,2.5
+"Creative Mobile Technologies, LLC",11/26/2021 12:27:31 AM,11/26/2021 12:41:02 AM,1.0,4.5,Standard rate,N,140,113,Cash,15.5,3.0,0.5,0.0,0.0,0.3,19.3,2.5
+VeriFone Inc.,11/11/2021 03:14:25 PM,11/11/2021 03:25:39 PM,1.0,2.05,Standard rate,N,151,142,Credit card,9.5,0.0,0.5,3.2,0.0,0.3,16.0,2.5
+VeriFone Inc.,11/03/2021 05:34:31 PM,11/03/2021 05:56:52 PM,1.0,5.91,Standard rate,N,236,114,Credit card,21.0,1.0,0.5,1.5,0.0,0.3,26.8,2.5
+"Creative Mobile Technologies, LLC",11/08/2021 11:36:19 PM,11/08/2021 11:42:51 PM,1.0,2.0,Standard rate,N,166,239,Cash,8.0,3.0,0.5,0.0,0.0,0.3,11.8,2.5
+VeriFone Inc.,11/18/2021 11:30:09 AM,11/18/2021 11:49:51 AM,1.0,3.43,Standard rate,N,163,166,Cash,15.0,0.0,0.5,0.0,0.0,0.3,18.3,2.5
+VeriFone Inc.,11/20/2021 05:39:31 PM,11/20/2021 06:16:10 PM,5.0,4.66,Standard rate,N,90,263,Credit card,24.5,0.0,0.5,2.0,0.0,0.3,29.8,2.5
+VeriFone Inc.,11/19/2021 06:42:05 PM,11/19/2021 06:48:37 PM,1.0,1.01,Standard rate,N,229,237,Credit card,6.0,1.0,0.5,2.58,0.0,0.3,12.88,2.5
+"Creative Mobile Technologies, LLC",11/07/2021 04:12:09 AM,11/07/2021 04:26:59 AM,1.0,4.1,Standard rate,Y,148,50,Credit card,14.0,3.0,0.5,1.0,0.0,0.3,18.8,2.5
+"Creative Mobile Technologies, LLC",11/22/2021 08:02:13 AM,11/22/2021 08:20:52 AM,1.0,3.2,Standard rate,N,170,231,Credit card,14.5,2.5,0.5,3.55,0.0,0.3,21.35,2.5
+VeriFone Inc.,11/10/2021 07:45:31 PM,11/10/2021 07:50:50 PM,1.0,0.7,Standard rate,N,230,163,Credit card,5.5,1.0,0.5,2.0,0.0,0.3,11.8,2.5
+"Creative Mobile Technologies, LLC",11/22/2021 09:38:08 PM,11/22/2021 09:54:44 PM,2.0,4.1,Standard rate,N,161,87,Credit card,15.0,3.0,0.5,3.75,0.0,0.3,22.55,2.5
+VeriFone Inc.,11/07/2021 06:15:17 PM,11/07/2021 06:33:31 PM,1.0,1.91,Standard rate,N,68,170,Cash,12.5,0.0,0.5,0.0,0.0,0.3,15.8,2.5
+VeriFone Inc.,11/06/2021 09:25:53 PM,11/06/2021 09:49:58 PM,1.0,2.11,Standard rate,N,249,100,Credit card,15.0,0.5,0.5,3.0,0.0,0.3,21.8,2.5
+VeriFone Inc.,11/07/2021 09:52:00 AM,11/07/2021 10:01:40 AM,1.0,2.56,Standard rate,N,142,43,Credit card,9.5,0.0,0.5,2.56,0.0,0.3,15.36,2.5
+VeriFone Inc.,11/17/2021 12:18:55 PM,11/17/2021 12:27:58 PM,1.0,1.39,Standard rate,N,249,90,Credit card,7.5,0.0,0.5,3.24,0.0,0.3,14.04,2.5
+VeriFone Inc.,11/09/2021 06:34:24 PM,11/09/2021 06:49:03 PM,1.0,1.85,Standard rate,N,164,142,Credit card,10.5,1.0,0.5,2.22,0.0,0.3,17.02,2.5
+"Creative Mobile Technologies, LLC",11/07/2021 12:22:30 PM,11/07/2021 12:31:58 PM,1.0,1.7,Standard rate,N,249,79,Credit card,8.5,2.5,0.5,2.95,0.0,0.3,14.75,2.5
+VeriFone Inc.,11/22/2021 11:08:01 PM,11/22/2021 11:23:59 PM,1.0,5.15,Standard rate,N,114,263,Credit card,17.0,0.5,0.5,6.24,0.0,0.3,27.04,2.5
+"Creative Mobile Technologies, LLC",11/05/2021 08:11:27 PM,11/05/2021 08:20:52 PM,1.0,1.4,Standard rate,N,230,246,Cash,7.0,3.0,0.5,0.0,0.0,0.3,10.8,2.5
+VeriFone Inc.,11/17/2021 06:48:47 PM,11/17/2021 07:04:33 PM,1.0,2.06,Standard rate,N,140,142,Credit card,11.0,1.0,0.5,3.06,0.0,0.3,18.36,2.5
+"Creative Mobile Technologies, LLC",11/21/2021 10:41:00 AM,11/21/2021 11:03:34 AM,3.0,4.9,Standard rate,N,48,88,Credit card,19.5,2.5,0.5,4.56,0.0,0.3,27.36,2.5
+VeriFone Inc.,11/15/2021 01:59:05 PM,11/15/2021 02:09:07 PM,1.0,0.9,Standard rate,N,263,75,Credit card,8.0,0.0,0.5,2.26,0.0,0.3,13.56,2.5
+"Creative Mobile Technologies, LLC",11/15/2021 09:10:29 PM,11/15/2021 09:15:00 PM,1.0,0.9,Standard rate,Y,239,238,Credit card,5.5,3.0,0.5,2.3,0.0,0.3,11.6,2.5
+VeriFone Inc.,11/16/2021 06:38:50 PM,11/16/2021 06:41:38 PM,1.0,0.72,Standard rate,N,43,236,Credit card,4.5,1.0,0.5,1.76,0.0,0.3,10.56,2.5
+VeriFone Inc.,11/06/2021 11:09:59 PM,11/06/2021 11:21:12 PM,1.0,2.48,Standard rate,N,236,24,Credit card,10.0,0.5,0.5,0.0,0.0,0.3,13.8,2.5
+VeriFone Inc.,11/06/2021 11:36:29 AM,11/06/2021 12:03:18 PM,1.0,4.0,Standard rate,N,113,239,Credit card,18.5,0.0,0.5,4.36,0.0,0.3,26.16,2.5
+VeriFone Inc.,11/14/2021 12:47:55 AM,11/14/2021 01:11:08 AM,3.0,4.64,Standard rate,N,148,50,Credit card,18.5,0.5,0.5,4.46,0.0,0.3,26.76,2.5
+VeriFone Inc.,11/04/2021 10:20:02 AM,11/04/2021 10:33:04 AM,1.0,0.6,Standard rate,N,230,161,Credit card,9.0,0.0,0.5,2.46,0.0,0.3,14.76,2.5
+VeriFone Inc.,11/12/2021 05:43:14 PM,11/12/2021 05:54:38 PM,1.0,1.51,Standard rate,N,113,231,Credit card,8.5,1.0,0.5,3.2,0.0,0.3,16.0,2.5
+VeriFone Inc.,11/06/2021 08:28:07 PM,11/06/2021 08:57:04 PM,1.0,5.07,Standard rate,N,79,43,Credit card,21.5,0.5,0.5,5.06,0.0,0.3,30.36,2.5
+"Creative Mobile Technologies, LLC",11/07/2021 01:54:06 AM,11/07/2021 01:57:13 AM,1.0,1.2,Standard rate,N,141,233,Credit card,5.5,3.0,0.5,1.5,0.0,0.3,10.8,2.5
+VeriFone Inc.,11/22/2021 03:50:02 PM,11/22/2021 03:54:44 PM,1.0,0.73,Standard rate,N,161,229,Credit card,5.0,0.0,0.5,1.66,0.0,0.3,9.96,2.5
+VeriFone Inc.,11/24/2021 07:50:41 AM,11/24/2021 07:57:27 AM,1.0,1.19,Standard rate,N,186,48,Cash,6.5,0.0,0.5,0.0,0.0,0.3,9.8,2.5
+"Creative Mobile Technologies, LLC",11/12/2021 04:03:12 PM,11/12/2021 04:26:50 PM,1.0,3.7,Standard rate,N,186,236,Credit card,17.0,3.5,0.5,4.25,0.0,0.3,25.55,2.5
+VeriFone Inc.,11/15/2021 09:18:45 AM,11/15/2021 09:25:34 AM,1.0,1.54,Standard rate,N,43,238,Credit card,7.0,0.0,0.5,2.06,0.0,0.3,12.36,2.5
+"Creative Mobile Technologies, LLC",11/10/2021 04:43:58 PM,11/10/2021 05:09:54 PM,2.0,2.9,Standard rate,N,43,151,Credit card,17.0,3.5,0.5,4.26,0.0,0.3,25.56,2.5
+VeriFone Inc.,11/27/2021 03:34:35 PM,11/27/2021 03:42:38 PM,1.0,1.71,Standard rate,N,151,166,Credit card,8.0,0.0,0.5,1.76,0.0,0.3,10.56,0.0
+"Creative Mobile Technologies, LLC",11/20/2021 05:28:56 PM,11/20/2021 05:47:45 PM,1.0,2.8,Standard rate,N,151,42,Credit card,14.0,0.0,0.5,1.0,0.0,0.3,15.8,0.0
+VeriFone Inc.,11/19/2021 01:57:15 PM,11/19/2021 02:11:48 PM,6.0,0.95,Standard rate,N,162,100,Credit card,10.0,0.0,0.5,2.66,0.0,0.3,15.96,2.5
+VeriFone Inc.,11/02/2021 02:42:06 PM,11/02/2021 02:48:45 PM,3.0,0.42,Standard rate,N,237,162,Credit card,6.0,0.0,0.5,1.86,0.0,0.3,11.16,2.5
+VeriFone Inc.,11/14/2021 09:45:49 PM,11/14/2021 09:50:03 PM,2.0,0.48,Standard rate,N,143,142,Credit card,4.5,0.5,0.5,1.66,0.0,0.3,9.96,2.5
+"Creative Mobile Technologies, LLC",11/23/2021 10:42:37 AM,11/23/2021 10:58:12 AM,1.0,1.5,Standard rate,N,164,163,Credit card,10.5,2.5,0.5,2.07,0.0,0.3,15.87,2.5
+VeriFone Inc.,11/01/2021 10:08:17 AM,11/01/2021 10:38:07 AM,2.0,3.53,Standard rate,N,90,236,Cash,19.5,0.0,0.5,0.0,0.0,0.3,22.8,2.5
+VeriFone Inc.,11/01/2021 11:19:48 AM,11/01/2021 11:22:36 AM,1.0,0.51,Standard rate,N,162,229,Cash,4.0,0.0,0.5,0.0,0.0,0.3,7.3,2.5
+VeriFone Inc.,11/02/2021 06:58:20 PM,11/02/2021 07:10:23 PM,3.0,1.94,Standard rate,N,239,141,Credit card,10.0,0.0,0.5,3.99,0.0,0.3,17.29,2.5
+"Creative Mobile Technologies, LLC",11/02/2021 10:38:21 PM,11/02/2021 10:40:07 PM,1.0,0.1,Standard rate,N,263,263,No charge,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+VeriFone Inc.,11/29/2021 07:33:59 PM,11/29/2021 07:41:49 PM,1.0,0.99,Standard rate,N,164,230,Credit card,7.0,1.0,0.5,2.26,0.0,0.3,13.56,2.5
+VeriFone Inc.,11/16/2021 09:03:50 AM,11/16/2021 09:22:10 AM,1.0,2.42,Standard rate,N,186,114,Credit card,13.0,0.0,0.5,3.26,0.0,0.3,19.56,2.5
+"Creative Mobile Technologies, LLC",11/10/2021 10:02:30 AM,11/10/2021 10:28:55 AM,2.0,3.6,Standard rate,N,90,237,Cash,17.0,2.5,0.5,0.0,0.0,0.3,20.3,2.5
+"Creative Mobile Technologies, LLC",11/03/2021 11:16:01 AM,11/03/2021 11:36:52 AM,1.0,1.8,Standard rate,N,142,141,Credit card,13.5,2.5,0.5,2.5,0.0,0.3,19.3,2.5
+VeriFone Inc.,11/18/2021 10:46:12 PM,11/18/2021 10:55:46 PM,1.0,2.54,Standard rate,N,236,41,Credit card,10.0,0.5,0.5,2.76,0.0,0.3,16.56,2.5
+"Creative Mobile Technologies, LLC",11/27/2021 02:06:02 PM,11/27/2021 02:16:23 PM,2.0,1.2,Standard rate,N,163,48,Cash,8.5,2.5,0.5,0.0,0.0,0.3,11.8,2.5
+VeriFone Inc.,11/12/2021 11:30:23 PM,11/12/2021 11:34:57 PM,2.0,1.27,Standard rate,N,50,143,Credit card,6.0,0.5,0.5,1.47,0.0,0.3,11.27,2.5
+VeriFone Inc.,11/14/2021 02:49:33 PM,11/14/2021 02:59:33 PM,1.0,1.68,Standard rate,N,234,162,Cash,8.5,0.0,0.5,0.0,0.0,0.3,11.8,2.5
+VeriFone Inc.,11/28/2021 09:09:25 AM,11/28/2021 09:12:06 AM,5.0,0.75,Standard rate,N,229,162,Credit card,4.5,0.0,0.5,1.56,0.0,0.3,9.36,2.5
+"Creative Mobile Technologies, LLC",11/14/2021 04:24:46 PM,11/14/2021 04:28:25 PM,1.0,0.6,Standard rate,N,262,263,Cash,4.5,2.5,0.5,0.0,0.0,0.3,7.8,2.5
+"Creative Mobile Technologies, LLC",11/09/2021 01:32:32 PM,11/09/2021 01:35:40 PM,1.0,0.7,Standard rate,N,113,90,Credit card,4.5,2.5,0.5,1.5,0.0,0.3,9.3,2.5
+"Creative Mobile Technologies, LLC",11/01/2021 07:21:53 PM,11/01/2021 07:25:27 PM,2.0,0.4,Standard rate,N,263,236,Cash,4.0,3.5,0.5,0.0,0.0,0.3,8.3,2.5
+VeriFone Inc.,11/05/2021 03:22:57 AM,11/05/2021 03:39:05 AM,1.0,3.51,Standard rate,N,148,100,Credit card,14.0,0.5,0.5,3.56,0.0,0.3,21.36,2.5
+VeriFone Inc.,11/26/2021 12:15:40 PM,11/26/2021 12:23:47 PM,1.0,1.29,Standard rate,N,161,43,Cash,7.0,0.0,0.5,0.0,0.0,0.3,10.3,2.5
+VeriFone Inc.,11/12/2021 06:59:35 PM,11/12/2021 07:14:39 PM,1.0,2.11,Standard rate,N,68,4,Credit card,11.0,1.0,0.5,3.06,0.0,0.3,18.36,2.5
+VeriFone Inc.,11/23/2021 07:37:07 AM,11/23/2021 07:46:37 AM,1.0,2.62,Standard rate,N,262,162,Credit card,10.5,0.0,0.5,2.76,0.0,0.3,16.56,2.5
+VeriFone Inc.,11/04/2021 06:33:00 AM,11/04/2021 06:40:06 AM,1.0,1.45,Standard rate,N,186,162,Credit card,7.0,0.0,0.5,2.06,0.0,0.3,12.36,2.5
+"Creative Mobile Technologies, LLC",11/03/2021 06:04:51 PM,11/03/2021 06:13:18 PM,2.0,0.8,Standard rate,N,236,263,Credit card,7.0,3.5,0.5,2.25,0.0,0.3,13.55,2.5
+VeriFone Inc.,11/22/2021 11:52:12 AM,11/22/2021 12:05:32 PM,3.0,1.55,Standard rate,N,230,43,Cash,9.5,0.0,0.5,0.0,0.0,0.3,12.8,2.5
+VeriFone Inc.,11/25/2021 02:01:56 AM,11/25/2021 02:04:50 AM,2.0,1.35,Standard rate,N,263,74,Credit card,5.5,0.5,0.5,5.0,0.0,0.3,14.3,2.5
+VeriFone Inc.,11/03/2021 07:40:03 PM,11/03/2021 07:48:33 PM,1.0,1.32,Standard rate,N,231,113,Credit card,7.5,1.0,0.5,2.0,0.0,0.3,13.8,2.5
+VeriFone Inc.,11/09/2021 06:30:10 PM,11/09/2021 06:38:37 PM,3.0,1.23,Standard rate,N,239,163,Credit card,7.5,1.0,0.5,2.95,0.0,0.3,14.75,2.5
+VeriFone Inc.,11/13/2021 11:23:25 AM,11/13/2021 11:29:52 AM,2.0,1.14,Standard rate,N,161,164,Credit card,6.5,0.0,0.5,1.96,0.0,0.3,11.76,2.5
+VeriFone Inc.,11/12/2021 06:19:44 PM,11/12/2021 06:37:15 PM,5.0,2.24,Standard rate,N,140,239,Cash,12.0,1.0,0.5,0.0,0.0,0.3,16.3,2.5
+VeriFone Inc.,11/30/2021 08:40:23 PM,11/30/2021 08:47:19 PM,1.0,1.02,Standard rate,N,161,237,Credit card,6.5,0.5,0.5,2.58,0.0,0.3,12.88,2.5
+VeriFone Inc.,11/15/2021 10:14:27 PM,11/15/2021 10:24:09 PM,1.0,2.61,Standard rate,N,142,246,Credit card,10.0,0.5,0.5,2.76,0.0,0.3,16.56,2.5
+"Creative Mobile Technologies, LLC",11/19/2021 12:05:01 PM,11/19/2021 12:18:43 PM,1.0,1.8,Standard rate,N,137,162,Credit card,10.5,2.5,0.5,2.0,0.0,0.3,15.8,2.5
+"Creative Mobile Technologies, LLC",11/10/2021 12:28:20 PM,11/10/2021 12:43:57 PM,1.0,1.7,Standard rate,N,236,161,Credit card,11.0,2.5,0.5,3.55,0.0,0.3,17.85,2.5
+VeriFone Inc.,11/17/2021 01:34:15 PM,11/17/2021 01:42:46 PM,1.0,1.03,Standard rate,N,68,107,Cash,7.0,0.0,0.5,0.0,0.0,0.3,10.3,2.5
+VeriFone Inc.,11/02/2021 04:56:47 PM,11/02/2021 05:02:06 PM,2.0,0.58,Standard rate,N,163,162,Credit card,5.0,0.0,0.5,1.66,0.0,0.3,9.96,2.5
+VeriFone Inc.,11/10/2021 01:09:10 PM,11/10/2021 01:28:34 PM,1.0,2.58,Standard rate,N,143,236,Credit card,14.0,0.0,0.5,2.0,0.0,0.3,19.3,2.5
+VeriFone Inc.,11/14/2021 12:17:57 PM,11/14/2021 12:32:46 PM,1.0,1.73,Standard rate,N,142,229,Cash,11.0,0.0,0.5,0.0,0.0,0.3,14.3,2.5
+"Creative Mobile Technologies, LLC",11/08/2021 07:52:12 PM,11/08/2021 08:03:38 PM,1.0,2.3,Standard rate,N,234,229,Credit card,10.5,3.5,0.5,2.95,0.0,0.3,17.75,2.5
+VeriFone Inc.,11/18/2021 12:08:52 PM,11/18/2021 12:32:09 PM,1.0,4.15,Standard rate,N,237,246,Credit card,17.0,0.0,0.5,4.06,0.0,0.3,24.36,2.5
+VeriFone Inc.,11/17/2021 03:18:26 PM,11/17/2021 03:26:04 PM,1.0,0.82,Standard rate,N,170,161,Cash,6.5,0.0,0.5,0.0,0.0,0.3,9.8,2.5
+VeriFone Inc.,11/26/2021 06:15:35 AM,11/26/2021 06:21:41 AM,2.0,1.77,Standard rate,N,50,100,Credit card,7.5,0.0,0.5,2.16,0.0,0.3,12.96,2.5
+"Creative Mobile Technologies, LLC",11/23/2021 11:17:01 AM,11/23/2021 11:31:55 AM,1.0,4.9,Standard rate,N,244,238,Credit card,16.5,2.5,0.5,4.95,0.0,0.3,24.75,2.5
+"Creative Mobile Technologies, LLC",11/30/2021 09:24:59 PM,11/30/2021 09:32:40 PM,1.0,2.6,Standard rate,N,161,238,Credit card,9.5,3.0,0.5,3.33,0.0,0.3,16.63,2.5
+VeriFone Inc.,11/06/2021 01:03:10 AM,11/06/2021 01:16:40 AM,1.0,2.26,Standard rate,N,148,234,Credit card,10.5,0.5,0.5,2.86,0.0,0.3,17.16,2.5
+VeriFone Inc.,11/06/2021 02:10:57 AM,11/06/2021 02:26:21 AM,1.0,2.75,Standard rate,N,246,163,Credit card,12.0,0.5,0.5,3.95,0.0,0.3,19.75,2.5
+VeriFone Inc.,11/03/2021 04:47:46 PM,11/03/2021 05:22:06 PM,3.0,7.33,Standard rate,N,140,13,Credit card,26.5,1.0,0.5,6.16,0.0,0.3,36.96,2.5
+VeriFone Inc.,11/18/2021 10:43:18 AM,11/18/2021 10:54:07 AM,2.0,1.31,Standard rate,N,236,237,Cash,7.5,0.0,0.5,0.0,0.0,0.3,10.8,2.5
+"Creative Mobile Technologies, LLC",11/15/2021 05:56:27 PM,11/15/2021 06:25:31 PM,2.0,4.8,Standard rate,Y,230,261,Cash,21.0,3.5,0.5,0.0,0.0,0.3,25.3,2.5
+VeriFone Inc.,11/22/2021 09:35:35 AM,11/22/2021 09:42:23 AM,1.0,0.6,Standard rate,N,234,107,Credit card,6.0,0.0,0.5,2.79,0.0,0.3,12.09,2.5
+VeriFone Inc.,11/21/2021 01:27:25 PM,11/21/2021 01:38:05 PM,2.0,2.52,Standard rate,N,261,246,Cash,10.5,0.0,0.5,0.0,0.0,0.3,13.8,2.5
+VeriFone Inc.,11/16/2021 07:01:08 AM,11/16/2021 07:11:18 AM,1.0,3.29,Standard rate,N,263,162,Credit card,12.5,0.0,0.5,1.58,0.0,0.3,17.38,2.5
+VeriFone Inc.,11/23/2021 06:51:17 AM,11/23/2021 06:58:18 AM,1.0,2.12,Standard rate,N,262,161,Credit card,8.5,0.0,0.5,2.95,0.0,0.3,14.75,2.5
+VeriFone Inc.,11/27/2021 09:49:51 PM,11/27/2021 10:11:11 PM,4.0,3.27,Standard rate,N,163,79,Cash,15.0,0.5,0.5,0.0,0.0,0.3,18.8,2.5
+VeriFone Inc.,11/23/2021 05:26:06 PM,11/23/2021 05:50:34 PM,2.0,1.8,Standard rate,N,249,13,Credit card,15.5,1.0,0.5,4.95,0.0,0.3,24.75,2.5
+VeriFone Inc.,11/22/2021 10:18:08 PM,11/22/2021 10:28:48 PM,1.0,2.13,Standard rate,N,163,238,Credit card,9.5,0.5,0.5,2.66,0.0,0.3,15.96,2.5
+VeriFone Inc.,11/04/2021 03:25:03 PM,11/04/2021 03:35:09 PM,1.0,0.81,Standard rate,N,170,230,Cash,7.5,0.0,0.5,0.0,0.0,0.3,10.8,2.5
+VeriFone Inc.,11/30/2021 06:39:01 PM,11/30/2021 06:58:47 PM,1.0,2.54,Standard rate,N,161,114,Credit card,13.5,1.0,0.5,4.45,0.0,0.3,22.25,2.5
+VeriFone Inc.,11/18/2021 06:04:11 PM,11/18/2021 06:11:21 PM,1.0,1.16,Standard rate,N,234,170,Credit card,6.5,1.0,0.5,1.62,0.0,0.3,12.42,2.5
+VeriFone Inc.,11/07/2021 08:22:49 PM,11/07/2021 08:33:05 PM,1.0,2.27,Standard rate,N,75,237,Cash,9.5,0.5,0.5,0.0,0.0,0.3,13.3,2.5
+"Creative Mobile Technologies, LLC",11/23/2021 05:50:40 PM,11/23/2021 06:07:53 PM,1.0,2.4,Standard rate,N,161,90,Credit card,12.5,3.5,0.5,1.0,0.0,0.3,17.8,2.5
+VeriFone Inc.,11/08/2021 09:47:48 AM,11/08/2021 09:56:20 AM,1.0,2.36,Standard rate,N,141,162,Cash,9.0,0.0,0.5,0.0,0.0,0.3,12.3,2.5
+"Creative Mobile Technologies, LLC",11/26/2021 07:33:32 PM,11/26/2021 07:44:51 PM,1.0,1.3,Standard rate,N,68,163,Cash,9.0,3.5,0.5,0.0,0.0,0.3,13.3,2.5
+VeriFone Inc.,11/26/2021 10:28:45 PM,11/26/2021 10:35:24 PM,1.0,0.99,Standard rate,N,163,162,Credit card,6.0,0.5,0.5,1.5,0.0,0.3,11.3,2.5
+VeriFone Inc.,11/22/2021 10:08:48 AM,11/22/2021 10:14:52 AM,2.0,0.91,Standard rate,N,262,140,Credit card,6.0,0.0,0.5,1.86,0.0,0.3,11.16,2.5
+VeriFone Inc.,11/07/2021 07:16:01 PM,11/07/2021 07:20:52 PM,2.0,1.07,Standard rate,N,79,137,Credit card,6.0,0.0,0.5,2.0,0.0,0.3,11.3,2.5
+"Creative Mobile Technologies, LLC",11/17/2021 07:22:36 PM,11/17/2021 07:32:50 PM,1.0,0.4,Standard rate,N,164,186,Credit card,7.5,2.5,0.5,2.15,0.0,0.3,12.95,2.5
+VeriFone Inc.,11/29/2021 11:54:02 AM,11/29/2021 12:01:23 PM,1.0,1.1,Standard rate,N,238,142,Credit card,7.0,0.0,0.5,2.06,0.0,0.3,12.36,2.5
+VeriFone Inc.,11/09/2021 04:29:43 PM,11/09/2021 04:36:55 PM,4.0,1.16,Standard rate,N,100,246,Credit card,6.5,1.0,0.5,1.5,0.0,0.3,12.3,2.5
+VeriFone Inc.,11/06/2021 11:17:53 PM,11/06/2021 11:31:29 PM,1.0,1.81,Standard rate,N,163,68,Credit card,10.0,0.5,0.5,2.0,0.0,0.3,15.8,2.5
+VeriFone Inc.,11/11/2021 11:44:13 PM,11/12/2021 12:06:25 AM,5.0,1.55,Standard rate,N,161,229,Credit card,15.0,0.5,0.5,5.64,0.0,0.3,24.44,2.5
+VeriFone Inc.,11/07/2021 07:27:04 PM,11/07/2021 07:45:07 PM,1.0,3.69,Standard rate,N,113,237,Credit card,14.5,0.0,0.5,4.2,0.0,0.3,22.0,2.5
+VeriFone Inc.,11/24/2021 08:47:43 AM,11/24/2021 08:56:09 AM,1.0,1.26,Standard rate,N,236,237,Credit card,7.5,0.0,0.5,2.0,0.0,0.3,12.8,2.5
+"Creative Mobile Technologies, LLC",11/23/2021 02:36:08 PM,11/23/2021 02:49:07 PM,1.0,1.7,Standard rate,N,68,163,Credit card,10.0,2.5,0.5,2.65,0.0,0.3,15.95,2.5
+VeriFone Inc.,11/09/2021 06:41:54 PM,11/09/2021 06:51:34 PM,1.0,1.64,Standard rate,N,142,233,Credit card,8.0,1.0,0.5,2.46,0.0,0.3,14.76,2.5
+VeriFone Inc.,11/10/2021 05:07:35 PM,11/10/2021 05:18:07 PM,3.0,0.66,Standard rate,N,230,100,Credit card,7.5,1.0,0.5,2.36,0.0,0.3,14.16,2.5
+VeriFone Inc.,11/27/2021 11:43:08 AM,11/27/2021 11:52:45 AM,1.0,2.05,Standard rate,N,148,234,Credit card,9.0,0.0,0.5,2.46,0.0,0.3,14.76,2.5
+"Creative Mobile Technologies, LLC",11/26/2021 05:37:13 PM,11/26/2021 05:57:28 PM,2.0,2.8,Standard rate,N,230,246,Credit card,15.0,3.5,0.5,4.8,0.0,0.3,24.1,2.5
+"Creative Mobile Technologies, LLC",11/15/2021 05:15:31 PM,11/15/2021 05:21:19 PM,1.0,0.6,Standard rate,N,230,230,Cash,5.5,3.5,0.5,0.0,0.0,0.3,9.8,2.5
+VeriFone Inc.,11/23/2021 03:39:11 PM,11/23/2021 03:58:13 PM,1.0,2.15,Standard rate,N,237,238,Credit card,13.0,0.0,0.5,3.26,0.0,0.3,19.56,2.5
+VeriFone Inc.,11/01/2021 02:24:27 PM,11/01/2021 02:44:26 PM,5.0,4.03,Standard rate,N,140,107,Credit card,17.0,0.0,0.5,2.0,0.0,0.3,22.3,2.5
+"Creative Mobile Technologies, LLC",11/23/2021 07:18:50 PM,11/23/2021 07:24:14 PM,1.0,1.0,Standard rate,N,246,48,Credit card,5.5,3.5,0.5,1.95,0.0,0.3,11.75,2.5
+VeriFone Inc.,11/01/2021 04:09:27 PM,11/01/2021 04:18:49 PM,1.0,1.02,Standard rate,N,48,48,Credit card,7.5,1.0,0.5,3.54,0.0,0.3,15.34,2.5
+VeriFone Inc.,11/05/2021 05:18:46 PM,11/05/2021 05:35:35 PM,1.0,1.92,Standard rate,N,164,237,Credit card,12.0,1.0,0.5,3.26,0.0,0.3,19.56,2.5
+VeriFone Inc.,11/16/2021 12:16:45 PM,11/16/2021 12:26:31 PM,2.0,1.03,Standard rate,N,114,231,Credit card,7.5,0.0,0.5,2.16,0.0,0.3,12.96,2.5
+VeriFone Inc.,11/16/2021 10:31:02 AM,11/16/2021 10:37:24 AM,1.0,0.51,Standard rate,N,48,48,Cash,5.5,0.0,0.5,0.0,0.0,0.3,8.8,2.5
+VeriFone Inc.,11/23/2021 05:47:45 AM,11/23/2021 06:08:27 AM,1.0,9.31,Standard rate,N,186,243,Cash,28.0,0.5,0.5,0.0,0.0,0.3,31.8,2.5
+"Creative Mobile Technologies, LLC",11/18/2021 04:12:47 PM,11/18/2021 04:22:47 PM,1.0,0.8,Standard rate,N,163,141,Cash,7.5,3.5,0.5,0.0,0.0,0.3,11.8,2.5
+VeriFone Inc.,11/05/2021 09:38:17 PM,11/05/2021 09:54:43 PM,1.0,1.92,Standard rate,N,170,79,Cash,11.5,0.5,0.5,0.0,0.0,0.3,15.3,2.5
+VeriFone Inc.,11/12/2021 08:39:09 PM,11/12/2021 08:49:43 PM,2.0,1.45,Standard rate,N,170,79,Credit card,8.5,0.5,0.5,2.46,0.0,0.3,14.76,2.5
+"Creative Mobile Technologies, LLC",11/11/2021 11:04:56 PM,11/11/2021 11:13:37 PM,1.0,1.7,Standard rate,N,144,158,Credit card,8.5,3.0,0.5,2.45,0.0,0.3,14.75,2.5
+"Creative Mobile Technologies, LLC",11/13/2021 10:03:39 PM,11/13/2021 10:24:09 PM,1.0,2.6,Standard rate,N,246,162,Credit card,14.0,3.0,0.5,2.0,0.0,0.3,19.8,2.5
+"Creative Mobile Technologies, LLC",11/14/2021 01:45:47 AM,11/14/2021 01:53:50 AM,4.0,1.0,Standard rate,N,90,137,Credit card,7.0,3.0,0.5,2.15,0.0,0.3,12.95,2.5
+VeriFone Inc.,11/19/2021 02:37:44 PM,11/19/2021 02:41:32 PM,1.0,0.47,Standard rate,N,142,142,Cash,4.5,0.0,0.5,0.0,0.0,0.3,7.8,2.5
+VeriFone Inc.,11/18/2021 07:30:18 PM,11/18/2021 07:38:59 PM,1.0,2.1,Standard rate,N,75,239,Credit card,9.0,1.0,0.5,2.66,0.0,0.3,15.96,2.5
+"Creative Mobile Technologies, LLC",11/19/2021 05:29:18 PM,11/19/2021 05:40:49 PM,1.0,1.3,Standard rate,N,75,41,Credit card,9.0,1.0,0.5,2.15,0.0,0.3,12.95,0.0
+"Creative Mobile Technologies, LLC",11/05/2021 11:11:49 AM,11/05/2021 11:14:47 AM,1.0,0.3,Standard rate,N,236,236,Credit card,4.0,2.5,0.5,1.45,0.0,0.3,8.75,2.5
+"Creative Mobile Technologies, LLC",11/03/2021 07:35:19 PM,11/03/2021 07:50:57 PM,1.0,4.3,Standard rate,N,162,41,Credit card,14.5,3.0,0.5,3.65,0.0,0.3,21.95,2.5
+VeriFone Inc.,11/16/2021 09:31:51 AM,11/16/2021 09:45:13 AM,1.0,2.26,Standard rate,N,234,231,Credit card,11.0,0.0,0.5,2.86,0.0,0.3,17.16,2.5
+VeriFone Inc.,11/12/2021 09:35:25 AM,11/12/2021 09:45:16 AM,1.0,1.52,Standard rate,N,239,237,Credit card,8.0,0.0,0.5,2.26,0.0,0.3,13.56,2.5
+VeriFone Inc.,11/18/2021 01:59:40 PM,11/18/2021 02:12:37 PM,1.0,1.9,Standard rate,N,143,238,Cash,10.0,0.0,0.5,0.0,0.0,0.3,13.3,2.5
+VeriFone Inc.,11/13/2021 09:39:23 PM,11/13/2021 09:46:46 PM,1.0,1.51,Standard rate,N,239,237,Cash,7.5,0.5,0.5,0.0,0.0,0.3,11.3,2.5
+"Creative Mobile Technologies, LLC",11/09/2021 10:04:00 PM,11/09/2021 10:16:38 PM,1.0,3.1,Standard rate,N,186,141,Credit card,12.0,3.0,0.5,3.95,0.0,0.3,19.75,2.5
+VeriFone Inc.,11/04/2021 02:12:26 PM,11/04/2021 02:26:45 PM,2.0,2.02,Standard rate,N,143,161,Credit card,11.0,0.0,0.5,2.86,0.0,0.3,17.16,2.5
+"Creative Mobile Technologies, LLC",11/12/2021 05:31:54 PM,11/12/2021 05:43:02 PM,3.0,1.4,Standard rate,N,164,68,Credit card,8.5,3.5,0.5,2.0,0.0,0.3,14.8,2.5
+VeriFone Inc.,11/01/2021 08:39:51 AM,11/01/2021 08:53:39 AM,1.0,2.68,Standard rate,N,238,50,Credit card,11.5,0.0,0.5,2.96,0.0,0.3,17.76,2.5
+"Creative Mobile Technologies, LLC",11/28/2021 05:31:28 PM,11/28/2021 05:38:11 PM,2.0,1.6,Standard rate,N,162,263,Credit card,7.0,2.5,0.5,1.0,0.0,0.3,11.3,2.5
+VeriFone Inc.,11/06/2021 04:12:13 PM,11/06/2021 04:20:23 PM,1.0,1.88,Standard rate,N,137,140,Credit card,8.0,0.0,0.5,1.7,0.0,0.3,13.0,2.5
+"Creative Mobile Technologies, LLC",11/24/2021 04:53:17 PM,11/24/2021 04:58:49 PM,3.0,1.3,Standard rate,N,238,151,Credit card,6.5,3.5,0.5,2.15,0.0,0.3,12.95,2.5
+VeriFone Inc.,11/23/2021 11:30:08 AM,11/23/2021 11:37:18 AM,1.0,0.73,Standard rate,N,140,237,Cash,6.0,0.0,0.5,0.0,0.0,0.3,9.3,2.5
+VeriFone Inc.,11/13/2021 11:19:05 AM,11/13/2021 11:34:52 AM,1.0,4.74,Standard rate,N,50,236,Credit card,17.0,0.0,0.5,4.06,0.0,0.3,24.36,2.5
+VeriFone Inc.,11/05/2021 11:07:39 PM,11/05/2021 11:32:12 PM,1.0,5.91,Standard rate,N,142,261,Credit card,21.0,0.5,0.5,3.2,0.0,0.3,28.0,2.5
+VeriFone Inc.,11/03/2021 07:07:56 PM,11/03/2021 07:09:30 PM,2.0,0.41,Standard rate,N,140,262,Credit card,3.5,1.0,0.5,1.0,0.0,0.3,8.8,2.5
+VeriFone Inc.,11/11/2021 08:08:06 PM,11/11/2021 08:19:38 PM,1.0,1.9,Standard rate,N,141,142,Credit card,9.5,0.0,0.5,2.56,0.0,0.3,15.36,2.5
+VeriFone Inc.,11/29/2021 01:02:56 PM,11/29/2021 01:17:19 PM,1.0,1.89,Standard rate,N,43,161,Credit card,11.0,0.0,0.5,4.29,0.0,0.3,18.59,2.5
+VeriFone Inc.,11/14/2021 08:58:05 AM,11/14/2021 08:59:52 AM,1.0,0.74,Standard rate,N,43,43,Credit card,4.0,0.0,0.5,1.46,0.0,0.3,8.76,2.5
+VeriFone Inc.,11/10/2021 11:47:33 AM,11/10/2021 11:51:48 AM,1.0,0.8,Standard rate,N,48,161,Cash,5.0,0.0,0.5,0.0,0.0,0.3,8.3,2.5
+VeriFone Inc.,11/12/2021 11:39:49 PM,11/12/2021 11:50:12 PM,1.0,3.01,Standard rate,N,170,236,Credit card,10.5,0.5,0.5,1.0,0.0,0.3,15.3,2.5
+"Creative Mobile Technologies, LLC",11/20/2021 07:46:36 PM,11/20/2021 07:50:15 PM,1.0,0.5,Standard rate,N,230,170,Credit card,4.0,2.5,0.5,2.15,0.0,0.3,9.45,2.5
+VeriFone Inc.,11/24/2021 07:20:16 PM,11/24/2021 07:30:12 PM,1.0,1.35,Standard rate,N,237,229,Credit card,8.0,1.0,0.5,0.0,0.0,0.3,12.3,2.5
+VeriFone Inc.,11/25/2021 04:44:01 PM,11/25/2021 04:51:58 PM,1.0,1.73,Standard rate,N,143,151,Credit card,8.0,0.0,0.5,2.0,0.0,0.3,13.3,2.5
+VeriFone Inc.,11/16/2021 04:27:46 PM,11/16/2021 05:08:41 PM,1.0,4.29,Standard rate,N,161,166,Credit card,25.5,1.0,0.5,3.0,0.0,0.3,32.8,2.5
+"Creative Mobile Technologies, LLC",11/07/2021 07:25:56 PM,11/07/2021 07:38:42 PM,2.0,1.5,Standard rate,N,163,186,Credit card,9.5,2.5,0.5,3.8,0.0,0.3,16.6,2.5
+"Creative Mobile Technologies, LLC",11/20/2021 02:55:51 AM,11/20/2021 03:04:12 AM,2.0,1.5,Standard rate,N,249,148,Credit card,7.5,3.0,0.5,2.0,0.0,0.3,13.3,2.5
+VeriFone Inc.,11/22/2021 08:30:32 PM,11/22/2021 08:39:36 PM,2.0,0.97,Standard rate,N,229,237,Credit card,7.5,0.5,0.5,0.0,0.0,0.3,11.3,2.5
+VeriFone Inc.,11/21/2021 01:26:02 AM,11/21/2021 01:43:46 AM,1.0,4.81,Standard rate,N,148,236,Credit card,16.5,0.5,0.5,4.06,0.0,0.3,24.36,2.5
+"Creative Mobile Technologies, LLC",11/11/2021 06:58:00 PM,11/11/2021 07:01:38 PM,4.0,0.5,Standard rate,N,162,237,Credit card,4.5,2.5,0.5,1.55,0.0,0.3,9.35,2.5
